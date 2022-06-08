@@ -1,0 +1,896 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Tính toán thiết bị sử dụng năng lượng mặt trời</title>
+  <metadata>
+  <md:content-id>m30558</md:content-id><md:title>Tính toán thiết bị sử dụng năng lượng mặt trời</md:title>
+  <md:abstract>Tính toán thiết bị sử dụng năng lượng mặt trời</md:abstract>
+  <md:uuid>e599cead-8330-47be-aaa4-ead92e3c9ccf</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-361728014592">
+      <title>TÍNH TOÁN THIẾT BỊ SỬ DỤNG NĂNG LƯỢNG MẶT TRỜI</title>
+      <para id="id10248703">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-772979903091">
+      <title>Bếp năng lượng mặt trời</title>
+      <section id="id-306040193063">
+        <title>Cấu tạo bếp NLMT</title>
+        <para id="id9649036"><figure id="id9649062"><media id="id1168004745759" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="313" width="573"/></media></figure> Hình 4.1. Cấu tạo bếp nấu NLMT</para>
+        <para id="id9649096">1- Hộp ngoài 2 - Mặt phản xạ </para>
+        <para id="id9649112">3- Nồi 4- Nắp kính trong</para>
+        <para id="id9649125">5- Gương phẳng phản xạ </para>
+        <para id="id9649136">6- Bông thủy tinh 7- Đế đặt nồi </para>
+        <para id="id9649147">Bếp NLMT được thiết kế như hình vẽ, hộp ngoài của bếp được làm bằng khung gỗ hình khối hộp chữ nhật bên ngoài đóng 1 lớp ván ép, phía trong là mặt nhôm được đánh bóng để phản xạ, biên dạng của mặt phản xạ được thiết kế là mặt kết hợp của các parabol tròn xoay (hình 4.1) sao cho nồi nấu có thể nhận được chùm tia trực xạ của ánh sáng mặt trời và chùm phản xạ từ gương phẳng khi đặt cố định, gương phản xạ có thể gấp lại khi không dùng, giữa mặt phản xạ và hộp ngoài là lớp bông thủy tinh cách nhiệt, phía trên bếp có một nắp kính nhằm cách nhiệt và tạo hiệu ứng lồng kính.</para>
+      </section>
+      <section id="id-962631225371">
+        <title> Tính toán thiết kế bếp</title>
+        <para id="id9649233">Hình 4.2. Kích thước của bếp</para>
+        <para id="id9649242">Bếp gồm mặt kính nhận nhiệt có đường kính d2, hệ số truyền qua D, gương phản xạ có hệ số phản xạ Rg, mặt phản xạ parabol có hệ số phản xạ Rp, nồi nấu làm bằng Inox sơn đen có hệ số hấp thụ , đường kính d1, chiều dày o, khối lượng riêng o, nhiệt dung riêng C, chiều cao h, chứa đầy nước có nhiệt dung riêng Cp , khối lượng riêng n . Do mặt phẳng qũy đạo của mặt trời tại Đà Nẵng và Quảng Nam nghiêng một góc khoảng 20o so với mặt thắng đứng nên tính toán cho góc tới  = 70o. Cường độ bức xạ mặt trời lấy trung bình lúc nấu (11h-12h) ở tỉnh Quảng Nam là E = 940W/m2.</para>
+        <para id="id9649409">Trong khoảng thời gian  bếp sẽ thu từ mặt trời 1 lượng nhiệt bằng Q1: </para>
+        <para id="id9649439">Q1 = .E.sin .F. , [J].</para>
+        <para id="id9649483">trong đó F = [D.F1 + Rg.D.F1 + Rp.D.F2 + Rp.Rg.D.F2]</para>
+        <para id="id9649562">F1  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{1}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math> , F2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>2</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{2}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math> - F1 , </para>
+        <para id="id9649770">Lượng nhiệt nhận được của bộ thu Q1 dùng để:</para>
+        <para id="id9649788">- Làm tăng nội năng của nồi U = mo.C.(ts - to)</para>
+        <para id="id9649832">- Làm tăng entanpy nước Im = mn.CP(ts - to)</para>
+        <para id="id9649891">- Tổn thất ra môi trường xung quanh Q2</para>
+        <para id="id9649909">trong đó m = d1.h.o.o + 2.o.o.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{1}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math> [kg], m =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{1}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math>.h.n [kg], </para>
+        <para id="id9650156">Do nồi được đặt trên đế có diện tích tiếp xúc nhỏ và có vỏ bọc cách nhiệt bên ngoài nên có thể xem Q2  0.</para>
+        <para id="id9650186">Vậy ta có phương trình cân bằng nhiệt cho bếp:</para>
+        <para id="id9650193">Q1 = mo.C.(ts - to) + mn.CP(ts - to) </para>
+        <para id="id9650272">Hay: .E.sin. F. =(d1.h.o.o + 2.o.o.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{1}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math>) C.(ts - to) + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">πd</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:msup><m:mn>1</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:msub><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {πd rSub { size 8{1}   rSup { size 8{2} } } }  over  {4} } } {}</m:annotation></m:semantics></m:math>.h.n CP(ts - to)</para>
+        <para id="id9650578">Thay các giá trị : E = 940 W/m2 ,  = 0,9 , =70o , D = 0,9, Rg =0,9 , Rp = 0,9, </para>
+        <para id="id9650641">o =0,001m, o =7850kg/m3, ts = 100oC, to = 25oC, C = 460 J/kgđộ, </para>
+        <para id="id9650733">n = 1000kg/m3 , Cp = 4200J/kgđộ , d1 = 0,25m, h= 0,2m , tính được </para>
+        <para id="id9650782">m =1,75kg mn=9,8kg</para>
+        <para id="id9650802">=&gt; F.  = 3884 hay (1,22d22 +0,08) . = 3884</para>
+        <para id="id9650850">Quan hệ giữa đường kính mặt nhận nhiệt d2 và thời gian : d2() được biểu diễn trên hình 3.3.</para>
+        <para id="id9650898"><figure id="id9650923"><media id="id1168001732722" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="277" width="403"/></media></figure>Hình 4.3. Đồ thị quan hệ d2()Từ quan hệ này có thể tính được đường kính mặt thu theo thời gian yêu cầu.</para>
+        <para id="id9650985">Ví dụ: </para>
+        <para id="id9650997">nếu  = 1h =3600s thì ta có d2 = 0,8m, tức là nếu d2 = 0,8m thì ta có thể đun sôi 9,8 kg nước trong thời gian 1h. Trong thực tế đã chế tạo bếp nấu có kích thước như trên và đã đun sôi 9 lít nước sau 55 phút. Phương pháp tính toán trên đã được áp dụng để thiết kế, chế tạo các loại bếp với nồi nấu có dung tích từ 2 đến 10 lít để triển khai ứng dụng vào thực tế. </para>
+      </section>
+    </section>
+    <section id="id-355204877161">
+      <title>Bộ thu năng lượng mặt trời để cấp nước nóng</title>
+      <section id="id-468952192067">
+        <title>Bộ thu phẳng</title>
+        <section id="id-749597228241">
+          <title>Cấu tạo và phân loại bộ thu phẳng</title>
+          <para id="id9651070"><figure id="id9651095"><media id="id1167999402835" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="234" width="335"/></media></figure>Hình 4.4. Cấu tạo Collectorhấp thụ nhiệt1- Lớp cách nhiệt, <list id="id9651159" list-type="enumerated"><item>Lớp đệm tấm phủ trong suốt,</item></list>3- Tấm phủ trong suốt, 4 - Đường nước nóng ra, 5 - Bề mặt hấp thụ nhiệt, <list id="id9651186" list-type="enumerated"><item>Lớp tôn bọc, </item><item>Đường nước lạnh vào, </item></list>8- Khung đở Collector </para>
+          <para id="id9651207"/>
+          <para id="id9651216">Không thể có một kiểu Collector nào mà hoàn hảo về mọi mặt và thích hợp cho mọi điều kiện, tuy nhiên tùy theo từng điều kiện cụ thể chúng ta có thể tạo cho mình một loại Collector hợp lý nhất. Trong các bộ phận cấu tạo nên Colletor, bộ phận quan trọng nhất và có ảnh hưởng lớn đến hiệu qủa sử dụng của Collector là bề mặt hấp thụ nhiệt. Sau đây là một số so sánh cho việc thiết kế và chế tạo bề mặt hấp thụ nhiệt của Collector mà thỏa mãn một số chỉ tiêu như: giá thành, hiệu quả hấp thụ và mức độ thuận tiện trong việc chế tạo.</para>
+          <para id="id9651244">Sau đây là 3 mẫu Collector có bề mặt hấp thụ nhiệt đơn giản, hiệu quả hấp thụ cao có thể chế tạo dễ dàng ở điều kiện Việt nam.</para>
+          <para id="id9651255"><figure id="id9651280"><media id="id7187860" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="228" width="313"/></media></figure>Hình 4.5. Bề mặt hấp thụ nhiệt dạng ống hình rắn gắn trên tấm hấp thụ<figure id="id9651353"><media id="id1167992652489" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="224" width="320"/></media></figure>Hình 4.6. Dải tấm hấp thụ được đan xen vào bề mặt hấp thụ dạng dãy ống<media id="id1167996778591" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="348" width="565"/></media> Hình 4.7. Bề mặt hấp thụ dạng tấm</para>
+          <para id="id9651482">Sau khi thiết kế chế tạo, đo đạc tính tóan và kiểm tra so sánh ta thu được bảng tổng kết sau:</para>
+          <table id="id9651490" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Loại bề mặthấp thụ</entry>
+                  <entry>Dạng ống hình rắn</entry>
+                  <entry>Dạng dãy ống</entry>
+                  <entry>Dạng dãy ống</entry>
+                  <entry>Dạng tấm </entry>
+                </row>
+                <row>
+                  <entry>Cách gắn vớitấm hấp thụ</entry>
+                  <entry>Đan xenvào nhau</entry>
+                  <entry>Dùng vòng dây kim loại</entry>
+                  <entry>Đan xenvào nhau</entry>
+                  <entry>Hàn đính</entry>
+                </row>
+                <row>
+                  <entry>Hiệu suấthấp thụ nhiệt </entry>
+                  <entry>Giảm 10%</entry>
+                  <entry>Giảm 10%</entry>
+                  <entry>Chuẩn</entry>
+                  <entry>Bằng chuẩn</entry>
+                </row>
+                <row>
+                  <entry>Giá của vật liệuvà năng lượng ctạo</entry>
+                  <entry>Giảm 4%</entry>
+                  <entry>Tăng 2% </entry>
+                  <entry>Chuẩn</entry>
+                  <entry>Tăng 4%</entry>
+                </row>
+                <row>
+                  <entry>Thời gian cần gia công chế tạo</entry>
+                  <entry>Giảm 20%</entry>
+                  <entry>Giảm 10%</entry>
+                  <entry>Chuẫn</entry>
+                  <entry>Tăng 50%</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9651833"> Từ các kết quả kiểm tra và so sánh ở trên ta có thể rút ra một số kết luận như sau:</para>
+          <list id="id9651843" list-type="enumerated">
+            <item>Loại bề mặt hấp thụ dạng dãy ống có kết quả thích hợp nhất về hiệu suất hấp thụ nhiệt , giá thành cũng như công và năng lượng cần thiết cho việc chế tạo. Tuy nhiên nếu trong trường hợp không có điều kiện để chế tạo thì chúng ta có thể chọn loại bề mặt hấp thụ dạng hình rắn. Bề mặt hấp thụ dạng tấm cũng có kết quả tốt như loại dạng dãy ống nhưng đòi hỏi nhiều công và khó chế tạo hơn.</item>
+            <item>Tấm hấp thụ được gắn vào ống hấp thụ bằng cách đan xen từng dải nhỏ là có hiệu quả nhất. Ngoài ra tấm hấp thụ có thể gắn vào ống hấp thụ bằng phương pháp hàn, với phương pháp này thì hiệu quả hấp thụ cao hơn nhưng mất nhiều thời gian và giá thành cao hơn. </item>
+          </list>
+        </section>
+        <section id="id-211361966902">
+          <title>Tính toán bộ thu phẳng</title>
+          <para id="id9651894">Khảo sát panel mặt trời với hộp thu kích thước axbx, khối lượng mo, nhiệt dung riêng Co được làm bằng thép dày t, bên trong gồm chất lỏng tĩnh có khối lượng m, và lưu lượng G[kg/s] chảy liên tục qua hộp. Xung quanh hộp thu bọc 1 lớp cách nhiệt, tỏa nhiệt ra không khí với hệ số . Phía trên mặt thu F1= ab với độ đen  là 1 lớp không khí và 1 tấm kính có độ trong D. Chiều dày và hệ số dẫn nhiệt của các lớp này là c, k , K và c, k, K.</para>
+          <para id="id9652061">Cường độ bức xạ mặt trời tới mặt kính tại thời điểm  là E() = Ensin( , với ( ) =  là góc nghiêng của tia nắng với mặt kính,  = 2 /n và n = 24 x 3600s là tốc độ góc và chu kỳ tự quay của trái đất, En là cường độ bức xạ cực đại trong ngày, lấy bằng trị trung bình trong năm tại vĩ độ đang xét. Lúc mặt trời mọc  = 0, nhiệt độ đầu của panel và chất lỏng bằng nhiệt độ to của không khí ngoài trời. </para>
+          <para id="id9626942">Cần tìm hàm phân bố nhiệt độ chất lỏng trong panel theo thời gian  và tất cả các thông số đã cho: t = t (, abt, mo.Co, m.Cp,  D F1 , G, c, k , K, c, k, K , , to , , En ).</para>
+          <para id="id9627130">Các giả thiết khi nghiên cứu:</para>
+          <list id="id9627142" list-type="bulleted">
+            <item>Panel được đặt cố định trong mỗi ngày, sao cho mặt thu F1 vuông góc với mặt </item>
+          </list>
+          <para id="id9627167">phẳng quỹ đạo trái đất.</para>
+          <para id="id9627175">- Tại mỗi thời điểm , coi nhiệt độ chất lỏng và hộp thu đồng nhất, bằng t().</para>
+          <para id="id9627210">Lập phương trình vi phân cân bằng nhiệt cho hộp thu:</para>
+          <para id="id9627224">Khi panel đặt cố định (tĩnh). Xét cân bằng nhiệt cho hệ gồm chất lỏng và hộp kim loại, trong khoảng thời gian d kể từ thời điểm .</para>
+          <para id="id9627266">Mặt F1 hấp thụ từ mặt trời 1 lượng nhiệt bằng:</para>
+          <para id="id9627287">Q1 = 1DEnsin. F1.sin.d, [J].</para>
+          <para id="id9627370"><figure id="id9627381"><media id="id1167999351295" alt=""><image src=".wmf" mime-type="image/wmf" height="287" width="520"/></media></figure>Hình 4.8. Mô hình tính toán bộ thu phẳng</para>
+          <para id="id9627428">Lượng nhiệt Q1 được phân ra các thành phần để: </para>
+          <para id="id9627455">- Làm tăng nội năng vỏ hộp dU = mo.Codt, </para>
+          <para id="id9627486">- Làm tăng entanpy lượng nước tĩnh dIm = m.Cpdt ,</para>
+          <para id="id9627517">- Làm tăng entanpy dòng nước dIG = Gd Cp (t - to) ,</para>
+          <para id="id9627565">- Truyền nhiệt ra không khí ngoài trời qua đáy F3 = ab và các mặt bên </para>
+          <para id="id9627592">F2 = 2(a+b) với hệ số truyền nhiệt k3 = k2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>α</m:mi></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{c} } }  over  {λ rSub { size 8{c} } } } + {  {1}  over  {α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>, qua mặt thu </para>
+          <para id="id9627746">F1= ab với k1 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1,3</m:mn><m:mi>α</m:mi></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{k} } }  over  {λ rSub { size 8{k} } } } + {  {δ rSub { size 8{K} } }  over  {λ rSub { size 8{K} } } } + {  {1}  over  {1,3α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id9627910">Vậy có tổng lượng nhiệt bằng Q2 = (k1F1 + k2F2 + k3F3) (t - to) d ; </para>
+          <para id="id9628004">Do đó, phương trình cân bằng nhiệt: Q1 = dU + dIm + dIG + Q2 sẽ có dạng:</para>
+          <para id="id9628075">1DEt Ft sin2 () d = dt miCi + (GCp +  ki Fi) (t - to) d. </para>
+          <para id="id9628202">Sau phép đổi biến T() = t() - to và đặt a = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>ε</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>DE</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>P</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ε ital "DE" rSub { size 8{n} } F rSub { size 8{1} } }  over  { Sum {m rSub { size 8{i} } C rSub { size 8{i} } } } } = {  {P}  over  {C} } } {}</m:annotation></m:semantics></m:math>, [K/s], </para>
+          <para id="id9628360">b = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:msub><m:mi>k</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow><m:mrow><m:mo stretchy="false">∑</m:mo><m:mrow><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>W</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "GC" rSub { size 8{p} } + Sum {k rSub { size 8{i} } F rSub { size 8{i} } } }  over  { Sum {m rSub { size 8{i} } C rSub { size 8{i} } } } } = {  {W}  over  {C} } } {}</m:annotation></m:semantics></m:math>, [s-1] thì phương trình cân bằng nhiệt cho panel tĩnh là:</para>
+          <para id="id9628518"> T’() + bT() = a sin2() (4.1)</para>
+          <para id="id9628626"> với điều kiện đầu T(0) = 0 (4.2)</para>
+          <para id="id9628645">Khi panel động được quay để diện tích hứng nắng luôn bằng F1, thì mặt F1 hấp thụ được: Q1 = 1DEnsin. F1.d, [J]. Do đó, tương tự như trên, phương trình cân bằng nhiệt cho panel động có dạng:</para>
+          <para id="id9628752"> T’() + bT() = a sin() (4.3)</para>
+          <para id="id9628856"> với điều kiện đầu T(0) = 0 (4.4)</para>
+          <para id="id9628872">Xác định hàm phân bố nhiệt độ:</para>
+          <para id="id9628878">Hàm nhiệt độ trong panel tĩnh sẽ được tìm ở dạng T() = A() e-b. </para>
+          <para id="id9628920">Theo phương trình (3.1) ta có: </para>
+          <para id="id9628926">A () = a eb sin2.d = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2} } } {}</m:annotation></m:semantics></m:math> eb (1- cos2)d = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>( eb - I ) </para>
+          <para id="id9629152">với: I =  cos2 .deb = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mstyle></m:msup><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">(</m:mo><m:mn>2ω</m:mn><m:mtext>sin</m:mtext><m:mn>2</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ωτ</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:mi>b</m:mi></m:mrow><m:mtext>cos</m:mtext><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ωτ</m:mtext></m:mrow></m:mstyle><m:mrow><m:mo stretchy="false">)</m:mo><m:mo stretchy="false">−</m:mo><m:msup><m:mfenced open="" close=""><m:mfrac><m:mn>2ω</m:mn><m:mi>b</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mi>I</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{bτ} } }  over  {b} }  \( 2ω"sin"2 ital "ωτ"+b"cos"2 ital "ωτ" \)  -  left ( {  {2ω}  over  {b} }  right ) rSup { size 8{2} } I} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id9629334">tức là: I = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>be</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "be" rSup { size 8{bτ} } }  over  {4ω rSup { size 8{2} } +b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math> [2sin2 + bcos 2] + C1  </para>
+          <para id="id9629477">Hằng số C1 được xác định theo điều kiện đầu T(0) = 0 hay A(0) = 0, tức là C1 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mn>2ω</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {1+ \( b/2ω \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>. Do đó, hàm phân bố nhiệt độ chất lỏng trong panel tĩnh có dạng: </para>
+          <para id="id9629597">T() = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>[1-
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:mrow><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {4ω rSup { size 8{2} } +b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>(2sin2 + bcos2) - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mn>2ω</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{ - bτ} } }  over  {1+ \( b/2ω \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>] (4.5)</para>
+          <para id="id9629881">Nếu dùng phép biến đổi (Asinx + Bcosx) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mi>A</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>B</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {A rSup { size 8{2} } +B rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>sin (x + artg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>B</m:mi><m:mi>A</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {B}  over  {A} } } {}</m:annotation></m:semantics></m:math>) thì hàm (3.5) sẽ có dạng:</para>
+          <para id="id9630017">T() = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>[1-
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>sin(2 + artg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {2ω} } } {}</m:annotation></m:semantics></m:math> ) - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mn>2ω</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{ - bτ} } }  over  {1+ \( b/2ω \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>]  (3.6) </para>
+          <para id="id10433041">Số hạng cuối của tổng có giá trị nhỏ hơn 1 và giảm rất nhanh, nên khi  &gt;1h có thể bỏ qua.</para>
+          <para id="id10433062">Hàm nhiệt độ trong panel động là nghiệm của hệ phương trình (4.3), (4.4), được tìm như cách trên, sẽ có dạng:</para>
+          <para id="id10433075">Tđ() = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mi>b</m:mi><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">/</m:mo><m:mi>b</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b sqrt {1+ \( ω/b \)  rSup { size 8{2}  } } } } } {}</m:annotation></m:semantics></m:math>[sin( + artg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>ω</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ω}  over  {b} } } {}</m:annotation></m:semantics></m:math> ) - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mrow></m:mstyle></m:msup><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mi>ω</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{ - bτ} } }  over  { sqrt {1+ \( b/ω \)  rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>]  (4.7)</para>
+          <para id="id10433365">Số hạng sau của tổng luôn nhỏ hơn 1 và giảm khá nhanh, nên khi  &gt;2h có thể bỏ qua.</para>
+          <para id="id10433385">Các hàm phân bố (4.6) và (4.7) sẽ được mô tả ở hình 4.9 và hình 4.10. </para>
+          <para id="id10433400">Lập công thức tính toán cho panel tĩnh và động:</para>
+          <para id="id10433406">Sử dụng các hàm phân bố (4.6) và (4.7) dễ dàng lập được các công thức tính các thông số kỹ thuật đặc trưng cho panel tĩnh và động.</para>
+          <para id="id10433416">Panel tĩnh đạt nhiệt độ cực đại Tm =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>(1+
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>) </para>
+          <para id="id10433565">lúc m = n(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {3}  over  {8} }  -  {  {1}  over  {4π} }  ital "artg" {  {b}  over  {2ω} } } {}</m:annotation></m:semantics></m:math>).</para>
+          <para id="id10433680">Panel động đạt nhiệt độ cực đại Tđm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mi>b</m:mi><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">/</m:mo><m:mi>b</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b sqrt {1+ \( ω/b \)  rSup { size 8{2}  } } } } } {}</m:annotation></m:semantics></m:math>&gt; Tm </para>
+          <para id="id10433801">lúc đm = n(
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>ω</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {4} } + {  {1}  over  {2π} }  ital "artg" {  {ω}  over  {b} } } {}</m:annotation></m:semantics></m:math>).</para>
+          <para id="id10433915">Sau khi tính nhiệt độ trung bình trong 1 ngày nắng cho mỗi panel theo công thức: Tn = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">(</m:mo><m:mi>τ</m:mi><m:mo stretchy="false">)</m:mo><m:mi fontstyle="italic">dτ</m:mi></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {τ rSub { size 8{n} } } }  Int rSub { size 8{0} }  rSup { size 8{τ rSub { size 6{n} } /2} }  {T \( τ \) dτ} } {}</m:annotation></m:semantics></m:math>,</para>
+          <para id="id10434054">Và dễ dàng tìm được công suất nhiệt hữu ích trung bình Qn= GCpTn, [W], lượng nhiệt thu được mỗi ngày Q = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } τ rSub { size 8{n} } Q rSub { size 8{n} } } {}</m:annotation></m:semantics></m:math>, [J], .v.v. </para>
+          <para id="id10434169">Hiệu suất nhiệt panel  = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mover accent="true"><m:mi>E</m:mi><m:mo>¯</m:mo></m:mover><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q rSub { size 8{n} } }  over  { {overline  {E}} F rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id10434268">với 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>E</m:mi><m:mo>¯</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {overline  {E}} } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mrow><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>sin</m:mtext><m:mn>2π</m:mn><m:mfrac><m:mi>τ</m:mi><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:mi fontstyle="italic">dτ</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2</m:mn><m:mi>π</m:mi></m:mfrac></m:mrow></m:mrow></m:mrow><m:msub><m:mi>E</m:mi><m:mi>n</m:mi></m:msub></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2}  over  {τ rSub { size 8{n} } } }  Int rSub { size 8{0} }  rSup { size 8{τ rSub { size 6{n} } /2} }  {E rSub { size 8{n} } "sin"2π {  {τ}  over  {τ rSub { size 8{n} } } } dτ= {  {2}  over  {π} } } E rSub {n} } {}</m:annotation></m:semantics></m:math>. Các công thức cụ thể cho các loại panel được giới thiệu ở bảng 4.2.</para>
+          <para id="id10434484">Các số liệu tính toán cho panel 1 m2 tĩnh và động:</para>
+          <para id="id10434502">Trong bảng 4.1 giới thiệu các số liệu tính toán cho mẫu panel 1m2 với hộp thu kích thước ab = 1 x 1 x 0,01 m3, được làm bằng thép tấm dày t = 0,001m, Co= 460 J/kgK , mặt thu F1 = 1m2 , độ đen  = 0,95, lớp không khí dày k = 0,01m, tấm kính dày K = 0,005 m , K = 0,8 W/mK , độ trong D = 0,95, lớp cách nhiệt bông thủy tinh dày C = 0,02 m, C = 0,055W/mK, dòng nước qua panel có G = 0,002 kg/s với nhiệt độ to = 30oC. Cường độ bức xạ cực đại En, lấy trung bình trong năm tại Đà nẵng, ở vĩ độ 16o bắc, là En = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>365</m:mtext></m:mfrac><m:mrow><m:mo stretchy="false">∑</m:mo><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ni</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"365"} }  Sum {E rSub { size 8{ ital "ni"} } } } {}</m:annotation></m:semantics></m:math>= 940 W/m2.</para>
+          <para id="id10434798">
+            <figure id="id10434824">
+              <media id="id1167996235318" alt=""><image src="graphics8.wmf" mime-type="image/wmf" height="396" width="534"/></media>
+            </figure>
+          </para>
+          <para id="id10434848">Hình 4.9. Hàm nhiệt độ khi tĩnh t() và khi động tđ() của panel 1m2 có W &gt; WS</para>
+          <para id="id10434900"/>
+          <para id="id10434904">Bảng 4.1. Các số liệu tính toán cho panel 1m2 </para>
+          <table id="id10434921" summary="">
+            <tgroup cols="4">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <tbody>
+                <row>
+                  <entry>Thông số tính toán</entry>
+                  <entry>Công thức tính</entry>
+                  <entry>Giá trị</entry>
+                  <entry>Đơn vị</entry>
+                </row>
+                <row>
+                  <entry>Hệ số tỏa nhiệt ra không khí</entry>
+                  <entry> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi fontstyle="italic">Σδ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {λ rSub { size 8{k} } }  over  {Σδ rSub { size 8{i} } } } } {}</m:annotation></m:semantics></m:math> C(GrPr)n </entry>
+                  <entry>8,5</entry>
+                  <entry>W/m2K</entry>
+                </row>
+                <row>
+                  <entry>Hệ số truyền nhiệt lên trên</entry>
+                  <entry>k1 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>k</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>K</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mrow><m:mn>1,3</m:mn><m:mi>α</m:mi></m:mrow></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{k} } }  over  {λ rSub { size 8{k} } } } + {  {δ rSub { size 8{K} } }  over  {λ rSub { size 8{K} } } } + {  {1}  over  {1,3α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>2,2</entry>
+                  <entry>W/m2K</entry>
+                </row>
+                <row>
+                  <entry>Hệ số truyền nhiệt qualớp cách nhiệt</entry>
+                  <entry>k2 = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>C</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>α</m:mi></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{C} } }  over  {λ rSub { size 8{C} } } } + {  {1}  over  {α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>2,1</entry>
+                  <entry>W/m2K</entry>
+                </row>
+                <row>
+                  <entry>Khối lượng vỏ hộp thu</entry>
+                  <entry>m0 = t t (2F1 + 4 )</entry>
+                  <entry>16</entry>
+                  <entry>kg</entry>
+                </row>
+                <row>
+                  <entry>Khối lượng nước tĩnh</entry>
+                  <entry>m =  F1 ( - 2 t)</entry>
+                  <entry>8</entry>
+                  <entry>kg</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt dung hộp nước</entry>
+                  <entry>C = m0Co + mCp</entry>
+                  <entry>40752</entry>
+                  <entry>J/K</entry>
+                </row>
+                <row>
+                  <entry>Dòng nhiệt dung qua hộp</entry>
+                  <entry>W = GCP + ki Fi</entry>
+                  <entry>12,7</entry>
+                  <entry>W/K</entry>
+                </row>
+                <row>
+                  <entry>Công suất hấp thụ max</entry>
+                  <entry>P =  D EnF1</entry>
+                  <entry>853,8</entry>
+                  <entry>W</entry>
+                </row>
+                <row>
+                  <entry>Tốc độ gia nhiệt max</entry>
+                  <entry>a = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>P</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {C} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>0,021</entry>
+                  <entry>K/s</entry>
+                </row>
+                <row>
+                  <entry>Tần số dao động riêngcủa panel</entry>
+                  <entry>b = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>W</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {W}  over  {C} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>3,13.10-4</entry>
+                  <entry>s-1</entry>
+                </row>
+                <row>
+                  <entry>Tốc độ góc tia nắng</entry>
+                  <entry> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>2π</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2π}  over  {τ rSub { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>7,27.10-5</entry>
+                  <entry>rad.s-1</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id10436334">Bảng 4.2. Công thức chung tính các thông số kỹ thuật đặc trưng và các số liệu cho panel nước nóng 1m2 có W &gt; WS.</para>
+          <table id="id10436362" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Thông số đặc trưng</entry>
+                  <entrytbl namest="c2" nameend="c5" cols="4">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Panel tĩnh</entry>
+                        <entry namest="c3" nameend="c4">Panel động</entry>
+                      </row>
+                      <row>
+                        <entry>Công thức tính</entry>
+                        <entry>Số liệu</entry>
+                        <entry>Công thức tính</entry>
+                        <entry>Số liệu</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Độ gianhiệt max</entry>
+                  <entry>Tm =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {a}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } }  \) } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>64 oC</entry>
+                  <entry>Tđm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mi>b</m:mi><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">/</m:mo><m:mi>b</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b sqrt {1+ \( ω/b \)  rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>65,4 oC</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ max</entry>
+                  <entry>tm=to+
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>)</entry>
+                  <entry>94 oC</entry>
+                  <entry>Tđm = to+
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mrow><m:mi>b</m:mi><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">/</m:mo><m:mi>b</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {b sqrt {1+ \( ω/b \)  rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>95,4 oC</entry>
+                </row>
+                <row>
+                  <entry>Thời điểmđạt Tm</entry>
+                  <entry>m=n
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {8} }  -  {  {1}  over  {4π} }  ital "artg" {  {b}  over  {2ω} }  right )} {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>6,8h</entry>
+                  <entry>đm=n
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>2π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>ω</m:mi><m:mi>b</m:mi></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {1}  over  {4} } + {  {1}  over  {2π} }  ital "artg" {  {ω}  over  {b} }  right )} {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>6,9h</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độcuối ngày</entry>
+                  <entry>tc = to + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mn>2aω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2aω rSup { size 8{2} } }  over  {b \( 4ω rSup { size 8{2} } +b rSup { size 8{2} }  \) } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>36 oC</entry>
+                  <entry>tđc = to + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi fontstyle="italic">aω</m:mi><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {aω}  over  {ω rSup { size 8{2} } +b rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>45 oC</entry>
+                </row>
+                <row>
+                  <entry>Độ gia nhiệt TB</entry>
+                  <entry>Tn=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>34 oC</entry>
+                  <entry>Tđn=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi fontstyle="italic">πb</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a left (ω rSup { size 8{2} } +2b rSup { size 8{2} }  right )}  over  {πb left (ω rSup { size 8{2} } +b rSup { size 8{2} }  right )} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>42 oC</entry>
+                </row>
+                <row>
+                  <entry>Công suất hữu ích TB</entry>
+                  <entry>Qn= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>GCp</entry>
+                  <entry>280 W</entry>
+                  <entry>Qđn= GCp
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi fontstyle="italic">πb</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a left (ω rSup { size 8{2} } +2b rSup { size 8{2} }  right )}  over  {πb left (ω rSup { size 8{2} } +b rSup { size 8{2} }  right )} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>349 W</entry>
+                </row>
+                <row>
+                  <entry>Sản lượng nhiệt 1 ngày</entry>
+                  <entry>Q =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">aτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {aτ rSub { size 8{n} } }  over  {4b} } } {}</m:annotation></m:semantics></m:math>GCp</entry>
+                  <entry>12MJ</entry>
+                  <entry>Qđ=GCp
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2} } } {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>a</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:mrow><m:mi fontstyle="italic">πb</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a left (ω rSup { size 8{2} } +2b rSup { size 8{2} }  right )}  over  {πb left (ω rSup { size 8{2} } +b rSup { size 8{2} }  right )} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>15MJ</entry>
+                </row>
+                <row>
+                  <entry>Sản lượngnước nóng</entry>
+                  <entry>M = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2} } G} {}</m:annotation></m:semantics></m:math>, tn = to + Tn</entry>
+                  <entry>86kgở 64oC</entry>
+                  <entry>M = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2} } G} {}</m:annotation></m:semantics></m:math>, tđn = to + Tđn</entry>
+                  <entry>86kgở 72oC</entry>
+                </row>
+                <row>
+                  <entry>Hiệu suất nhiệt panel</entry>
+                  <entry>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>π</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>aGC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bEnF</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π ital "aGC" rSub { size 8{p} } }  over  {4 ital "bEnF" rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>46%</entry>
+                  <entry>=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi>a</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>2b</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bEnF</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "GC" rSub { size 8{p} } a left (ω rSup { size 8{2} } +2b rSup { size 8{2} }  right )}  over  {2 ital "bEnF" rSub { size 8{1} }  left (ω rSup { size 8{2} } +b rSup { size 8{2} }  right )} } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>58%</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id10439333">Điều kiện để chất lỏng sôi trong panel:</para>
+          <para id="id10439338">Để thu được nước sôi có nhiệt độ ts cần có điều kiện tm  ts hay Tm  ts - to = Ts.</para>
+          <para id="id10439421">Điều kiện sôi trong panel động là:</para>
+          <para id="id10439426">Tđm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>P</m:mi><m:mrow><m:mi>C</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {C sqrt {b rSup { size 8{2} } +ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>  Ts hay b = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>W</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {W}  over  {C} } } {}</m:annotation></m:semantics></m:math>  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>P</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { left ( {  {P}  over  { ital "CT" rSub { size 8{s} } } }  right ) rSup { size 8{2} }  - ω rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+          <para id="id10439711">Do đó cần chọn C và W sao cho thỏa mãn 2 điều kiện:</para>
+          <para id="id10439717"> C =  miCi  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>P</m:mi><m:msub><m:mi fontstyle="italic">ωT</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {ωT rSub { size 8{s} } } } } {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>ε</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>DE</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mn>2π</m:mn><m:mo stretchy="false">(</m:mo><m:mrow><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ε ital "DE" rSub { size 8{n} } F rSub { size 8{1} } τ rSub { size 8{n} } }  over  {2π \( t rSub { size 8{s} }  - t rSub { size 8{o} }  \) } } } {}</m:annotation></m:semantics></m:math> = CS, [J/K]</para>
+          <para id="id10440018">W = GCp+  kiFi  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mrow><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>P</m:mi><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">−</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mi fontstyle="italic">Cω</m:mi><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { left ( {  {P}  over  {T rSub { size 8{s} } } }  right ) rSup { size 8{2} }  -  \( Cω \)  rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>ω</m:mi><m:msqrt><m:mrow><m:msubsup><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msubsup><m:mo stretchy="false">−</m:mo><m:msup><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω sqrt {C rSub { size 8{S} }  rSup { size 8{2} }  - C rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math> = WSđ , [W/K] Điều kiện thứ 2 sẽ được đáp ứng nếu  kiFi &lt; WSđ và chọn G  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {C rSub { size 8{p} } } } } {}</m:annotation></m:semantics></m:math>(WSđ -  kiFi).</para>
+          <para id="id9635840">Điều kiện sôi trong panel tĩnh là:</para>
+          <para id="id9635844">Tm = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {a}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } }  \) } {}</m:annotation></m:semantics></m:math>  TS hay W  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>P</m:mi><m:msub><m:mn>2T</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mfenced open="[" close="]"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>2ωC</m:mn><m:mo stretchy="false">/</m:mo><m:mi>W</m:mi></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {2T rSub { size 8{S} } } }  left [1+ {  {1}  over  { sqrt {1+ \( 2ωC/W \)  rSup { size 8{2} } } } }  right ]} {}</m:annotation></m:semantics></m:math>. </para>
+          <para id="id9636112">Điều kiện này sẽ được đáp ứng nếu chọn: </para>
+          <para id="id9636117">C &lt; CS ,  kiFi &lt; WS và G &lt; 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {C rSub { size 8{p} } } } } {}</m:annotation></m:semantics></m:math>(WS -  kiFi). = GS, </para>
+          <para id="id9636274">với WS là nghiệm của phương trình WS = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>P</m:mi><m:msub><m:mn>2T</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mfenced open="[" close="]"><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mn>2ωC</m:mn><m:mo stretchy="false">/</m:mo><m:msub><m:mi>W</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {P}  over  {2T rSub { size 8{S} } } }  left [1+ {  {1}  over  { sqrt {1+ \( 2ωC/W rSub { size 8{S} }  \)  rSup { size 8{2} } } } }  right ]} {}</m:annotation></m:semantics></m:math></para>
+          <para id="id9636422">Với panel 1 m2 đặt tại Đà nẵng, thì CS = 167 kJ/K, WSđ = 11,8 W/K, Ws=11,5W/K, </para>
+          <para id="id9636466">GS = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {C rSub { size 8{p} } } } } {}</m:annotation></m:semantics></m:math>(WS -  kiFi) = 0,0017 kg/s.</para>
+          <para id="id9636578">Công thức tính thời gian và lượng nước sôi:</para>
+          <para id="id9636587">Thời điểm đạt nhiệt độ sôi tS được xác định bởi phương trình t(S) = tS hay T(S) = tS-to = TS. </para>
+          <para id="id9636666">Giải phương trình T(S) = TS cho mỗi loại panel, sẽ thu được 2 nghiệm S1, và S2. Thời gian sôi sẽ là  = S2 - S1 và lượng nước sôi thu được là GS = GS. Các công thức tính S1,S2, S, GS sẽ đươc giới thiệu ở bảng 3.3.</para>
+          <para id="id9636829">Với panel ở trên , đã có C &lt; CS ,  kiFi &lt; WS , nếu chọn G =0,001kg/s &lt;GS thì sẽ đạt được điều kiện sôi cả khi tĩnh và khi động, các quá trình sôi được mô tả ở hình 2.10. </para>
+          <para id="id9636899">Bảng 4.3. Các công thức nhiệt và các số liệu cho panel nước sôi1m2 có W &lt; WS.</para>
+          <table id="id9636926" summary="">
+            <tgroup cols="5">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <colspec colnum="3" colname="c3"/>
+              <colspec colnum="4" colname="c4"/>
+              <colspec colnum="5" colname="c5"/>
+              <tbody>
+                <row>
+                  <entry>Thông sốđặc trưng</entry>
+                  <entrytbl namest="c2" nameend="c5" cols="4">
+                    <colspec colnum="1" colname="c1"/>
+                    <colspec colnum="2" colname="c2"/>
+                    <colspec colnum="3" colname="c3"/>
+                    <colspec colnum="4" colname="c4"/>
+                    <tbody>
+                      <row>
+                        <entry namest="c1" nameend="c2">Panel tĩnh</entry>
+                        <entry namest="c3" nameend="c4">Panel động</entry>
+                      </row>
+                      <row>
+                        <entry>Công thức tính</entry>
+                        <entry>Sốliệu</entry>
+                        <entry>Công thức tính</entry>
+                        <entry>Số liệu</entry>
+                      </row>
+                    </tbody>
+                  </entrytbl>
+                </row>
+                <row>
+                  <entry>Thời điểmbắt đầu sôi</entry>
+                  <entry>s1= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {4π} }  \[ π -  ital "artg" {  {b}  over  {2ω} } +{}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+ ital "ar""sin" {  { \( 2 ital "bT" rSub { size 8{S} }  - a \)  sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } }  over  { ital "ab"} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>5,1h</entry>
+                  <entry>đs1=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mrow><m:mfrac><m:mi>ω</m:mi><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2π} }  \[  ital "artg" {  {ω}  over  {b} } +{}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{+ ital "ar""sin" {  {T rSub { size 8{S} }  sqrt {b rSup { size 8{2} } +ω rSup { size 8{2} } } }  over  {a} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>4,5h</entry>
+                </row>
+                <row>
+                  <entry>Thời điểmkết thúc sôi</entry>
+                  <entry>s2= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mn>2π</m:mn><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {4π} }  \[ 2π -  ital "artg" {  {b}  over  {2ω} }  - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "ar""sin" {  { \( 2 ital "bT" rSub { size 8{S} }  - a \)  sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } }  over  { ital "ab"} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>9,2h</entry>
+                  <entry>đs2= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow><m:mfrac><m:mi>ω</m:mi><m:mi>b</m:mi></m:mfrac><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2π} }  \[ π+ ital "artg" {  {ω}  over  {b} }  - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle></m:mrow><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ -  ital "ar""sin" {  {T rSub { size 8{S} }  sqrt {b rSup { size 8{2} } +ω rSup { size 8{2} } } }  over  {a} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>10,1h</entry>
+                </row>
+                <row>
+                  <entry>Thời gian sôi</entry>
+                  <entry>s= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {4π} }  \[ π - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 ital "ar""sin" {  { \( 2 ital "bT" rSub { size 8{S} }  - a \)  sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } }  over  { ital "ab"} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>4,1h</entry>
+                  <entry>đs= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2π} }  \[ π - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 ital "ar""sin" {  {T rSub { size 8{S} }  sqrt {b rSup { size 8{2} } +ω rSup { size 8{2} } } }  over  {a} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>5,6h</entry>
+                </row>
+                <row>
+                  <entry>Lượng nước sôi</entry>
+                  <entry>GS=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">Gτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Gτ rSub { size 8{n} } }  over  {4π} }  \[ π - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>2</m:mn><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">−</m:mo><m:mi>a</m:mi></m:mrow><m:mo stretchy="false">)</m:mo><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ab</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 ital "ar""sin" {  { \( 2 ital "bT" rSub { size 8{S} }  - a \)  sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } }  over  { ital "ab"} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>14,8kg</entry>
+                  <entry>Gđs= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">Gτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2π</m:mn></m:mfrac><m:mo stretchy="false">[</m:mo><m:mrow><m:mi>π</m:mi><m:mo stretchy="false">−</m:mo><m:mrow/></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Gτ rSub { size 8{n} } }  over  {2π} }  \[ π - {}} {}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ar</m:mtext></m:mrow></m:mstyle><m:mtext>sin</m:mtext><m:mfrac><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>S</m:mi></m:mrow></m:mstyle></m:msub><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mi>ω</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mi>a</m:mi></m:mfrac><m:mo stretchy="false">]</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 ital "ar""sin" {  {T rSub { size 8{S} }  sqrt {b rSup { size 8{2} } +ω rSup { size 8{2} } } }  over  {a} }  \] } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>20kg</entry>
+                </row>
+                <row>
+                  <entry>Hiệu suất panel</entry>
+                  <entry> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>π</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi fontstyle="italic">Δτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>EnF</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π ital "GC" rSub { size 8{p} } T rSub { size 8{s} } Δτ rSub { size 8{s} } }  over  { ital "EnF" rSub { size 8{1} } τ rSub { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>26%</entry>
+                  <entry>đ= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>π</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>s</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi fontstyle="italic">Δτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>âs</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>EnF</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π ital "GC" rSub { size 8{p} } T rSub { size 8{s} } Δτ rSub { size 8{ ital "âs"} } }  over  { ital "EnF" rSub { size 8{1} } τ rSub { size 8{n} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                  <entry>36%</entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9639379">
+            <figure id="id9639404">
+              <media id="id1167991613796" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="392" width="595"/></media>
+            </figure>
+          </para>
+          <para id="id9639428"/>
+          <para id="id9639432">Hình 4.10. Hàm nhiệt độ tĩnh t() và động tđ() của panel nước sôi1m2 có W&lt;WS</para>
+          <para id="id9639488">Các hàm phân bố lập được đã mô tả tương đối đầy đủ và chính xác sự phụ thuộc của nhiệt độ chất lỏng vào thời gian và hầu hết các thông số của panel. Nó cho phép suy ra các công thức tính nhiệt và các điều kiện cần phải đáp ứng khi muốn tăng nhiệt độ hoặc làm sôi chất lỏng trong panel.</para>
+          <para id="id9639505">Các công thức đưa ra có thể dùng khi tính thiết kế hoặc kiểm tra panel để gia nhiệt hay đun sôi các chất lỏng khác nhau, ở vĩ độ tùy ý, ứng với các giá trị thích hợp của các thông số  , Cp , tS và En , to.</para>
+        </section>
+      </section>
+      <section id="id-641416269685">
+        <title>Bộ thu kiểu ống cú gương phản xạ dạng parabol trụ</title>
+        <section id="id-659839910486">
+          <title>Bộ thu đặt nằm ngang </title>
+          <para id="id9639589"><figure id="id9639615"><media id="id1167994925807" alt=""><image src="graphics10.wmf" mime-type="image/wmf" height="366" width="602"/></media></figure> Hình 4.11. Cấu tạo loại module bộ thu đặt nằm ngang Module bộ thu nằm ngang có cấu tạo như hình 4.11, gồm một ống hấp thụ sơn màu đen có chất lỏng chuyển động bên trong, bên ngoài là hai ống thuỷ tinh lồng vào nhau, giữa hai ống thuỷ tinh là lớp không khí hoặc được hút chân không. Tất cả hệ ống hấp thụ và ống thuỷ tinh được đặt trên máng parabol trụ, phương trình biên dạng của parabol trụ là:</para>
+          <para id="id9639682">
+            <m:math>
+              <m:semantics>
+                <m:mrow>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>y</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:msup>
+                            <m:mi>x</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mn>4p</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mstyle>
+                  <m:mrow/>
+                </m:mrow>
+                <m:annotation encoding="StarMath 5.0"> size 12{y= {  {x rSup { size 8{2} } }  over  {4p} } } {}</m:annotation>
+              </m:semantics>
+            </m:math>
+          </para>
+          <para id="id9639761">Trong đó: p là khoảng cách đường tiêu điểm đến đáy parabol.</para>
+          <para id="id9639768">Theo cách bố trí trên dễ dàng thấy rằng tất cả thành phần vuông góc của tia bức xạ mặt trời sau khi đến gương parabol thì phản xạ đến tâm của ống hấp thụ. </para>
+          <para id="id9639779">Vấn đề là cần xác định các thông số kích thước các bộ phận của module bộ thu và mối quan hệ giữa các thông số sao cho bộ thu có hiệu quả nhất về mặt hấp thụ nhiệt và về mặt kinh tế. </para>
+          <para id="id9639792">Các thông số bộ thu và cơ sở tính toán</para>
+          <para id="id9639799"><figure id="id9639825"><media id="id6900379" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="358" width="588"/></media></figure>Khảo sát một bộ thu năng lượng mặt trời (module) kiểu ống có gương parabol trụ như hình 4.12.</para>
+          <para id="id9639857">Hình 4.12. Kết cấu bộ thu dạng ống có gương phản xạ parabol trụ đặtcố định loại đặt nằm ngangđặt cố định nằm ngangBộ thu gồm một ống đồng ở giữa có đường kính d dày o, khối lượng riêng o nhiệt dung riêng Co, hai bên ống có hàn thêm 2 cánh đồng phẳng có chiều dày c, chiều rộng cánh là Wc, hệ số dẫn nhiệt c và hiệu suất cánh fc, làm nhiệm vụ hấp thụ năng lượng mặt trời với, hệ ống- cánh được sơn phủ một lớp sơn đen và có độ đen , bên trong ống chứa chất lỏng có khối lượng tĩnh m, lưu lượng G[kg/s] nhiệt dung riêng CP chảy liên tục qua bộ thu. Xung quanh ống được bọc 2 ống thủy tinh có đường kính d1, d2, dày k1, k2 có hệ số dẫn nhiệt, hệ số bức xạ và hệ số truyền qua lần lượt là k1, k2, 1, 2, D1, D2 làm nhiệm vụ “lồng kính” và cách nhiệt. Giữa các ống thủy tinh và ống đồng là các lớp không khí có hệ số dẫn nhiệt là kk hai đầu được đệm kính bằng hai nút cao su dày d có đường kính dd và hệ số dẫn nhiệt d. Hệ số tỏa nhiệt từ ống thủy tinh ngoài đến không khí có nhiệt độ to là . Phía dưới hệ ống có mặt phản xạ dạng parabol trụ với hệ số phản xạ R với diện tích thu nắng Fo= N.L. Bộ thu được đặt sao cho mặt phản xạ của parabol hướng về phía mặt trời (trục của hệ ống song song với mặt phẳng quỹ đạo của mặt trời).</para>
+          <para id="id9640245">Cường độ bức xạ mặt trời tới mặt kính tại thời điểm  là E() = Ensin(), với () = . là góc nghiêng của tia nắng với mặt kính, = 2/n và n = 24 x 3600s là tốc độ góc và chu kỳ tự quay của trái đất, En là cường độ bức xạ cực đại trong ngày, lấy bằng trị trung bình trong năm tại vĩ độ đang xét En = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>365</m:mtext></m:mfrac><m:mrow><m:mo stretchy="false">∑</m:mo><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ni</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"365"} }  Sum {E rSub { size 8{ ital "ni"} } } } {}</m:annotation></m:semantics></m:math>. Lúc mặt trời mọc = 0, nhiệt độ đầu của bộ thu và chất lỏng bằng nhiệt độ to của không khí môi trường xung quanh.</para>
+          <para id="id9640518">Phương trình vi phân cân bằng nhiệt của bộ thu</para>
+          <para id="id9640524">Ta giả thiết rằng tại mỗi thời điểm , xem nhiệt độ chất lỏng và ống hấp thụ đồng nhất và bằng t(). Xét cân bằng nhiệt cho hệ bộ thu trong khoảng thời gian d kể từ thời điểm . Mặt bộ thu hấp thụ từ mặt trời 1 lượng nhiệt bằng Q1:</para>
+          <para id="id9640598">Q1 = .Ensin .FD .sin.d, [J].  (4.8)</para>
+          <para id="id9640676">Với FD = D1D2.F1 + fc.D1 D2.F2 + R.D11D23.F3 + R.D1D2.F4,  (4.9) </para>
+          <para id="id9640824">trong đó: F1= L.d , F2= L.2.Wc , F3= L(d2 - d1), F4= L(N - d2) (xem khe hở giữa cánh và ống kính trong là bằng 0).</para>
+          <para id="id9640921">Lượng nhiệt nhận được của bộ thu Q1 dùng để:</para>
+          <para id="id9640947">- Làm tăng nội năng của ống hấp thụ  dU = (mo.Co + mc.Cc) dt</para>
+          <para id="id9641006">- Làm tăng entanpy lượng nước tĩnh  dIm = m.CPdt</para>
+          <para id="id9641040">- Làm tăng entanpy dòng chất lỏng  dIG = G.CP(t - to) d</para>
+          <para id="id9641087">- Truyền nhiệt ra ngoài không khí Q2 = Ktt .L(t - to)d</para>
+          <para id="id9641141">trong đó: khối lượng ống hấp thụ mo= d.L.o.o, [kg], </para>
+          <para id="id9641206">khối lượng cánh mc= 2LWc.c.c , [kg] </para>
+          <para id="id9641267">khối lượng nước tĩnh m = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {4} } } {}</m:annotation></m:semantics></m:math>d2.L. [kg], </para>
+          <para id="id9641359">hệ số tổn thất nhiệt tổng Ktt = [KL + KLbx + nKd.Fd], [W/mK]</para>
+          <para id="id9641421">n- số nút đệm trên 1m chiều dài bộ thu, [m]-1 </para>
+          <para id="id9641445">hệ số truyền nhiệt qua nút đệm Kd = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>α</m:mi></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{d} } }  over  {λ rSub { size 8{d} } } } + {  {1}  over  {α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>, [W/m2K]</para>
+          <para id="id9641577">hệ số truyền nhiệt bằng đối lưu và dẫn nhiệt KL=.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>α</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:munderover><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mn>2λ</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mtext>.</m:mtext><m:mtext>ln</m:mtext><m:mfrac><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {1}  over  {α "." d rSub { size 8{2} } } } + Sum cSub { size 8{i=1} }  cSup { size 8{4} }  { {  {1}  over  {2λ rSub { size 8{i} } } }  "." "ln" {  {d rSub { size 8{i+1} } }  over  {d rSub { size 8{i} } } } }  right ] rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>, [W/mK] </para>
+          <para id="id9641774">hệ số truyền nhiệt bằng bức xạ KLbx= ..qd.(Ttb+To)(Ttb2+To2), [W/mK] </para>
+          <para id="id9641874">với qd = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi fontstyle="italic">εd</m:mi></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>ε</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>ε</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {1}  over  {εd} } + {  {1}  over  {d rSub { size 8{2} } } }  left ( {  {1}  over  {ε rSub { size 8{2} } } }  - 1 right )+ {  {1}  over  {d rSub { size 8{1} } } }  left ( {  {2}  over  {ε rSub { size 8{1} } } }  - 1 right ) right ] rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>,  = 5.67.10-8 W/mK4</para>
+          <para id="id9642092">Ttb = 273 + ttb,nhiệt độ tuyệt đối trung bình tính toán của môi chất trong bộ thu, [K]</para>
+          <para id="id9642119">Vậy ta có phương trình cân bằng nhiệt cho bộ thu: </para>
+          <para id="id9642127">Q1 = dU + dIm + dIG + Q2  (4.10)</para>
+          <para id="id9642189">thì phương trình cân bằng nhiệt (4.2) có thể viết dưới dạng:</para>
+          <para id="id9642196">.En.FD.sin2.d = (mo.Co+m.CP+mc.Cc)dt+(GCP+KttL)(t - to)d.  (4.11)</para>
+          <para id="id9642335">Biến đổi bằng cách thay T() = t() - to và đặt:</para>
+          <para id="id9642370">a = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>ε</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>m</m:mi><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mtext>.</m:mtext><m:mi>C</m:mi><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>P</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ε "." F rSub { size 8{D} }  "." E rSub { size 8{n} } }  over  {m"" lSub { size 8{o} }  "." C"" lSub { size 8{o} } + ital "mC" rSub { size 8{P} } +m rSub { size 8{c} } C rSub { size 8{c} } } } = {  {P}  over  {C} } } {}</m:annotation></m:semantics></m:math> , [K/s]  (4.12a)</para>
+          <para id="id9642559">b = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mi>L</m:mi></m:mrow><m:mrow><m:mi>m</m:mi><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mtext>.</m:mtext><m:mi>C</m:mi><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>W</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "GC" rSub { size 8{P} } +K rSub { size 8{ ital "tt"} }  "." L}  over  {m"" lSub { size 8{o} }  "." C"" lSub { size 8{o} } + ital "mC" rSub { size 8{P} } +m rSub { size 8{c} } C rSub { size 8{c} } } } = {  {W}  over  {C} } } {}</m:annotation></m:semantics></m:math> [1/s]  (4.12b)</para>
+          <para id="id9642761">thì phương trình cân bằng nhiệt cho bộ thu là:</para>
+          <para id="id9642768">T’() + b.T() = a.sin2() Với điều kiện đầu T(0) = 0  <figure id="id9642889"><media id="id1167995110222" alt=""><image src=".wmf" mime-type="image/wmf" height="61" width="46"/></media></figure>(4.13)</para>
+          <para id="id9895550">(4.14)</para>
+          <para id="id9895566">Giải hệ phương trình 4.13, 4.14 tương tự như ở mục trên ta tìm được hàm phân bố nhiệt độ chất lỏng trong bộ thu là:</para>
+          <para id="id9895575">T() = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>[1-
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>sin(2 + artg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {2ω} } } {}</m:annotation></m:semantics></m:math> ) - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mn>2ω</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{ - bτ} } }  over  {1+ \( b/2ω \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>]  (4.15)</para>
+          <para id="id9895896">Trong đó a và b được xác định theo công thức 4.12a và 4.12b</para>
+          <para id="id9895902">Công thức tính toán bộ thu</para>
+          <para id="id9895909">Từ hàm phân bố (4.15) ta dễ dàng lập được các công thức tính các thông số kỹ thuật đặc trưng cho bộ thu như bảng 4.4:</para>
+          <para id="id9895926">Bảng 4.4. Các thông số đặc trưng của bộ thu nằm ngang</para>
+          <table id="id9895932" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Thông số đặc trưng</entry>
+                  <entry>Công thức tính toán</entry>
+                </row>
+                <row>
+                  <entry>Độ gia nhiệt lớn nhấtTm</entry>
+                  <entry>Tm =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {a}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } }  \) } {}</m:annotation></m:semantics></m:math> [oC]</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ cực đại thu đượctm</entry>
+                  <entry>tm= to+
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>) [oC]</entry>
+                </row>
+                <row>
+                  <entry>Thời điểm đạt nhiệt độ cực đại m</entry>
+                  <entry>m=n
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {8} }  -  {  {1}  over  {4π} }  ital "artg" {  {b}  over  {2ω} }  right )} {}</m:annotation></m:semantics></m:math> [s]</entry>
+                </row>
+                <row>
+                  <entry>Sản lượng nhiệt trong 1 ngàyQ</entry>
+                  <entry>Q =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">aτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {aτ rSub { size 8{n} } }  over  {4b} } } {}</m:annotation></m:semantics></m:math>GCP [J]</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ trung bìnhttb</entry>
+                  <entry>ttb = to + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math> [oC]</entry>
+                </row>
+                <row>
+                  <entry>Công suất hữu ích trung bìnhPtb</entry>
+                  <entry>Ptb = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>GCP [W]</entry>
+                </row>
+                <row>
+                  <entry>Sản lượng nước nóngM</entry>
+                  <entry>M = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2} } G} {}</m:annotation></m:semantics></m:math>, [kg]</entry>
+                </row>
+                <row>
+                  <entry>Hiệu suất nhiệt bộ thu</entry>
+                  <entry> =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mover accent="true"><m:mrow><m:mi>E</m:mi><m:mtext>.</m:mtext></m:mrow><m:mo>¯</m:mo></m:mover><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q rSub { size 8{ ital "tb"} } }  over  { {overline  {E "." }} F rSub { size 8{o} } } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mrow><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>sin</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>2π</m:mn><m:mfrac><m:mi>τ</m:mi><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">)</m:mo><m:mi fontstyle="italic">dτ</m:mi><m:mtext>.</m:mtext></m:mrow></m:mrow><m:msub><m:mi>F</m:mi><m:mi>o</m:mi></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q rSub { size 8{ ital "tb"} } }  over  { {  {2}  over  {τ rSub { size 8{n} } } }  Int rSub { size 8{0} }  rSup { size 8{τ rSub { size 6{n} } /2} }  {E rSub { size 8{n} } "sin" \( 2π {  {τ}  over  {τ rSub { size 8{n} } } }  \) dτ "." } F rSub {o} } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>π</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>aGC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bE</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π ital "aGC" rSub { size 8{p} } }  over  {4 ital "bE" rSub { size 8{n} }  "." F rSub { size 8{o} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9897276">Bộ thu có gương phản xạ loại này có cấu tạo đơn giản, dễ chế tạo và lắp đặt nhưng trong hệ thống cần có thêm một bơm tuần hoàn môi chất, nên chưa thích hợp cho việc lắp đặt sử dụng ở các vùng sâu vùng xa không có điện lưới.</para>
+        </section>
+        <section id="id-99733768401">
+          <title>Hình 4.13. Cấu tạo loại module bộ thu đặt nghiêngBộ thu đặt nghiêng</title>
+          <para id="id9897361">Cấu tạo module bộ thu đặt nghiêng</para>
+          <para id="id9897370">Module bộ thu đặt nghiêng có cấu tạo như hình 3.8, gồm một ống hấp thụ sơn màu đen có chất lỏng chuyển động bên trong, 2 bên và mặt dưới ống có hàn 3 cánh nhận nhiệt, bên ngoài là hai ống thuỷ tinh lồng vào nhau, giữa hai ống thủy tinh là lớp không khí hoặc được hút chân không. Tất cả hệ ống hấp thụ và ống thủy tinh được đặt giữa hai máng trụ trái và phải, vị trí tương đối của hệ thống ống- gương phản xạ được miêu tả như trên hình 4.13. Biên dạng của máng trụ được dựng bởi 2 cung tròn tâm O1 và O2 ở hai đầu mút cánh trái và phải, bán kính các cung tròn là (r+W)
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt {2} } {}</m:annotation></m:semantics></m:math> trong đó r là bán kính ống hấp thụ còn W là chiều rộng của cánh, tức là các cung tròn này đi qua đầu mút của cánh dưới (hình 4.13). Với cấu tạo như vậy thì tất cả các tia bức xạ mặt trời trong ngày chiếu đến mặt hứng của bộ thu đều được ống hấp thụ và cánh nhận nhiệt nhận được. Trên hình 4.14 và hình 4.15 biểu diễn quá trình truyền của tia bức xạ vuông góc và xiên góc bất kỳ, các tia bức xạ xiên góc khác cũng có đường truyền tương tự. </para>
+          <para id="id9897491"><figure id="id9897516"><media id="id1167999158868" alt=""><image src="graphics13.wmf" mime-type="image/wmf" height="345" width="551"/></media></figure> Hình 4.15. Quá trình truyền của các tia nắng xiên góc<figure id="id9897577"><media id="id8438534" alt=""><image src="graphics14.wmf" mime-type="image/wmf" height="328" width="511"/></media></figure>Hình 4.14. Quá trình truyền của các tia nắng vuông góc Đối với loại bộ thu này gương phản xạ có dạng máng trụ kép nó có tác dụng phản xạ bức xạ mặt trời đến bề mặt hấp thụ giống như parabol trụ trong phần 4.2.2.1 nên thường được gọi chung là gương phản xạ dạng parabol trụ.</para>
+          <para id="id9897630">Các thông số bộ thu và cơ sở tính toán</para>
+          <para id="id9897636"><figure id="id9897661"><media id="id1167991690519" alt=""><image src="graphics15.wmf" mime-type="image/wmf" height="379" width="623"/></media></figure>Khảo sát một bộ thu năng lượng mặt trời (module) kiểu ống có gương parabol trụ như sau:</para>
+          <para id="id9897693">Hình 4.16. Kết cấu bộ thu dạng ống có gương phản xạ parabol trụloại đặt nghiêngđặt cố định nằm dọcBộ thu gồm một ống đồng ở giữa có đường kính d dày o, khối lượng riêng o nhiệt dung riêng Co, hai bên và bên dưới ống có hàn thêm 3 cánh đồng phẳng có chiều dày c , chiều rộng cánh là Wc, hệ số dẫn nhiệt c và hiệu suất cánh fc làm nhiệm vụ hấp thụ năng lượng mặt trời, hệ ống- cánh được sơn phủ một lớp sơn đen và có độ đen , bên trong ống chứa chất lỏng, có khối lượng tĩnh m, lưu lượng G[kg/s] nhiệt dung riêng CP chảy liên tục qua bộ thu. Xung quanh ống được bọc 2 ống thủy tinh có đường kính d1, d2, dày k1, k2 có hệ số dẫn nhiệt, hệ số bức xạ và hệ số truyền qua lần lượt là k1, k2, 1, 2, D1, D2 làm nhiệm vụ “lồng kính” và cách nhiệt. Giữa các ống thủy tinh và ống đồng là các lớp không khí có hệ số dẫn nhiệt là kk hai đầu được đệm kính bằng hai nút cao su dày d có đường kính dd và hệ số dẫn nhiệt d. Hệ số tỏa nhiệt từ ống thủy tinh ngoài đến không khí có nhiệt độ to là . Phía dưới hệ ống có mặt phản xạ dạng parbol trụ với hệ số phản xạ R với diện tích thu nắng Fo = N.L. Bộ thu được đặt sao cho mặt phản xạ của parabol hướng về phía mặt trời (trục của hệ ống vuông góc với mặt phẳng quỹ đạo của mặt trời).</para>
+          <para id="id9898083">Cường độ bức xạ mặt trời tới mặt kính tại thời điểm  là E() = Ensin(), với () = . là góc nghiêng của tia nắng với mặt kính,  = 2/n và n = 24 x 3600s là tốc độ góc và chu kỳ tự quay của trái đất, En là cường độ bức xạ cực đại trong ngày, lấy bằng trị trung bình trong năm tại vĩ độ đang xét En = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mtext>365</m:mtext></m:mfrac><m:mrow><m:mo stretchy="false">∑</m:mo><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ni</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {"365"} }  Sum {E rSub { size 8{ ital "ni"} } } } {}</m:annotation></m:semantics></m:math>. Lúc mặt trời mọc  = 0, nhiệt độ đầu của bộ thu và chất lỏng bằng nhiệt độ to của không khí môi trường xung quanh.</para>
+          <para id="id9898357">Phương trình vi phân cân bằng nhiệt của bộ thu</para>
+          <para id="id9898364">Ta giả thiết rằng tại mỗi thời điểm , xem nhiệt độ chất lỏng và ống hấp thụ đồng nhất và bằng t(). Xét cân bằng nhiệt cho hệ bộ thu trong khoảng thời gian d kể từ thời điểm . Mặt module bộ thu hấp thụ từ mặt trời 1 lượng nhiệt bằng Q1:</para>
+          <para id="id9898437">Q1 = .Ensin .FD.sin.d, [J]. (4.16)</para>
+          <para id="id9898515">Với FD = D1D2.F1 + fc.D1 D2.F2 + R. fc.D1D23.F3 + R. fc.D1D2.F4, (4.17)</para>
+          <para id="id9898685">trong đó: F1= L.d , F2= 2L.Wc , F3= L(d2 - d1), F4= L(N - d2). Ở đây ta giả thiết rằng tất cả các tia bức xạ mặt trời chiếu đến mặt bộ thu trên diện tích F4 sau khi phản xạ từ gương trụ đựơc truyền đến cánh hấp thụ.</para>
+          <para id="id9898794">Lượng nhiệt nhận được của module bộ thu Q1 dùng để:</para>
+          <para id="id9898821">- Làm tăng nội năng của ống hấp thụ-cánh dU = (mo.Co + mc.Cc)dt</para>
+          <para id="id9898871">- Làm tăng entanpy lượng nước tĩnh dIm = m.CPdt</para>
+          <para id="id9898905">- Làm tăng entanpy dòng chất lỏng  dIG = Gd.CP(t - to)</para>
+          <para id="id9898959">- Truyền nhiệt ra ngoài không khí  Q2 = Ktt.L(t - to)d</para>
+          <para id="id9899016">trong đó: mo= Ld.o.o , [kg] </para>
+          <para id="id9899071">mc= 3LWc.c.c , [kg], </para>
+          <para id="id9899129">m = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {4} } } {}</m:annotation></m:semantics></m:math>d2.L. [kg], </para>
+          <para id="id9899216">Ktt = [KL + KLbx + nKd.Fd], [W/mK]</para>
+          <para id="id9899273">n- số nút đệm trên 1m chiều dài bộ thu, [m]-1 Kd = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>δ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>λ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:mi>α</m:mi></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {δ rSub { size 8{d} } }  over  {λ rSub { size 8{d} } } } + {  {1}  over  {α} }  right ) rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math> , [W/m2K]</para>
+          <para id="id9899409">hệ số truyền nhệt bằng đối lưu và dẫn nhiệt KL=.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mrow><m:mi>α</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">+</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∑</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mn>4</m:mn></m:mrow></m:mstyle></m:munderover><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mn>2λ</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mtext>.</m:mtext><m:mtext>ln</m:mtext><m:mfrac><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msub><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {1}  over  {α "." d rSub { size 8{2} } } } + Sum cSub { size 8{i=1} }  cSup { size 8{4} }  { {  {1}  over  {2λ rSub { size 8{i} } } }  "." "ln" {  {d rSub { size 8{i+1} } }  over  {d rSub { size 8{i} } } } }  right ] rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>, [W/mK] </para>
+          <para id="id9899606">hệ số truyền nhiệt bằng bức xạ KLbx= ..qd.(Ttb+To)(Ttb2+To2), [W/mK] </para>
+          <para id="id9899705">với qd = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="[" close="]"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi fontstyle="italic">εd</m:mi></m:mfrac><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>ε</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">+</m:mo><m:mfrac><m:mn>1</m:mn><m:msub><m:mi>d</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>ε</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>1</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left [ {  {1}  over  {εd} } + {  {1}  over  {d rSub { size 8{2} } } }  left ( {  {1}  over  {ε rSub { size 8{2} } } }  - 1 right )+ {  {1}  over  {d rSub { size 8{1} } } }  left ( {  {2}  over  {ε rSub { size 8{1} } } }  - 1 right ) right ] rSup { size 8{ - 1} } } {}</m:annotation></m:semantics></m:math>,  = 5.67.10-8 W/mK4</para>
+          <para id="id9899923">Ttb = 273 + ttb,nhiệt độ tuyệt đối trung bình tính toán của môi chất trong bộ thu, [K]</para>
+          <para id="id9899950">Vậy ta có phương trình cân bằng nhiệt cho bộ thu: </para>
+          <para id="id9899958">Q1 = dU + dIm + dIG + Q2  (4.18)</para>
+          <para id="id9900020">Hay có thể viết dưới dạng:</para>
+          <para id="id9900026">.En.FD.sin2.d = (mo.Co+m.CP+mc.Cc)dt +(GCP+ Ktt.L)(t - to)d  (4.19)</para>
+          <para id="id9900163">Biến đổi bằng cách thay T() = t() - to và đặt:</para>
+          <para id="id9900198">a = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>ε</m:mi><m:mtext>.</m:mtext><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>D</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>.</m:mtext><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mi>m</m:mi><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mtext>.</m:mtext><m:mi>C</m:mi><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>P</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {ε "." F rSub { size 8{D} }  "." E rSub { size 8{n} } }  over  {m"" lSub { size 8{o} }  "." C"" lSub { size 8{o} } + ital "mC" rSub { size 8{P} } +m rSub { size 8{c} } C rSub { size 8{c} } } } = {  {P}  over  {C} } } {}</m:annotation></m:semantics></m:math> , [K/s]  (4.20a)</para>
+          <para id="id9900389">b = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>GC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mo stretchy="false">+</m:mo><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub></m:mrow><m:mtext>.</m:mtext><m:mi>L</m:mi></m:mrow><m:mrow><m:mi>m</m:mi><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mtext>.</m:mtext><m:mi>C</m:mi><m:mrow><m:mrow><m:mmultiscripts><m:mtext/><m:mprescripts/><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle><m:none/></m:mmultiscripts><m:mo stretchy="false">+</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>mC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>P</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">+</m:mo><m:msub><m:mi>m</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>c</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>W</m:mi><m:mi>C</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "GC" rSub { size 8{P} } +K rSub { size 8{ ital "tt"} }  "." L}  over  {m"" lSub { size 8{o} }  "." C"" lSub { size 8{o} } + ital "mC" rSub { size 8{P} } +m rSub { size 8{c} } C rSub { size 8{c} } } } = {  {W}  over  {C} } } {}</m:annotation></m:semantics></m:math> [1/s]  (4.20b)</para>
+          <para id="id9900592">thì phương trình cân bằng nhiệt cho bộ thu là:</para>
+          <para id="id9900598">T’() + b.T() = a.sin2() (4.21)Với điều kiện đầu T(0) = 0  (4.22) <figure id="id9900734"><media id="id1167996129134" alt=""><image src=".wmf" mime-type="image/wmf" height="61" width="84"/></media></figure></para>
+          <para id="id9900757"/>
+          <para id="id9900767">Giải hệ phương trình 4.21, 4.22 tương tự như ở mục trên ta tìm được hàm phân bố nhiệt độ chất lỏng trong bộ thu là:</para>
+          <para id="id9900776">T() = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>[1-
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>sin(2 + artg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {2ω} } } {}</m:annotation></m:semantics></m:math> ) - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>e</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">bτ</m:mi></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mo stretchy="false">(</m:mo></m:mrow><m:mrow><m:mi>b</m:mi><m:mo stretchy="false">/</m:mo><m:mn>2ω</m:mn></m:mrow><m:msup><m:mo stretchy="false">)</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {e rSup { size 8{ - bτ} } }  over  {1+ \( b/2ω \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>]  (4.23)</para>
+          <para id="id9901098">Trong đó a và b được xác định theo công thức 4.20a và 4.20b</para>
+          <para id="id9901104">Công thức tính toán bộ thu</para>
+          <para id="id9901112">Từ hàm phân bố (4.23) ta dễ dàng lập được các công thức tính các thông số kỹ thuật đặc trưng cho bộ thu như bảng 4.5.</para>
+          <para id="id9901129">Bảng 3.5. Các thông số đặc trưng của bộ thu đặt nghiêng</para>
+          <table id="id9901135" summary="">
+            <tgroup cols="2">
+              <colspec colnum="1" colname="c1"/>
+              <colspec colnum="2" colname="c2"/>
+              <tbody>
+                <row>
+                  <entry>Thông số đặc trưng</entry>
+                  <entry>Công thức tính toán</entry>
+                </row>
+                <row>
+                  <entry>Độ gia nhiệt lớn nhấtTm</entry>
+                  <entry>Tm =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>a</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {a}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } }  \) } {}</m:annotation></m:semantics></m:math> [oC]</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ cực đại thu đượctm</entry>
+                  <entry>tm= to+
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:mfrac><m:mi>b</m:mi><m:msqrt><m:mrow><m:msup><m:mi>b</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mo stretchy="false">+</m:mo><m:msup><m:mn>4ω</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} }  \( 1+ {  {b}  over  { sqrt {b rSup { size 8{2} } +4ω rSup { size 8{2} } } } } } {}</m:annotation></m:semantics></m:math>) [oC]</entry>
+                </row>
+                <row>
+                  <entry>Thời điểm đạt nhiệt độ cực đại m</entry>
+                  <entry>m=n
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:mrow><m:mrow><m:mfrac><m:mn>3</m:mn><m:mn>8</m:mn></m:mfrac><m:mo stretchy="false">−</m:mo><m:mfrac><m:mn>1</m:mn><m:mn>4π</m:mn></m:mfrac></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>artg</m:mtext></m:mrow></m:mstyle><m:mfrac><m:mi>b</m:mi><m:mn>2ω</m:mn></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {3}  over  {8} }  -  {  {1}  over  {4π} }  ital "artg" {  {b}  over  {2ω} }  right )} {}</m:annotation></m:semantics></m:math> [s]</entry>
+                </row>
+                <row>
+                  <entry>Sản lượng nhiệt trong 1 ngàyQ</entry>
+                  <entry>Q =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi fontstyle="italic">aτ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>4b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {aτ rSub { size 8{n} } }  over  {4b} } } {}</m:annotation></m:semantics></m:math>GCP [J]</entry>
+                </row>
+                <row>
+                  <entry>Độ gia nhiệt trung bìnhTn</entry>
+                  <entry>Tn = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math> [oC]</entry>
+                </row>
+                <row>
+                  <entry>Nhiệt độ trung bìnhttb</entry>
+                  <entry>ttb = to + 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math> [oC]</entry>
+                </row>
+                <row>
+                  <entry>Công suất hữu ích trung bìnhPtb</entry>
+                  <entry>Ptb = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>a</m:mi><m:mn>2b</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {a}  over  {2b} } } {}</m:annotation></m:semantics></m:math>GCP [W]</entry>
+                </row>
+                <row>
+                  <entry>Sản lượng nước nóngM</entry>
+                  <entry>M = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mn>2</m:mn></m:mfrac><m:mi>G</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {τ rSub { size 8{n} } }  over  {2} } G} {}</m:annotation></m:semantics></m:math>, [kg]</entry>
+                </row>
+                <row>
+                  <entry>Hiệu suất nhiệt bộ thu</entry>
+                  <entry>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mover accent="true"><m:mrow><m:mi>E</m:mi><m:mtext>.</m:mtext></m:mrow><m:mo>¯</m:mo></m:mover><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q rSub { size 8{ ital "tb"} } }  over  { {overline  {E "." }} F rSub { size 8{o} } } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>Q</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tb</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mrow><m:mfrac><m:mn>2</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msubsup><m:mrow><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub><m:mtext>sin</m:mtext><m:mo stretchy="false">(</m:mo><m:mn>2π</m:mn><m:mfrac><m:mi>τ</m:mi><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">)</m:mo><m:mi fontstyle="italic">dτ</m:mi><m:mtext>.</m:mtext></m:mrow></m:mrow><m:msub><m:mi>F</m:mi><m:mi>o</m:mi></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {Q rSub { size 8{ ital "tb"} } }  over  { {  {2}  over  {τ rSub { size 8{n} } } }  Int rSub { size 8{0} }  rSup { size 8{τ rSub { size 6{n} } /2} }  {E rSub { size 8{n} } "sin" \( 2π {  {τ}  over  {τ rSub { size 8{n} } } }  \) dτ "." } F rSub {o} } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mi>π</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>aGC</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mrow><m:mrow><m:mn>4</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>bE</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>o</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π ital "aGC" rSub { size 8{p} } }  over  {4 ital "bE" rSub { size 8{n} }  "." F rSub { size 8{o} } } } } {}</m:annotation></m:semantics></m:math></entry>
+                </row>
+              </tbody>
+            </tgroup>
+          </table>
+          <para id="id9902590">Gương phản xạ của loại bộ thu này có cấu tạo hơi phức tạp hơn, nhưng hệ thống làm việc theo nguyên tắc đối lưu tự nhiên nên không cần phải có thêm bơm tuần hoàn môi chất, do đó rất thích hợp cho việc triển khai sử dụng ở các vùng sâu vùng xa không có điện lưới. </para>
+          <para id="id9902608"> Tính toán chọn kích thước bộ thu</para>
+          <para id="id9902618">Các kích thước module bộ thu cần phải chọn hoặc tính toán sao cho bộ thu đạt được hiệu quả cao nhất về mặt kinh tế cũng như khả năng hấp thụ nhiệt từ NLMT, đồng thời đảm bảo các yêu cầu về mặt cấp nhiệt. Các kích thước của module bộ thu có ảnh hưởng đến hiệu suất bộ thu cần phải tính chọn là:</para>
+          <para id="id9902632">- Đường kính ống hấp thụ chứa môi chất d</para>
+          <para id="id9902648">- Chiều rộng cánh nhận nhiệt W</para>
+          <para id="id9902665">- Đường kính ống thuỷ tinh trong d1</para>
+          <para id="id9902685">- Đường kính ống thuỷ tinh ngoài d2</para>
+          <para id="id9902706">- Chiều rộng gương trụ phản xạ N</para>
+          <para id="id9902722">- Đường kính ống hấp thụ d: Nếu d lớn thì diện tích hấp thụ lớn, diện tích nhận nhiệt của nước lớn nên nói chung hiệu suất bộ thu tăng. Mặt khác nếu d tăng thì nhiệt dung C của hệ bộ thu tăng do đó tốc độ gia nhiệt a giảm, hơn nữa nếu d lớn quá thì kết cấu bộ thu sẽ cồng kềnh và không kinh tế. Tốt nhất ta chọn đường kính của ống hấp thụ d = 10mm.</para>
+          <para id="id9902753">- Chiều rộng cánh nhận nhiệt W: Theo công thức 4.2 và 4.10, khi tăng chiều rộng cánh W, thì FD tăng, mà FD tăng thì tốc độ gia nhiệt a tăng và hiệu suất bộ thu tăng. Nhưng nếu W tăng, hiệu suất cánh fc giảm do đó FD giảm. Vậy ta phải chọn W sao cho tối ưu nhất.</para>
+          <para id="id9902832">Theo tính toán với trường hợp này thì tốt nhất ta chọn W sao cho 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>λδ</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {K rSub { size 8{ ital "tt"} } }  over  { ital "λδ"} }  right ) rSup { size 8{1/2} }  "." W} {}</m:annotation></m:semantics></m:math> &lt; 0,5 lúc đó hiệu suất cánh fc &gt; 0,95. Ví dụ: Cánh làm bằng đồng có hệ số dẫn nhiệt =25W/m.độ, chiều dày cánh  = 0,001m, cánh được gắn trên ống đồng đường kính d =0,01m. Với trao đổi nhiệt đối lưu tự nhiên ta lấy Ktt=10W/m2độ ta có biểu thức chọn chiều rộng cánh là:</para>
+          <para id="id9903009"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:msub><m:mi>K</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>tt</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:mtext>λδ</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {K rSub { size 8{ ital "tt"} } }  over  { ital "λδ"} }  right ) rSup { size 8{1/2} }  "." W} {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mtext>10</m:mtext><m:mrow><m:mtext>25</m:mtext><m:mtext>.</m:mtext><m:mn>0,</m:mn><m:mtext>001</m:mtext></m:mrow></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mtext>.</m:mtext><m:mi>W</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {"10"}  over  {"25" "." 0,"001"} }  right ) rSup { size 8{1/2} }  "." W} {}</m:annotation></m:semantics></m:math> &lt; 0,5 Vậy ta có W &lt; 0,025m.</para>
+          <para id="id9903214">- Đường kính ống thuỷ tinh trong d1: Ống thuỷ tinh trong làm nhiệm vụ tạo "lồng kính". Thường ta chế tạo sao cho hệ ống hấp thụ- cánh đặt khít vào ống thuỷ tinh trong có đường kính d1 tức là d1 = d + 2W. Vậy đường kính d1 phụ thuộc vào d và W, do đó theo phân tích và nhận xét ở trên nếu đường kính ống hấp thụ d =0,01m thì tốt nhất ta chọn d1 &lt; 0,06.</para>
+          <para id="id9903292">- Đường kính ống thuỷ tinh ngoài d2: Ống thuỷ tinh ngoài làm nhiệm vụ cách nhiệt chống tổn thất ra môi trường xung quanh. Theo nguyên tắc thì d2 càng lớn (lớp không khí giữa 2 ống thuỷ tinh càng lớn) thì tổn thất nhiệt càng ít, nhưng thực tế với loại bộ thu kiểu ống này nếu d2 tăng thì theo công thức 4.9 và 4.17 ta thấy FD giảm nhất là với bộ thu đặt nghiêng, do đó tốc độ gia nhiệt a giảm và hiệu suất bộ thu giảm. Do vậy ta chọn d2 càng nhỏ càng tốt (nhưng tất nhiên phải lớn hơn d1), nhất là đối với bộ thu được hút chân không giữa 2 ống thuỷ tinh.</para>
+          <para id="id9903382">- Chiều rộng gương trụ phản xạ N: Theo công thức 4.9 và 4.17 ta thấy rằng N càng tăng thì FD tăng, mà FD tăng thì tốc độ gia nhiệt a tăng và hiệu suất bộ thu tăng và nhiệt độ môi chất thu được cũng tăng. Đối với bộ thu nằm ngang trong hệ thống đối lưu tuần hoàn tự nhiên thì sự ảnh hưởng của chiều rộng gương trụ N đến hiệu suất bộ thu và nhiệt độ thu được của môi chất sẽ được khảo sát kỹ ở phần sau. Chiều rộng N của bộ thu loại đặt nghiêng trong hệ thống đối lưu tuần hoàn tự nhiên thì bị hạn chế bởi chiều rộng của tổ hợp ống - cánh (hình 4.13). </para>
+          <para id="id10293017">Tức là N  
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="" close=""><m:mrow><m:mi>d</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2W</m:mn></m:mrow></m:mfenced><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">+</m:mo><m:msqrt><m:mn>2</m:mn></m:msqrt></m:mrow><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left (d+2W right ) \( 1+ sqrt {2}  \) } {}</m:annotation></m:semantics></m:math>.</para>
+        </section>
+      </section>
+    </section>
+    <section id="id-57898094219">
+      <title>Thiết bị chư­ng cất nư­ớc bằng NLMT </title>
+      <section id="id-0994633686261">
+        <title>Cấu tạo nguyên lý hoạt động của thiết bị</title>
+        <para id="id10293143">Trên trái đất của chúng ta, những nơi có nhiều nắng thì thường ở những nơi đó nước uống bị khan hiếm. Bởi vậy năng lượng mặt trời đã được sử dụng từ rất lâu để thu nước uống bằng phương pháp chưng cất từ nguồn nước bẩn hoặc nhiểm mặn. Có rất nhiều thiết bị khác nhau đã được nghiên cứu và sử dụng cho mục đích này, một trong những hệ thống chưng cất nước dùng năng lượng mặt trời đơn giản được mô tả như hình 4.17.</para>
+        <para id="id10293161">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+        <para id="id10293210">Hình 4.17. Thiết bị chưng cất đơn giản</para>
+        <para id="id10293241">Nước bẩn hoặc nước mặn được đưa vào khay ở dưới và được đun nóng bởi sự hấp thụ năng lượng mặt trời. Phần đáy của khay được sơn đen để tăng quá trình hấp thu bức xạ mặt trời, nước có thể xem như trong suốt trong việc truyền bức xạ sóng ngắn từ mặt trời. Bề mặt hấp thụ nhận nhiệt bức xạ mặt trời và truyền nhiệt cho nước. Khi nhiệt độ tăng, sự chuyển động của các phân tử nước trở nên rất mạnh và chúng có thể tách ra khỏi bề mặt mặt thoáng và số lượng tăng dần. Đối lưu của không khí phía trên bề mặt mang theo hơi nước và ta có quá trình bay hơi. Sự bốc lên của dòng không khí chứa đầy hơi ẩm, sự làm mát của bề mặt tấm phủ bởi không khí đối lưu bên ngoài làm cho các phần tử nước ngưng tụ lại và chảy xuống máng chứa ở góc dưới. Không khí lạnh chuyển động xuống dưới tạo thành dòng khí đối lưu.</para>
+        <para id="id10293276">Để đạt hiệu quả ngưng tụ cao thì nước phải được ngưng tụ bên dưới tấm phủ. Tấm phủ có độ dốc đủ lớn để cho các giọt nước chảy xuống dễ dàng. Điều đó cho thấy rằng ở mọi thời điểm khoảng phần nữa bề mặt tấm phủ chứa đầy các giọt nước. Quá trình ngưng tụ của nước dưới tấm phủ có thể là quá trình ngưng giọt hay ngưng màng, điều này phụ thuộc vào quan hệ giữa sức căng bề mặt của nước và tấm phủ. Hiện nay người ta thường dùng tấm phủ là kính thuận lợi cho quá trình ngưng giọt. Người ta thấy rằng ở vùng khí hậu nhiệt đới, hệ thống chưng cất nước có thể sản xuất ra một lượng nước ngưng tương đương với lượng mưa 0,5cm/ngày.</para>
+      </section>
+      <section id="id-281596925881">
+        <title>Tính toán thiết bị chưng cất nước</title>
+        <para id="id10293330"><!--Sorry, this media type is not supported.--> Hình 4.18. Miêu tả quá trình đối lưu trong thiết bị chưng cất nước.Chúng ta có thể phân tích đơn giản quá trình chưng cất nước của thiết bị theo sơ đồ hình vẽ 4.2. Thực chất nếu phân tích chi tiết thì đây ra quá trình rất phức tạp có liên quan đến quá trình truyền chất. Tuy nhiên chúng ta có thể phân tích quá trình đơn giản như sau:</para>
+        <para id="id10293409">Chúng ta giả thiết rằng nước tiếp xúc với bề mặt hấp thụ và chúng cùng chung nhiệt độ là T, như hình 4.18, nhiệt độ của tấm phủ là T1, thì ta có dòng nhiệt truyền qua một đơn vị diện tích giữa 2 bề mặt được xác định theo công thức: </para>
+        <para id="id10293441">q = k(T- T1),  (4.24)</para>
+        <para id="id10293468">Trong đó k là hệ số truyền nhiệt (W/m2 K)</para>
+        <para id="id10293490"> Bây giờ chúng ta biểu diễn quá trình đối lưu này như tạo bởi 2 dòng không khí (hình 4.18), mỗi dòng có lưu lượng khối lượng tương đương là m (kg/m2h), một dòng thì chuyển động lên còn một dòng thì chuyển động xuống dưới. Nội năng của mỗi đơn vị khối lượng không khí có nhiệt độ T là cT, nếu xem đặc tính của không khí ở đây như là khí lý tưởng thì c là nhiệt dung riêng của không khí. Dòng khí nóng rời khỏi bề mặt phía dưới mang nội năng ở mức mcT, còn dòng khí lạnh mang nội năng ở mức cmT1. Như vậy dòng nhiệt trao đổi giữa các bề mặt bởi những dòng này là:</para>
+        <para id="id10293582">q = mc (T- T1).  (4.25)</para>
+        <para id="id10293606">So sánh công thức 4.24 và 4.25 ta có lưu lượng dòng khí có thể tính được là:</para>
+        <para id="id10293614"> mc = k hay m = k/c. (4.26)</para>
+        <para id="id10293632">Ví dụ: với nhiệt dung riêng của không khí là c = 0.28 Wh/kgK, và với trường hợp hệ số truyền nhiệt k = 4W/m2K, thì m = 14.3 kg/m2h.</para>
+        <para id="id10293668">Bây giờ chúng ta giả sử rằng dòng không khí đối lưu chuyển động tương tự và cùng tốc độ khi chúng chứa đầy hơi ẩm. Sự giả thiết này rất phổ biến khi phân tích quá trình truyền chất nhưng chỉ có thể đúng khi quá trình truyền chất xảy ra với tốc độ nhỏ.</para>
+        <para id="id10293683">Hơn nữa chúng ta có thể cho rằng khi không khí rời khỏi mỗi bề mặt mang tổng lượng hơi nước phù hợp để cân bằng với nhiệt độ tương ứng của bề mặt, ở trạng thái cân bằng thì trong một đơn vị thời gian có bao nhiêu phân tử nước rời khỏi bề mặt mặt thoáng thì cũng có bấy nhiêu phân tử nước quay trở lại. Sau đó sự tập trung của các phân tử lỏng hay hơi nước trong không khí gần bề mặt mặt thoáng cũng đạt đến giá trị cân bằng và gọi là độ ẩm tương đối, w. Độ ẩm tương đối là khối lượng của hơi nước trong 1kg không khí, w phụ thuộc nhiều vào nhiệt độ, xem hình 4.19</para>
+        <para id="id10293713">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      Hình 4.19. Độ ẩm tương đối của không khí ở áp suất khí quyển.</para>
+        <para id="id10293774">Tiếp theo, nếu ta miêu tả quá trình đối lưu bởi sự chuyển động đồng thời của 2 dòng không khí, mỗi một dòng có lưu lượng m trên một đơn vị diện tích, lượng nước vận chuyển ra ngoài sẽ là mw và lượng nước vào trong là mw1. Vậy lượng nước đi ra m(w – w1), đây cũng chính là lượng nước được sản xuất ra bởi thiết bị lọc nước trong một đơn vị diện tích bề mặt, M. </para>
+        <para id="id10293848">Tương tự như quá trình trao đổi nhiệt giữa 2 tấm phẳng ta có thể viết phương trình cân bằng năng lượng trong thiết bị chưng cất có dạng:</para>
+        <para id="id10293858">P = k (T-T1) + es (T4-T41) + m r(w-w1), (4.27)</para>
+        <para id="id10293918">Trong đó: P(W/m2) là năng lượng bức xạ mặt trời đến, e là độ đen của tổ hợp bề mặt hấp thụ và nước, r (Wh/kg) là nhiệt hoá hơi của nước. </para>
+        <para id="id10293948">Với r = 660 Wh/kg, e = 1 và độ chênh nhiệt độ trung bình của thiết bị khoảng 40K thì ta có thể xác định lượng nước sản xuất được của thiết bị có thể xác định theo công thức:</para>
+        <para id="id10293975">M = (P-160)/660 (kg/m2h) (4.28)</para>
+        <para id="id10294003">Ở Đà Nẵng với cường độ bức xạ trung bình P = 850 W/m2 thì từ công thức (4.28) ta tính được M = 1.0 kg/m2h hay với 6giờ nắng trong ngày thì mỗi ngày 1m2 bề mặt hấp thụ thiết bị sản xuất được M = 6kg nước.</para>
+        <para id="id10294045"><!--Sorry, this media type is not supported.--> Hình 4.20. Các dòng năng lượng chính trong thiết bị chưng cất nước kiểu bể. Đối với các hệ thống lớn thường đặt cố định với diện tích lớn thì các dòng năng lượng chủ yếu trong một thiết bị chưng cất nước sử dụng năng lượng mặt trời khi nó hoạt động có thể biểu diễn như hình 4.20. </para>
+        <para id="id10294128">Mục đích của việc thiết kế một thiết bị chưng cất nước là làm sao cho nhiệt lượng dùng cho nước bay hơi Qbh là lớn nhất. Quá trình truyền năng lượng bức xạ mặt trời đã được hấp thụ đến bề mặt ngưng xảy ra bởi hơi nước, và quá trình này tỷ lệ thuận với nước ngưng thu được. Hơn nữa tất cả các phần năng lượng khác truyền từ đáy đến phần xung quanh phải hạn chế càng nhiều càng tốt.</para>
+        <para id="id10294172"><!--Sorry, this media type is not supported.--> Hình 4.21. Sơ đồ mạng nhiệtHầu hết các dòng năng lượng có thể được xác định theo các nguyên lý cơ bản, nhưng sự rò rỉ và các tổn thất qua các góc cạnh rất khó xác định và có thể gộp lại và được xác định bằng thực nghiệm bằng các thiết bị chưng cất thực tế.</para>
+        <para id="id10294249">Sơ đồ mạng nhiệt của thiết bị chưng cất nước dạng bể tương tự như sơ đồ nhiệt của collector tấm phẳng nhưng có 3 sự khác biệt sau (hình 4.21). Năng lượng truyền từ đáy đến tấm phủ xảy ra bởi quá trình bay hơi-ngưng tụ cộng thêm đối lưu và bức xạ. Tổn thất phía đáy chủ yếu là quá trình truyền nhiệt xuống nền đất. Chiều sâu của nước trong thiết bị hay dung lượng của bể phải được xác định trong tính toán... Lượng nước ra chưng cất tính được từ quá trình bay hơi ngưng tụ truyền từ đáy đến tấm phủ.</para>
+        <para id="id10294278">Sơ đồ nhiệt được trình bày ở hình 4.21, trong đó các nhiệt trở tương ứng với các dòng năng lượng hình 4.20. (Các phần rò rỉ, tổn thất qua các cạnh, nước vào và ra không trình bày ở đây). </para>
+        <para id="id10294292">
+          <figure id="id10294317">
+            <media id="id1167997831865" alt=""><image src="graphics16.jpg" mime-type="image/jpeg" height="209" width="295"/></media>
+          </figure>
+          <figure id="id10294364">
+            <media id="id4666822" alt=""><image src="graphics17.jpg" mime-type="image/jpeg" height="210" width="294"/></media>
+          </figure>
+        </para>
+        <para id="id10294388">H×nh 4.22. HÖ thèng ch­ng cÊt n­íc dïng n¨ng l­îng mÆt trêi</para>
+      </section>
+    </section>
+    <section id="id-100704654">
+      <title>Động cơ Stirling</title>
+      <para id="id10294427">Động cơ Stirling là một thiết bị có nhiều ưu việt và cấu tạo đơn giản. Một đầu động cơ được đốt nóng, phần còn lại để nguội và công hữu ích được sinh ra. Đây là một động cơ kín không có đường cấp nhiên liệu cũng như đường thải khí. Nhiệt dùng được lấy từ bên ngoài, bất kể vật gì nếu đốt cháy đều có thể dùng để chạy động cơ Stirling như: than, củi, rơm rạ, dầu hỏa, dầu lửa, cồn, khí đốt tự nhiên, gas mêtan,... nhưng không đòi hỏi quá trình cháy mà chỉ cần cấp nhiệt đủ để làm cho động cơ Stirling hoạt động. Đặc biệt động cơ Stirling có thể hoạt động với năng lượng mặt trời, năng lượng địa nhiệt, hoặc nhiệt thừa từ các quá trình công nghiệp. </para>
+      <para id="id10294451">Nguyên lý hoạt động:</para>
+      <para id="id10294458">Được phát minh từ 1816 động cơ Stirling đầu tiên đã là những thiết bị lớn làm việc trong môi trường công nghiệp. Sau đó các kiểu động cơ Stirling nhỏ hơn và êm này đã trở thành đồ dùng gia đình phổ biến như: quạt, máy may, bơm nước... Các động cơ Stirling ban đầu chứa không khí và được chế tạo từ các vật liệu bình thường rất phổ biến như động cơ “hot air”. Không khí được chứa trong đó và là đối tượng để dãn nở nhiệt, làm lạnh và nén bởi sự chuyển động của các phần khác nhau của động cơ.</para>
+      <para id="id10294491">Động cơ Stirling là một động cơ nhiệt. Để hiểu một cách đầy đủ về sự hoạt động và tiềm năng sử dụng của nó, điều chủ yếu là biết vị trí và lĩnh vực chung của các động cơ nhiệt. Động cơ nhiệt là một thiết bị có thể liên tục chuyển đổi nhiệt năng thành cơ năng. </para>
+      <para id="id10294518">Một ví dụ hiện thực về động cơ nhiệt là đầu máy xe lửa chạy bằng hơi nước trong những năm trước đây. Năng lượng nhiệt được cung cấp bằng cách đốt than hoặc củi, lượng nhiệt này nung nóng nước chứa trong lò hơi và sản ra hơi có áp suất cao, hơi này dãn nở trong xi lanh và đẩy piston chuyển động kéo theo bánh đà, và kéo xe lửa chuyển động. Sau mỗi hành trình của piston, hơi đã sử dụng vẫn còn một ít nóng và được thải ra và nhường chỗ cho hơi mới có áp suất cao vào xylanh. </para>
+      <para id="id10294541">Động cơ diesel là một dạng của động cơ nhiệt nhưng ở dạng khác và thường gọi là động cơ đốt trong. Trong động cơ đốt trong, nhiệt được cung cấp bởi sự đốt cháy nhiên liệu ngay phần bên trong của động cơ, các nhiên liệu này thường là nhiên liệu lỏng như dầu diesel, xăng. Một phần nhiệt biến thành công do sự dãn nở khí nóng (sản phẩm cháy) tác động vào piston. Phần nhiệt còn lại bị thải ra và thoát ra ngoài bởi bức xạ hay tỏa ra từ các cánh làm mát của động cơ. Động cơ tiếp tục sinh công hữu ích chừng nào nhiên liêu còn cung cấp để tạo nhiệt. Ba quá trình: cấp nhiệt, sinh công và thải nhiệt là đặc tính chung của các động cơ nhiệt.</para>
+      <para id="id10294584">Hình 5.25. Không khí áp suất cao đẩy piston Đầu nóngĐầu lạnhHình 5.24. Cấp nhiệt một đầu xylanh, nhiệt độ và áp suất không khí tăng lênHình 5.23. Không khí bên trong và bên ngoài có áp suất và nhiệt độ bằng nhau Động cơ Stirling thì cơ chế của các quá cấp nhiệt, thải nhiệt và sinh công có hơi khác. Để nghiên cứu kỹ về sự hoạt động của động cơ Stirling ta xét một xi lanh kín một đầu với một piston như hình 5.23 và một ít không khí chứa bên trong. Piston chuyển động qua lại tự do nhưng hầu như kín. Giả sử lúc đầu toàn bộ thiết bị có nhiệt độ bằng nhiệt độ đầu lạnh, lúc này không khí bên trong có áp suất bằng áp suất của không khí bên ngoài. Với điều kiện đó, piston sẽ đứng yên ở vị trí ban đầu. Nếu ta đốt nóng một đầu xilanh (đầu nóng) nguồn nhiệt được sử dụng có thể là chùm tia bức xạ mặt trời hội tụ tại đầu xilanh hoặc một cách đơn giản là nhúng đầu xilanh vào nước nóng, thì áp suất và nhiệt độ không khí bên trong tăng lên. Áp suất cao sẽ đẩy piston chuyển động và sinh ra công hữu ích (hình: 5.23, 5.24, 5.25). Bất kỳ nguồn nhiệt nào cũng sinh ra công, nhưng với nguồn có nhiệt độ càng cao thì tạo ra công càng lớn. Động cơ không những chỉ chuyển nhiệt thành công một lần đơn giản như trên mà cần phải có khả năng tiếp tục sinh công.</para>
+      <para id="id10294897"><figure id="id10294908"><media id="id8571810" alt=""><image src=".jpg" mime-type="image/jpeg" height="425" width="315"/></media></figure>Hình 5.26. Quá trình dãn nở cho đến khi áp suất không khí bên trong bằng áp suất khí quyểnHình 5.27. Nêú ngừng cấp nhiệt mà thải nhiệt thì áp suất không khí bên trong giảm xuốngHình 5.28. Piston chuyển động vào bên trong do áp suất không khí bên ngoài cao hơn</para>
+      <para id="id10295068">Công có thể sinh ra từ không khí nóng trong xilanh chừng nào còn có quá trình dãn nở của không khí bên trong. Nếu piston di chuyển ra ngoài quá xa nó sẽ vọt ra khỏi xilanh và quá trình sinh công sẽ kết thúc. Do vậy quá trình dãn nở cần phải kết thúc trước khi điều đó xảy ra. Nếu xilanh được chế tạo thật dài thì quá trình dãn nở có thể xa hơn nhưng cũng có giới hạn hơn nữa piston sẽ chỉ ra ngoài đến khi áp suất bên trong giảm xuống bằng áp suất khí quyển. </para>
+      <para id="id10295085">Nếu khi piston chuyển động đến đầu bên phải của xilanh, ta ngừng quá trình cấp nhiệt và tăng quá trình thải nhiệt (làm mát) thì nhiệt độ và áp suất của không khí phía trong xilanh giảm xuống đến khi áp suất của không khí bên trong thấp hơn áp suất của khí quyển bên ngoài thì piston sẽ chuyển động ngược lại và trở lại vị trí ban đầu (hình 5.26, 5.27, 5.28).</para>
+      <para id="id10295103">Hình 5.29. Nguyên lý hoạt động tự động của động cơ Stirling<figure id="id10295140"><media id="id1167991980305" alt=""><image src=".jpg" mime-type="image/jpeg" height="279" width="539"/></media></figure></para>
+      <para id="id10295168">Vấn đề đặt ra đối với động cơ Stirling là làm thế nào để chúng hoạt động một cách tự động, tức là xilanh nhận, thải nhiệt đúng lúc và liên hệ chặt chẽ với sự chuyển động của piston. Hình 5.29 biểu thị nguyên lý hoạt động đơn giản của động cơ Stirling.</para>
+      <para id="id10295184"><figure id="id10295210"><media id="id1167989952698" alt=""><image src="graphics18.jpg" mime-type="image/jpeg" height="271" width="329"/></media></figure>Hình 5.30. Bơm nước Stirling dùng NLMT Hiện nay về thực nhiệm các kiểu động cơ Stirling đã đạt được độ tin cậy cho sự thực thi. Với hợp kim chịu nhiệt độ cao, thiết bị công nghệ mới, thiết kế quá trình trao đổi nhiệt có sự trợ giúp của máy tính và được nạp khí Hêli hoặc Hyđrô với áp suất cao, các kiểu Stirling có thể dễ dàng vuợt trội các động diesel về hiệu suất cũng như về tỷ lệ giữa năng lượng và trọng lượng. Với đặc chuyển động êm và độ ô nhiễm thấp, động cơ Stirling sẽ không còn có đối thủ cạnh tranh trong tương lai. /. </para>
+    </section>
+  </content>
+</document>

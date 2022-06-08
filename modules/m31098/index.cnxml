@@ -1,0 +1,2223 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Năng lượng mặt trời</title>
+  <metadata>
+  <md:content-id>m31098</md:content-id><md:title>Năng lượng mặt trời</md:title>
+  <md:abstract/>
+  <md:uuid>7acbd844-8bb1-465c-b08a-61a9b83b335e</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-686600179787">
+      <title>NĂNG LƯỢNG MẶT TRỜI </title>
+      <para id="id9499166">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-257451444329">
+      <title>Năng lượng bức xạ mặt trời</title>
+      <para id="id9499183">Trong toàn bộ bức xạ của mặt trời, bức xạ liên quan trực tiếp đến các phản ứng hạt nhân xảy ra trong nhân mặt trời không quá 3%. Bức xạ  ban đầu khi đi qua 5.105km chiều dày của lớp vật chất mặt trời, bị biến đổi rất mạnh. Tất cả các dạng của bức xạ điện từ đều có bản chất sóng và chúng khác nhau ở bước sóng. Bức xạ  là sóng ngắn nhất trong các sóng đó (hình 2.1). Từ tâm mặt trời đi ra do sự va chạm hoặc tán xạ mà năng lượng của chúng giảm đi và bây giờ chúng ứng với bức xạ có bước sóng dài. Như vậy bức xạ chuyển thành bức xạ Rơngen có bước sóng dài hơn. Gần đến bề mặt mặt trời nơi có nhiệt độ đủ thấp để có thể tồn tại vật chất trong trạng thái nguyên tử và các cơ chế khác bắt đầu xảy ra.</para>
+      <para id="id9499242">Đặc trưng của bức xạ mặt trời truyền trong không gian bên ngoài mặt trời là một phổ rộng trong đó cực đại của cường độ bức xạ nằm trong dải 10-1 - 10 m và hầu như một nửa tổng năng lượng mặt trời tập trung trong khoảng bước sóng 0,38 - 0,78 m đó là vùng nhìn thấy của phổ. </para>
+      <para id="id9499286"><figure id="id9499290"><media id="id8335967" alt=""><image src="../../media/graphics1-ac65.png" mime-type="image/png" height="295" width="615"/></media></figure>Hình 2.1 Dải bức xạ điện từ</para>
+      <para id="id9550371">Chùm tia truyền thẳng từ mặt trời gọi là bức xạ trực xạ. Tổng hợp các tia trực xạ và tán xạ gọi là tổng xạ. Mật độ dòng bức xạ trực xạ ở ngoài lớp khí quyển, tính đối với với 1m2 bề mặt đặt vuông góc với tia bức xạ, được tính theo công thứ :</para>
+      <para id="id9550399">
+        <media id="id8434723" alt=""><image src="graphics2.wmf" mime-type="image/wmf" height="29" width="157"/></media>
+      </para>
+      <para id="id9550442">Ở đây <media id="id7325439" alt=""><image src="graphics3.wmf" mime-type="image/wmf" height="22" width="36"/></media>- hệ số góc bức xạ giữa trái đất và mặt trời</para>
+      <para id="id9550484">
+        <media id="id6724665" alt=""><image src="graphics4.wmf" mime-type="image/wmf" height="25" width="93"/></media>
+      </para>
+      <para id="id9550520"><media id="id6980282" alt=""><image src="graphics5.wmf" mime-type="image/wmf" height="18" width="15"/></media> - góc nhìn mặt trời và <media id="id8422546" alt=""><image src="graphics6.wmf" mime-type="image/wmf" height="22" width="15"/></media>  32’ như hình 2.2</para>
+      <para id="id9550600">C0 = 5,67 W/m2.K4 - hệ số bức xạ của vật đen tuyệt đối </para>
+      <para id="id9550642">T  5762 oK -nhiệt độ bề mặt mặt trời (xem giống vật đen tuyệt đối)</para>
+      <para id="id9550674">Vậy <media id="id892523" alt=""><image src="graphics7.wmf" mime-type="image/wmf" height="76" width="225"/></media>  1353 W/m2</para>
+      <figure id="id9556035">
+        <media id="id1167803583830" alt=""><image src="../../media/graphics8.png" mime-type="image/png" height="324" width="577"/></media>
+      </figure>
+      <para id="id9556059">Do khoảng cách giữa trái đất và mặt trời thay đổi theo mùa trong năm nên <media id="id2302828" alt=""><image src="graphics9.wmf" mime-type="image/wmf" height="18" width="15"/></media>cũng thay đổi do đó q cũng thay đổi nhưng độ thay đổi này không lớn lắm nên có thể xem q là không đổi và được gọi là hằng số mặt trời.</para>
+      <para id="id9556116">Khi truyền qua lớp khí quyển bao bọc quanh trái đất các chùm tia bức xạ bị hấp thụ và tán xạ bởi tầng ôzôn, hơi nước và bụi trong khí quyển, chỉ một phần năng lượng được truyền trực tiếp tới trái đất. Đầu tiên ôxy phân tử bình thường O2 phân ly thành ôxy nguyên tử O, để phá vỡ liên kết phân tử đó, cần phải có các photon bước sóng ngắn hơn 0,18m, do đó các photon (xem bức xạ như các hạt rời rạc - photon) có năng lượng như vậy bị hấp thụ hoàn toàn. Chỉ một phần các nguyên tử ôxy kết hợp thành các phân tử, còn đại đa số các nguyên tử tương tác với các phân tử ôxy khác để tạo thành phân tử ôzôn O3, ôzôn cũng hấp thụ bức xạ tử ngoại nhưng với mức độ thấp hơn so với ôxy, dưới tác dụng của các photon với bước sóng ngắn hơn 0,32m, sự phân tách O3 thành O2 và O xảy ra. Như vậy hầu như toàn bộ năng lượng của bức xạ tử ngoại được sử dụng để duy trì quá trình phân ly và hợp nhất của O, O2 và O3, đó là một quá trình ổn định. Do quá trình này, khi đi qua khí quyển, bức xạ tử ngoại biến đổi thành bức xạ với năng lượng nhỏ hơn.</para>
+      <figure id="id9556239">
+        <media id="id1679795" alt=""><image src="../../media/graphics10.png" mime-type="image/png" height="513" width="500"/></media>
+      </figure>
+      <para id="id9556262">Các bức xạ với bước sóng ứng với các vùng nhìn thấy và vùng hồng ngoại của phổ tương tác với các phân tử khí và các hạt bụi của không khí nhưng không phá vỡ các liên kết của chúng, khi đó các photon bị tán xạ khá đều theo mọi hướng và một số photon quay trở lại không gian vũ trụ. Bức xạ chịu dạng tán xạ đó chủ yếu là bức xạ có bước sóng ngắn nhất. Sau khi phản xạ từ các phần khác nhau của khí quyển bức xạ tán xạ đi đến chúng ta mang theo màu xanh lam của bầu trời trong sáng và có thể quan sát được ở những độ cao không lớn. Các giọt nước cũng tán xạ rất mạnh bức xạ mặt trời. Bức xạ mặt trời khi đi qua khí quyển còn gặp một trở ngại đáng kể nữa đó là do sự hấp thụ của các phần tử hơi nưóc, khí cacbônic và các hợp chất khác, mức độ của sự hấp thụ này phụ thuộc vào bước sóng, mạnh nhất ở khoảng giữa vùng hồng ngoại của phổ. </para>
+      <para id="id9556300">Phần năng lượng bức xạ mặt trời truyền tới bề mặt trái đất trong những ngày quang đãng (không có mây) ở thời điểm cao nhất vào khoảng 1000W/m2 hình 2.3.</para>
+      <para id="id9556335">Yếu tố cơ bản xác định cường độ của bức xạ mặt trời ở một điểm nào đó trên trái đất là quãng đường nó đi qua. Sự mất mát năng lượng trên quãng đường đó gắn liền với sự tán xạ, hấp thụ bức xạ và phụ thuộc vào thời gian trong ngày, mùa, vị trí địa lý. Các mùa hình thành là do sự nghiêng của trục trái đất đối với mặt phẳng quỹ đạo của nó quanh mặt trời gây ra. Góc nghiêng vào khoảng 66,5o và thực tế xem như không đổi trong không gian. Sự định hướng như vậy của trục quay trái đất trong chuyển động của nó đối với mặt trời gây ra những sự dao động quan trọng về độ dài ngày và đêm trong năm. </para>
+      <para id="id9587060">Phân bố cường độ bức xạ đơn sác E0() của mặt trời được xác định theo định luật Planck, có dạng:</para>
+      <para id="id9587093">
+        <figure id="id9587118">
+          <media id="id1167796803758" alt=""><image src="graphics11.wmf" mime-type="image/wmf" height="238" width="360"/></media>
+        </figure>
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:msub>
+                    <m:mrow/>
+                    <m:mstyle fontsize="8pt">
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mstyle fontsize="10pt">
+                              <m:mrow>
+                                <m:mi>E</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mstyle fontsize="6pt">
+                              <m:mrow>
+                                <m:mn>0λ</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mstyle fontsize="10pt">
+                                  <m:mrow>
+                                    <m:mi>C</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mtext>.</m:mtext>
+                              <m:msup>
+                                <m:mstyle fontsize="10pt">
+                                  <m:mrow>
+                                    <m:mi>λ</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mstyle fontsize="6pt">
+                                  <m:mrow>
+                                    <m:mn>5</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:msup>
+                              <m:mstyle fontsize="10pt">
+                                <m:mrow>
+                                  <m:mi>e</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mstyle fontsize="6pt">
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mfrac>
+                                      <m:msub>
+                                        <m:mi>C</m:mi>
+                                        <m:mn>2</m:mn>
+                                      </m:msub>
+                                      <m:mi fontstyle="italic">λT</m:mi>
+                                    </m:mfrac>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mstyle>
+                  </m:msub>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ {} rSub { size 8{ { size 10{E} }  rSub { size 6{0λ} } = {  { { size 10{C} }  rSub { size 6{1} }  "."  { size 10{λ} }  rSup { size 6{5} } }  over  { { size 10{e} }  rSup { size 6{ {  { {C}  rSub {2} }  over  {λT} }  - 1} } } } } } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id9587303">Hình 2.4. Phân bố E0() của mặt trờiDiện tích phía dưới đường cong sẽ mô tả cường độ bức xạ toàn phần E0 của Mặt trời. Phần công suất mang tia sáng (AS) thấy được là:</para>
+      <para id="id9587374">EAS = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mn>0,4</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow><m:mn>0,8</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="6pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:mstyle></m:msup></m:mrow></m:msubsup><m:mrow><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0λ</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>λ</m:mi><m:mo stretchy="false">)</m:mo><m:mi fontstyle="italic">dλ</m:mi></m:mrow></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mn>0,5</m:mn></m:mrow><m:mrow><m:msubsup><m:mo stretchy="false">∫</m:mo><m:mn>0</m:mn><m:mo stretchy="false">∞</m:mo></m:msubsup><m:mrow><m:msub><m:mi>E</m:mi><m:mn>0λ</m:mn></m:msub><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mi>λ</m:mi><m:mo stretchy="false">)</m:mo><m:mrow><m:mi fontstyle="italic">dλ</m:mi><m:mo stretchy="false">=</m:mo><m:mn>0,5</m:mn></m:mrow><m:msub><m:mi>E</m:mi><m:mn>0</m:mn></m:msub></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Int rSub { size 8{0,4 "." "10" rSup { size 6{ - 6} } } }  rSup {0,8 "." "10" rSup { size 6{ - 6} } }  {E rSub { size 8{0λ} }  \( λ \) dλ}  size 12{ {}=0,5 Int rSub {0}  rSup { infinity }  {E rSub {0λ}  size 12{ \( λ \) dλ=0,5E rSub {0} }} }} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9555679">E0 đạt cưc trị tại m = 2,98.10-3/T0 = 0,5m và </para>
+      <para id="id9555741">E0max = E0(m,T0) = 8,3.1013 W/m3</para>
+      <para id="id9555813">Cường độ bức xạ toàn phần: E0 = 0.T04 = 6,25.107 W/m2</para>
+      <para id="id9555870">Công suất bức xạ toàn phần của Mặt trời:</para>
+      <para id="id9403520">Q0 = E0.F = .D2.0.T04 = 3,8.1026W. </para>
+      <para id="id9403598">Công suất này bằng 4.1013 lần tổng công suất điện toàn thế giới hiện nay, vào khoảg P = 1013W.</para>
+    </section>
+    <section id="id-244125222466">
+      <title>Phương pháp tính toán năng lượng bức xạ mặt trời</title>
+      <para id="id9403636">Cường độ bức xạ mặt trời trên mặt đất chủ yếu phụ thuộc 2 yếu tố: góc nghiêng của các tia sáng đối với mặt phẳng bề mặt tại điểm đã cho và độ dài đường đi của các tia sáng trong khí quyển hay nói chung là phụ thuộc vào độ cao của mặt trời (Góc giữa phương từ điểm quan sát đến mặt trời và mặt phẳng nằm ngang đi qua điểm đó). Yếu tố cơ bản xác định cường độ của bức xạ mặt trời ở một điểm nào đó trên trái đất là quãng đường nó đi qua. Sự mất mát năng lượng trên quãng đường đó gắn liền với sự tán xạ, hấp thụ bức xạ và phụ thuộc vào thời gian trong ngày, mùa, vị trí địa lý. </para>
+      <para id="id9403679">Quan hệ giữa bức xạ mặt trời ngoài khí quyển và thời gian trong năm có thể xác định theo phương trình sau: </para>
+      <para id="id9403688">Eng = Eo(1+0, 033cos
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>360</m:mtext><m:mi>n</m:mi></m:mrow><m:mtext>365</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"360"n}  over  {"365"} } } {}</m:annotation></m:semantics></m:math>), W/m2</para>
+      <para id="id9403784">trong đó, Eng là bức xạ ngoài khí quyển được đo trên mặt phẳng vuông góc với tia bức xạ vào ngày thứ n trong năm.</para>
+      <section id="id-926330278145">
+        <title>Tính toán góc tới của bức xạ trực xạ</title>
+        <para id="id9403815">Trong quá trình tính toán cần định nghĩa một số khái niệm như sau:</para>
+        <para id="id9403822">- Hệ số khối không khí: m, là tỷ số giữa khối lượng khí quyển theo phương tia bức xạ truyền qua và khối lượng khí quyển theo phương thẳng đứng (tức là khi mặt trời ở thiên đỉnh). Như vậy m =1 khi mặt trời ở thiên đỉnh, m =2 khi góc thiên đỉnh z là 600. Đối với các góc thiên đỉnh từ 0-700 có thể xác định gần đúng m =1/cosz. Còn đối với các góc z&gt;700 thì độ cong của bề mặt trái đất phải được đưa vào tính toán. Riêng đối với trường hợp tính toán bức xạ mặt trời ngoài khí quyển m =0. </para>
+        <para id="id9580901">- Trực xạ: là bức xạ mặt trời nhận được khi không bị bầu khí quyển phát tán. Đây là dòng bức xạ có hướng và có thể thu được ở các bộ thu kiểu tập trung (hội tụ). </para>
+        <para id="id9580920">- Tán xạ: là bức xạ mặt trời nhận được sau khi hướng của nó đã bị thay đổi do sự phát tán của bầu khí quyển (trong một số tài liệu khí tượng, tán xạ còn được gọi là bức xạ của bầu trời, ở đây cần phân biệt tán xạ của mặt trời với bức xạ hồng ngoại của bầu khí quyển phát ra). </para>
+        <para id="id9580942">- Tổng xạ: là tổng của trực xạ và tán xạ trên một bề mặt (phổ biến nhất là tổng xạ trên một bề mặt nằm ngang, thường gọi là bức xạ cầu trên bề mặt). </para>
+        <para id="id9580961">- Cường độ bức xạ (W/m2): là cường độ năng lượng bức xạ mặt trời đến một bề mặt tương ứng với một đơn vị diện tích của bề mặt. Cường độ bức xạ cũng bao gồm cường độ bức xạ trực xạ Etrx, cường độ bức xạ tán xạ Etx và cường độ bức xạ quang phổ Eqp. </para>
+        <para id="id9581018">- Năng lượng bức xạ (J/m2 : là năng lượng bức xạ mặt trời truyền tới một đơn vị diện tích bề mặt trong một khoảng thời gian, như vậy năng lượng bức xạ là một đại lượng bằng tích phân của cường độ bức xạ trong một khoảng thời gian nhất định (thường là 1 giờ hay 1 ngày). </para>
+        <para id="id9581050">- Giờ mặt trờ : là thời gian dựa trên chuyển động biểu kiến của mặt trời trên bầu trời, với quy ước giờ mặt trời chính ngọ là thời điểm mặt trời đi qua thiên đỉnh của người quan sát. Giờ mặt trời là thời gian được sử dụng trong mọi quan hệ về góc mặt trời, nó không đồng nghĩa với giờ theo đồng hồ. </para>
+        <para id="id9581075">Quan hệ hình học giữa một mặt phẳng bố trí bất kỳ trên mặt đất và bức xạ của mặt trời truyền tới, tức là vị trí của mặt trời so với mặt phẳng đó có thể được xác định theo các góc đặc trưng sau (hình 2.5):</para>
+        <para id="id9581089">- Góc vĩ độ : vị trí góc tương ứng với vĩ độ về phía bắc hoặc về phía nam đường xích đạo trái đất, với hướng phía bắc là hướng dương. </para>
+        <para id="id9581111">- 900    900</para>
+        <para id="id9581156">- Góc nghiêng : góc giữa mặt phẳng của bề mặt tính toán và phương nằm ngang. </para>
+        <para id="id9581181">0    1800</para>
+        <para id="id9581219">( &gt; 900 nghĩa là bề mặt nhận bức xạ hướng xuống phía dưới). </para>
+        <para id="id9581246">- Góc phương vị của bề mặt : góc lệch của hình chiếu pháp tuyến bề mặt trên mặt phẳng nằm ngang so với đường kinh tuyến. Góc  = 0 nếu bề mặt quay về hướng chính nam,  lấy dấu (+) nếu bề mặt quay về phía tây và lấy dấu (-) nếu bề mặt quay về phía đông. </para>
+        <para id="id9508669">-1800    1800</para>
+        <figure id="id9508718">
+          <media id="id1167800029114" alt=""><image src="../../media/graphics12.png" mime-type="image/png" height="327" width="577"/></media>
+        </figure>
+        <para id="id9508742">- Góc giờ : góc chuyển động của vị trí mặt trời về phía đông hoặc phía tây của kinh tuyến địa phương do quá trình quay của trái đất quanh trục của nó và lấy giá trị 150 cho 1 giờ đồng hồ, buổi sáng lấy dấu (-), buổi chiều lấy dấu (+). </para>
+        <para id="id9508776">- Góc tới : góc giữa tia bức xạ truyền tới bề mặt và pháp tuyến của bề mặt đó. </para>
+        <para id="id9508798">- Góc thiên đỉnh z: góc giữa phương thẳng đứng (thiên đỉnh) và tia bức xạ tới. Trong trường hợp bề mặt nằm ngang thì góc thiên đỉnh chính là góc tới . </para>
+        <para id="id9508833">- Góc cao mặt trời  : góc giữa phương nằm ngang và tia bức xạ truyền tới, tức là góc phụ của góc thiên đỉnh. </para>
+        <para id="id9508862">- Góc phương vị mặt trời s: góc lệch so với phương nam của hình chiếu tia bức xạ mặt trời truyền tới trên mặt phẳng nằm ngang. Góc này lấy dấu âm (-) nếu hình chiếu lệch về phía đông và lấy dấu dương (+) nếu hình chiếu lệch về phía tây. </para>
+        <para id="id9508897">- Góc lệch : vị trí góc của mặt trời tương ứng với giờ mặt trời là 12 giờ (tức là khi mặt trời đi qua kinh tuyến địa phương) so với mặt phẳng của xích đạo trái đất, với hướng phía bắc là hướng dương. </para>
+        <para id="id9508926">-23,450    23,450</para>
+        <para id="id9508972">Góc lệch  có thể tính toán theo phương trình của Cooper:</para>
+        <para id="id9508991"> = 23,45.sin(360
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mtext>284</m:mtext><m:mo stretchy="false">+</m:mo><m:mi>n</m:mi></m:mrow><m:mtext>365</m:mtext></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {"284"+n}  over  {"365"} } } {}</m:annotation></m:semantics></m:math>)  </para>
+        <para id="id9511932">trong đó n là thứ tự ngày của 1 năm .</para>
+        <para id="id9511938">Quan hệ giữa các loại góc đặc trưng ở trên có thể biểu diễn bằng phương trình giữa góc tới  và các góc khác như sau:</para>
+        <para id="id9511959">cos = sin.sin. cos - sin.cos. sin.cos + cos.cos.cos.cos +</para>
+        <para id="id9512071">+ cos.sin.sin.cos.cos + cos.sin.sin.sin</para>
+        <para id="id9512161">và:cos = cosz.cos + sinz.sin.cos(s - )</para>
+        <para id="id9512249">Đối với bề mặt nằm ngang góc tới  chính là góc thiên đỉnh của mặt trời z, giá trị của nó phải nằm trong khoảng 00 và 900 từ khi mặt trời mọc đến khi mặt trời ở thiên đỉnh ( = 0):</para>
+        <para id="id9512311">cosz = cos.cos.cos + sin.sin</para>
+      </section>
+      <section id="id-15394722636">
+        <title>Bức xạ mặt trời ngoài khí quyển lên mặt phẳng nằm ngang:</title>
+        <para id="id9578951">Tại thời điểm bất kỳ, bức xạ mặt trời đến một bề mặt nằm ngang ngoài khí quyển được xác định theo phương trình:</para>
+        <para id="id9578960">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>ng</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>o</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>033</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>360</m:mtext>
+                              <m:mtext>.</m:mtext>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                            <m:mtext>365</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mtext>.</m:mtext>
+                      <m:mtext>cos</m:mtext>
+                      <m:msub>
+                        <m:mi>θ</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>z</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{o "."  ital "ng"} } =E rSub { size 8{o} }  left (1+0 "." "033" "." "cos" {  {"360" "." n}  over  {"365"} }  right ) "." "cos"θ rSub { size 8{z} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9579110">Thay giá trị cosz vào phương trình trên ta có Eo.ng tại thời điểm bất kỳ từ lúc mặt trời mọc đến lúc mặt trời lặn:</para>
+        <para id="id9579143">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>ng</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>o</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>033</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>360</m:mtext>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                            <m:mtext>365</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>δ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mrow>
+                            <m:mi>ω</m:mi>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mtext>sin</m:mtext>
+                          </m:mrow>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>sin</m:mtext>
+                          <m:mi>δ</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{o "."  ital "ng"} } =E rSub { size 8{o} }  left (1+0 "." "033" "." "cos" {  {"360"n}  over  {"365"} }  right ) left ("cos"φ "." "cos"δ "." "cos"ω+"sin"φ "." "sin"δ right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9579315">Tích phân phương trình này theo thời gian từ khi mặt trời mọc đến khi mặt trời lặn (6h đến 18h mặt trời) ta sẽ được Eo. ngay là năng lượng bức xạ mặt trời trên mặt phẳng nằm ngang trong một ngày:</para>
+        <para id="id9581327">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>ngay</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>24</m:mtext>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>3600</m:mtext>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>o</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mi>π</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>033</m:mtext>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>360</m:mtext>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                            <m:mtext>365</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>δ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>sin</m:mtext>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>ω</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>s</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mfrac>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mtext>πω</m:mtext>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>s</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mstyle>
+                              <m:mtext>180</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mtext>sin</m:mtext>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>sin</m:mtext>
+                          <m:mi>δ</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{o "."  ital "ngay"} } = {  {"24" "." "3600"E rSub { size 8{o} } }  over  {π} }  left (1+0 "." "033" "." "cos" {  {"360"n}  over  {"365"} }  right ) left ("cos"φ "." "cos"δ "." "sin"ω rSub { size 8{s} } + {  { ital "πω" rSub { size 8{s} } }  over  {"180"} } "sin"φ "." "sin"δ right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9581533">với s là góc giờ mặt trời lặn (0) (tức là góc giờ  khi z = 900)</para>
+        <para id="id9581595">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mtext>cos</m:mtext>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>ω</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>s</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mtext>sin</m:mtext>
+                                <m:mi>φ</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>sin</m:mtext>
+                                <m:mi>δ</m:mi>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mtext>cos</m:mtext>
+                                <m:mi>φ</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mtext>cos</m:mtext>
+                                <m:mi>δ</m:mi>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mrow>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>tg</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mrow>
+                      </m:mrow>
+                      <m:mi>φ</m:mi>
+                      <m:mtext>.</m:mtext>
+                      <m:mstyle fontstyle="italic">
+                        <m:mrow>
+                          <m:mtext>tg</m:mtext>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mi>δ</m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{"cos"ω rSub { size 8{s} } = -  {  {"sin"φ "." "sin"δ}  over  {"cos"φ "." "cos"δ} } = -  ital "tg"φ "."  ital "tg"δ} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9581734">Người ta cũng xác định năng lượng bức xạ ngày trung bình tháng Eoth bằng cách thay giá trị n và  trong các công thức trên lấy bằng giá trị ngày trung bình của tháng và độ lệch  tương ứng. </para>
+        <para id="id9551283">Năng lượng bức xạ trên mặt phẳng nằm ngang trong một giờ nhất định có thể xác định khi phân tích phương trình 1.9 trong khoảng thời gian giữa các góc giờ 1 và 2:</para>
+        <para id="id9551323">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>o</m:mi>
+                                <m:mtext>.</m:mtext>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>gio</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mtext>112</m:mtext>
+                            <m:mi>x</m:mi>
+                            <m:mtext>3600</m:mtext>
+                          </m:mrow>
+                          <m:mi>π</m:mi>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>E</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>o</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>033</m:mtext>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mtext>360</m:mtext>
+                              <m:mi>n</m:mi>
+                            </m:mrow>
+                            <m:mtext>365</m:mtext>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:mfenced open="[" close="]">
+                        <m:mrow>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>δ</m:mi>
+                          <m:mrow>
+                            <m:mfenced open="" close="">
+                              <m:mrow>
+                                <m:mtext>sin</m:mtext>
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>ω</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>1</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mtext>sin</m:mtext>
+                                </m:mrow>
+                                <m:msub>
+                                  <m:mi>ω</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mfenced>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mi>π</m:mi>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:msub>
+                                      <m:mi>ω</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>2</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:msub>
+                                      <m:mi>ω</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>1</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:mtext>180</m:mtext>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mtext>sin</m:mtext>
+                          <m:mi>φ</m:mi>
+                          <m:mtext>.</m:mtext>
+                          <m:mtext>sin</m:mtext>
+                          <m:mi>δ</m:mi>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{o "."  ital "gio"} } = {  {"112"x"3600"}  over  {π} } E rSub { size 8{o} }  left (1+0 "." "033" {  {"360"n}  over  {"365"} }  right ) left ["cos"φ "." "cos"δ left ("sin"ω rSub { size 8{1} }  - "sin"ω rSub { size 8{2} }  right )+ {  {π left (ω rSub { size 8{2} }  - ω rSub { size 8{1} }  right )}  over  {"180"} } "sin"φ "." "sin"δ right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+      </section>
+      <section id="id-213952715148">
+        <title>Tổng cường độ bức xạ mặt trời lên bề mặt trên trái đất </title>
+        <para id="id9551590">Tổng bức xạ mặt trời lên một bề mặt đặt trên mặt đất bao gồm hai phần chính đó là trực xạ và tán xạ. Phần trực xạ đã đựơc khảo sát ở trên, còn thành phần tán xạ thì khá phức tạp. Hướng của bức xạ khuếch tán truyền tới bề mặt là hàm số của độ mây và độ trong suốt của khí quyển, các đại lượng này lại thay đổi khá nhiều. Có thể xem bức xạ tán xạ là tổng hợp của 3 thành phần (hình 2.6). </para>
+        <para id="id9551604">- Thành phần tán xạ đẳng hướng: phần tán xạ nhận được đồng đều từ toàn bộ vòm trời. </para>
+        <list id="id9551626" list-type="bulleted">
+          <item>Thành phần tán xạ quanh tia: phần tán xạ bị phát tán của bức xạ mặt trời xung quanh tia mặt trời. </item>
+        </list>
+        <figure id="id9551647">
+          <media id="id1167799439340" alt=""><image src="../../media/graphics13.png" mime-type="image/png" height="269" width="463"/></media>
+        </figure>
+        <list id="id9551671" list-type="bulleted">
+          <item>Thành phần tán xạ chân trời: phần tán xạ tập trung gần đường chân trời. </item>
+        </list>
+        <para id="id9551688">Góc khuếch tán ở mức độ nhất định phụ thuộc độ phản xạ Rg (còn gọi là albedo -suất phân chiếu) của mặt đất. Những bề mặt có độ phản xạ cao (ví dụ bề mặt tuyết xốp có Rg = 0,7) sẽ phản xạ mạnh bức xạ mặt trời trở lại bầu trời và lần lượt bị phát tán trở thành thành phần tán xạ chân trời. </para>
+        <para id="id9451279">Như vậy bức xạ mặt trời truyền đến một bề mặt nghiêng là tổng của các dòng bức xạ bao gồm: trực xạ Eb, 3 thành phần tán xạ Ed1, Ed2, Ed3 và bức xạ phản xạ từ các bề mặt khác lân cận Er:</para>
+        <para id="id9451337">E = Eb + Ed1 + Ed2 + Ed3 + Er</para>
+        <para id="id9451399">Tuy nhiên việc tính toán các đại lượng tán xạ này rất phức tạp. Vì vậy người ta giả thiết là sự kết hợp của bức xạ khuếch tán và bức xạ phản xạ của mặt đất là đẳng hướng, nghĩa là tổng của bức xạ khuếch tán từ bầu trời và bức xạ phản xạ của mặt đất là như nhau trong mọi trường hợp không phụ thuộc hướng của bề mặt. Như vậy tổng xạ trên bề mặt nghiêng sẽ là tổng của trực xạ Eb.Bb và tán xạ trên mặt nằm ngang Ed. </para>
+        <para id="id9451444">Khi đó một bề mặt nghiêng tạo một góc  so với phương nằm ngang sẽ có tổng xạ bằng tổng của 3 thành phần:</para>
+        <para id="id9451464">
+          <m:math>
+            <m:semantics>
+              <m:mtable>
+                <m:mtr>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mi>β</m:mi>
+                            <m:mrow>
+                              <m:mo stretchy="false">∑</m:mo>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:mrow>
+                      </m:mstyle>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msub>
+                        <m:mi>E</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msub>
+                        <m:mi>E</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>d</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mtext>cos</m:mtext>
+                            </m:mrow>
+                            <m:mi>β</m:mi>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:msub>
+                        <m:mi>E</m:mi>
+                        <m:mrow>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mo stretchy="false">∑</m:mo>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mtext>.</m:mtext>
+                          <m:msub>
+                            <m:mi>R</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>g</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mfenced open="" close="">
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:mrow>
+                                  <m:mn>1</m:mn>
+                                  <m:mo stretchy="false">−</m:mo>
+                                  <m:mtext>cos</m:mtext>
+                                </m:mrow>
+                                <m:mi>β</m:mi>
+                              </m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mfrac>
+                          </m:mfenced>
+                        </m:mrow>
+                      </m:msub>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                </m:mtr>
+                <m:mtr>
+                  <m:msub>
+                    <m:mi>E</m:mi>
+                    <m:mrow/>
+                  </m:msub>
+                </m:mtr>
+                <m:mtr>
+                  <m:mstyle fontsize="12pt">
+                    <m:mrow>
+                      <m:mrow/>
+                    </m:mrow>
+                  </m:mstyle>
+                </m:mtr>
+              </m:mtable>
+              <m:annotation encoding="StarMath 5.0"> size 12{E rSub { size 8{β sum } } =E rSub { size 8{b} } B rSub { size 8{b} } +E rSub { size 8{d} }  left ( {  {1+"cos"β}  over  {2} }  right )+E rSub { size 8{ sum } }  "." R rSub { size 8{g} }  left ( {  {1 - "cos"β}  over  {2} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <figure id="id9451678">
+          <media id="id3463676" alt=""><image src="../../media/graphics14.png" mime-type="image/png" height="319" width="461"/></media>
+        </figure>
+        <para id="id9451702">Trong đó : E là tổng xạ trên bề mặt nằm ngang, </para>
+        <para id="id9451722">(1 + cos)/2 = Fcs là hệ số góc của bề mặt đối với bầu trời</para>
+        <para id="id9411063">(1 - cos)/2 = Fcg là hệ số góc của bề mặt đối với mặt đất </para>
+        <para id="id9411092">Rg là hệ số phản xạ bức xạ của môi trường xung quanh. </para>
+        <para id="id9411112">Và ta có tỷ số bức xạ Bb của bề mặt nghiêng góc  so với bề mặt ngang:</para>
+        <para id="id9411139">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>B</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>b</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mstyle fontstyle="italic">
+                                    <m:mrow>
+                                      <m:mtext>bng</m:mtext>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>cos</m:mtext>
+                            <m:mi>θ</m:mi>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>E</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>n</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mtext>.</m:mtext>
+                            <m:mtext>cos</m:mtext>
+                            <m:msub>
+                              <m:mi>θ</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>z</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mtext>cos</m:mtext>
+                          <m:mi>θ</m:mi>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mtext>cos</m:mtext>
+                          <m:msub>
+                            <m:mi>θ</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>z</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{B rSub { size 8{b} } = {  {E rSub { size 8{n} } }  over  {E rSub { size 8{ ital "bng"} } } } = {  {E rSub { size 8{n} }  "." "cos"θ}  over  {E rSub { size 8{n} }  "." "cos"θ rSub { size 8{z} } } } = {  {"cos"θ}  over  {"cos"θ rSub { size 8{z} } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9411318">En là cường độ bức xạ mặt trời tới theo phương bất kỳ, </para>
+        <para id="id9411338">Ebng là bức xạ mặt trời theo phương vuông góc với mặt nằm ngang, </para>
+        <para id="id9411357">Ebngh là bức xạ mặt trời theo phương vuông góc với mặt phẳng nghiêng,</para>
+        <para id="id9411377">cos và cosz được xác định bởi các phương trình trên và các góc được biểu diễn trên hình 2.8.</para>
+        <figure id="id9411412">
+          <media id="id7817018" alt=""><image src="../../media/graphics15.png" mime-type="image/png" height="197" width="456"/></media>
+        </figure>
+        <para id="id9411436">Trong tính toán kỹ thuật, có thể coi cường độ bức xạ tới mặt đất là hàm của thời gian , tính từ lúc mặt trời mọc,  = 0 đến khi mặt trời lặn  =n/2, với n­=24h = 24.3600s như sau: E() = En.sin()</para>
+        <para id="id9411541">() = . là góc nghiêng tia nắng so với mặt đất, </para>
+        <para id="id9418401"/>
+        <para id="id9418406"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>ω</m:mi><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2π</m:mn><m:msub><m:mi>τ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>n</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>2π</m:mn><m:mrow><m:mtext>24</m:mtext><m:mtext>.</m:mtext><m:mtext>3600</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>7,</m:mn></m:mrow><m:mtext>72</m:mtext><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>5</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>rad</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">/</m:mo><m:mi>s</m:mi></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ω= {  {2π}  over  {τ rSub { size 8{n} } } } = {  {2π}  over  {"24" "." "3600"} } =7,"72" "." "10" rSup { size 8{ - 5} }  ital "rad"/s} {}</m:annotation></m:semantics></m:math> là tốc độ góc tự xoay của trái đất,</para>
+        <para id="id9418549">En[W/m2] là cường độ bức xạ cực đại trong ngày, lấy trị trung bình cả năm theo theo số liệu số liệu đo lường thực tế tại vĩ độ cần xét.</para>
+      </section>
+    </section>
+    <section id="id-180625708785">
+      <title>Bức xạ mặt trời truyền qua kính </title>
+      <para id="id9418590">Độ hấp thụ, truyền qua và phản xạ của vật liệu là hàm số của bức xạ truyền tới, độ dày và chỉ số khúc xạ của lớp vật liệu đó. Hầu hết các bộ thu NLMT đều sử dụng kính làm vật liệu che phủ bề mặt bộ thu vì tính chất quang học ưu việt của nó. </para>
+      <section id="id-537935883889">
+        <title>Hiệu ứng lồng kính</title>
+        <figure id="id9418619">
+          <media id="id1167804451456" alt=""><image src="../../media/graphics16.png" mime-type="image/png" height="328" width="253"/></media>
+        </figure>
+        <para id="id9418643">Hiệu ứng lồng kính là hiện tượng tích luỹ năng lượng bức xạ của mặt trời phía dưới một tấm kính hoặc một lớp khí nào đó, ví dụ CO2 hoặc NOx. Giải thích hiệu ứng lồng kính như sau: Tấm kính hoặc lớp khí có độ trong đơn sắc D giảm dần khi bước sóng  tăng. Còn bước sóng mkhi E cực đại, là bước sóng mang nhiều năng lượng nhất, thì lại giảm theo định luật Wien  = 2,9.10-3/T.</para>
+        <para id="id9418756">Bức xạ mặt trời, phát ra từ nhiệt độ cao T0­ = 5762K, có năng lượng tập trung quanh sóng m0 = 0,5m, sẽ xuyên qua kính hoàn toàn, vì D(m0)  1. Bức xạ thứ cấp, phát từ vật thu có nhiệt độ thấp, khoảng T  400K, có năng lượng tập trung quanh sóng m = 8m, hầu như không xuyên qua kính, vì D(­m)  0, và bị phản xạ lại mặt thu. Hiệu số năng lượng (vào - ra) &gt; 0, được tích luỹ phía dưới tấm kính, làm nhiệt độ tại đó tăng lên. </para>
+      </section>
+      <section id="id-68324945683">
+        <title>Sự phản xạ của bức xạ mặt trời</title>
+        <para id="id9433048">Đối với các bề mặt nhẵn, biểu thức Fresnel của độ phản xạ bức xạ qua môi trường thứ nhất có độ khúc xạ (chiết suất) n1 đến môi trường thứ 2 có chiết suất n2 là:</para>
+        <para id="id9433078"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msup><m:mtext>sin</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow><m:mrow><m:msup><m:mtext>sin</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r rSub { size 8{ ortho } } = {  {"sin" rSup { size 8{2} }  left (θ rSub { size 8{2} }  - θ rSub { size 8{1} }  right )}  over  {"sin" rSup { size 8{2} }  left (θ rSub { size 8{2} } +θ rSub { size 8{1} }  right )} } } {}</m:annotation></m:semantics></m:math>đối với thành phần vuông góc.</para>
+        <para id="id9433235">r// = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>tg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>tg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced></m:mrow></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "tg" rSup { size 8{2} }  left (θ rSub { size 8{2} }  - θ rSub { size 8{1} }  right )}  over  { ital "tg" rSup { size 8{2} }  left (θ rSub { size 8{2} } +θ rSub { size 8{1} }  right )} } } {}</m:annotation></m:semantics></m:math>đối với thành phần song song của bức xạ . </para>
+        <para id="id9433398">r = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {E rSub { size 8{r} } }  over  {E rSub { size 8{i} } } } } {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mrow/></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">+</m:mo><m:msub><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mtext>//</m:mtext></m:mrow></m:mstyle></m:msub></m:mrow><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {r rSub { size 8{ ortho } } +r rSub { size 8{"//"} } }  over  {2} } } {}</m:annotation></m:semantics></m:math> là độ phản xạ trung bình của hai thành phần song song và vuông góc. </para>
+        <para id="id11303810">Ei, Er, tương ứng là cường độ bức xạ tới, cường độ bức xạ phản xạ. </para>
+        <para id="id11303839">Các góc 1 và 2 là góc tới và góc khúc xạ (hình 2.10) có quan hệ với độ khúc xạ n theo định luật Snell: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub><m:msub><m:mi>n</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mtext>sin</m:mtext><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mtext>sin</m:mtext><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>1</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {n rSub { size 8{1} } }  over  {n rSub { size 8{2} } } } = {  {"sin"θ rSub { size 8{2} } }  over  {"sin"θ rSub { size 8{1} } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id11303986">Như vậy nếu biết các đại lượng góc 1, 2, và chiết suất các môi trường n1, n2 ta có thể xác định được độ phản xạ r của bề mặt. Đối với tia bức xạ tới vuông góc </para>
+        <figure id="id11304048">
+          <media id="id5301381" alt=""><image src="../../media/graphics17.png" mime-type="image/png" height="286" width="338"/></media>
+        </figure>
+        <para id="id11304072">1, 2 = 0 và các phương trình trên có thể kết hợp:</para>
+        <para id="id11304102">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>r</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mfenced open="" close="">
+                                <m:mn>0</m:mn>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>r</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msup>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{r rSub { size 8{ left (0 right )} } = {  {E rSub { size 8{r} } }  over  {E rSub { size 8{i} } } } = left ( {  {n rSub { size 8{1} }  - n rSub { size 8{2} } }  over  {n rSub { size 8{1} } +n rSub { size 8{2} } } }  right ) rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id11304268">Nếu một môi trường là không khí (chiết suất n2  1) thì: </para>
+        <para id="id11304295">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>r</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mfenced open="" close="">
+                                <m:mn>0</m:mn>
+                              </m:mfenced>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>r</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>i</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:msup>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>n</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mn>1</m:mn>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msup>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{r rSub { size 8{ left (0 right )} } = {  {E rSub { size 8{r} } }  over  {E rSub { size 8{i} } } } = left ( {  {n rSub { size 8{1} }  - 1}  over  {n rSub { size 8{1} } +1} }  right ) rSup { size 8{2} } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9274121">Đối với các loại bộ thu NLMT, thường sử dụng kính hoặc vật liệu màng mỏng trong suốt phủ trên bề mặt hấp thụ nhiệt bức xạ, vì vậy luôn có 2 bề mặt ngăn cách của mỗi lớp vật liệu phủ gây ra tổn thất phản xạ. Nếu bỏ qua nhiệt lượng hấp thụ của lớp vật liệu này và xét tại thời điểm mà chỉ có thành phần vuông góc của bức xạ tới (hình 2.11), thì đại lượng (1 - r ) của tia bức xạ tới sẽ tới được bề mặt thứ 2, trong đó (1 - r )2 đi qua bề mặt phân cách và r (1 - r ) bị phản xạ trở lại bề mặt phân cách thứ nhất v.v...Cộng tất cả các thành phần được truyền qua thì hệ số truyền qua của thành phần vuông góc:</para>
+        <para id="id9274202">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msup>
+                          <m:mfenced open="" close="">
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfenced>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mn>2</m:mn>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msup>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mrow/>
+                          <m:mrow/>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>r</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mrow/>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2n</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">=</m:mo>
+                            <m:mfrac>
+                              <m:msup>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:msub>
+                                      <m:mi>r</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow/>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mfenced>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:msub>
+                                  <m:mi>r</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{ ortho } } = left (1 - r rSub { size 8{ ortho } }  right ) rSup { size 8{2} }  Sum cSub {}  cSup {}  {r rSub { size 8{ ortho }   rSup { size 8{2n} } } = {  { left (1 - r rSub { size 8{ ortho } }  right ) rSup { size 8{2} } }  over  {1 - r rSub { size 8{ ortho } } } } = {  {1 - r rSub { size 8{ ortho } } }  over  {1+r rSub { size 8{ ortho } } } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9274426">Đối với thành phần song song cũng có kết quả tương tự và hệ số truyền qua trung bình của cả hai thành phần:</para>
+        <para id="id9274433">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">+</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{r} } = {  {1}  over  {2} }  left ( {  {1 - r}  over  {1+r} } + {  {1 - r rSub { size 8{ ortho } } }  over  {1+r rSub { size 8{ ortho } } } }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9250950">Nếu bộ thu có N lớp vật liệu phủ trong suốt như nhau thì:</para>
+        <para id="id9250957">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>d</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mstyle fontstyle="italic">
+                                <m:mrow>
+                                  <m:mtext>rN</m:mtext>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfrac>
+                          <m:mn>1</m:mn>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mrow>
+                      <m:mfenced open="[" close="]">
+                        <m:mrow>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>2N</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                          </m:mfrac>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>2N</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mn>1</m:mn>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:msub>
+                                <m:mi>r</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mrow/>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{d rSub { size 8{ ital "rN"} } = {  {1}  over  {2} }  left [ {  {1 - r}  over  {1+ left (2N - 1 right )r} } + {  {1 - r rSub { size 8{ ortho } } }  over  {1+ left (2N - 1 right )r rSub { size 8{ ortho } } } }  right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <table id="id9251147" summary="">
+          <tgroup cols="1">
+            <colspec colnum="1" colname="c1"/>
+            <tbody>
+              <row>
+                <entry/>
+              </row>
+              <row>
+                <entry/>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <figure id="id9251180">
+          <media id="id1167803382262" alt=""><image src="../../media/graphics18.png" mime-type="image/png" height="278" width="515"/></media>
+        </figure>
+      </section>
+      <section id="id-933650047696">
+        <title>Tổn thất do hấp thụ bức xạ của kính </title>
+        <para id="id9251213">Sự hấp thụ bức xạ trong vật liệu không trong suốt được xác định bởi định luật Bougure dựa trên giả thiết là bức xạ bị hấp thụ tỷ lệ với cường độ bức xạ qua vật liệu và khoảng cách x mà bức xạ đi qua: dE = - EKdxvới K là hằng số tỷ lệ. Lấy tích phân dọc theo đường đi của tia bức xạ trong vật liệu từ 0 đến  /cos2 (với  là chiều dày của lớp vật liệu) ta có hệ số truyền qua của vật liệu khi có hấp thụ bức xạ:</para>
+        <para id="id9251285">Da = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>d</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>i</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {E rSub { size 8{d} } }  over  {E rSub { size 8{i} } } } } {}</m:annotation></m:semantics></m:math> = exp 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfenced open="" close=""><m:mrow><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi fontstyle="italic">Kδ</m:mi><m:mrow><m:mtext>cos</m:mtext><m:msub><m:mi>θ</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:mrow></m:mfenced></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( -  {  {Kδ}  over  {"cos"θ rSub { size 8{2} } } }  right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9388888">Trong đó, Ed là cường độ bức xạ truyền qua lớp vật liệu.</para>
+        <para id="id9388910">Đối với kính: K có trị số xấp xỉ 4m-1 đối với loại kính có cạnh màu trắng bạc và xấp xỉ 32m-1 đối với loại kính có cạnh màu xanh lục. </para>
+      </section>
+      <section id="id-427824255154">
+        <title>Hệ số truyền qua và hệ số phản xạ của kính</title>
+        <para id="id9388949">Hệ số truyền qua, hệ số phản xạ và hệ số hấp thụ của một lớp vật liệu có thể được xác định như sau :</para>
+        <para id="id9388958">Đối với thành phần vuông góc của bức xạ:</para>
+        <para id="id9388963">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>D</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:msub>
+                                <m:mi>D</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>a</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                              <m:msup>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:msub>
+                                      <m:mi>r</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow/>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mfenced>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:msup>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:msub>
+                                      <m:mi>r</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mrow/>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                    <m:msub>
+                                      <m:mi>D</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mi>a</m:mi>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                </m:mfenced>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mn>2</m:mn>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msup>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>D</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>a</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo stretchy="false">−</m:mo>
+                          <m:msub>
+                            <m:mi>r</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                        <m:mrow>
+                          <m:mn>1</m:mn>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>r</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfrac>
+                      <m:mfenced open="[" close="]">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msub>
+                              <m:mi>r</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:msup>
+                                    <m:mrow/>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mn>2</m:mn>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msup>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msup>
+                              <m:mfenced open="" close="">
+                                <m:mrow>
+                                  <m:msub>
+                                    <m:mi>r</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mrow/>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                  <m:msub>
+                                    <m:mi>D</m:mi>
+                                    <m:mstyle fontsize="8pt">
+                                      <m:mrow>
+                                        <m:mi>a</m:mi>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:msub>
+                                </m:mrow>
+                              </m:mfenced>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mn>2</m:mn>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msup>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{D rSub { size 8{ ortho } } = {  {D rSub { size 8{a} }  left (1 - r rSub { size 8{ ortho } }  right ) rSup { size 8{2} } }  over  {1 -  left (r rSub { size 8{ ortho } } D rSub { size 8{a} }  right ) rSup { size 8{2} } } } =D rSub { size 8{a} }  {  {1 - r rSub { size 8{ ortho } } }  over  {1+r rSub { size 8{ ortho } } } }  left [ {  {1 - r rSub { size 8{ ortho }   rSup { size 8{2} } } }  over  {1 -  left (r rSub { size 8{ ortho } } D rSub { size 8{a} }  right ) rSup { size 8{2} } } }  right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9389244">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>R</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mrow>
+                            <m:msub>
+                              <m:mi>r</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mfrac>
+                              <m:mrow>
+                                <m:msup>
+                                  <m:mfenced open="" close="">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:msub>
+                                        <m:mi>r</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mrow/>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:msub>
+                                  <m:mi>D</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:msup>
+                                        <m:mi>a</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mn>2</m:mn>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msup>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mtext>.</m:mtext>
+                                <m:msub>
+                                  <m:mi>r</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mrow/>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:msup>
+                                  <m:mfenced open="" close="">
+                                    <m:mrow>
+                                      <m:msub>
+                                        <m:mi>r</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mrow/>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                      <m:mtext>.</m:mtext>
+                                      <m:msub>
+                                        <m:mi>D</m:mi>
+                                        <m:mstyle fontsize="8pt">
+                                          <m:mrow>
+                                            <m:mi>a</m:mi>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:msub>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>2</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                              </m:mrow>
+                            </m:mfrac>
+                          </m:mrow>
+                        </m:mrow>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>r</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mtext>.</m:mtext>
+                          <m:msub>
+                            <m:mi>D</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{R rSub { size 8{ ortho } } =r rSub { size 8{ ortho } } + {  { left (1 - r rSub { size 8{ ortho } }  right ) rSup { size 8{2} } D rSub { size 8{a}   rSup { size 8{2} } }  "." r rSub { size 8{ ortho } } }  over  {1 -  left (r rSub { size 8{ ortho } }  "." D rSub { size 8{a} }  right ) rSup { size 8{2} } } } =r rSub { size 8{ ortho } }  left (1+D rSub { size 8{a} }  "." D rSub { size 8{ ortho } }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9351640">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>A</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow/>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mfenced open="" close="">
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mfenced>
+                      </m:mrow>
+                      <m:mfenced open="[" close="]">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mn>1</m:mn>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:msub>
+                              <m:mi>r</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mrow/>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mi>r</m:mi>
+                            </m:mrow>
+                            <m:mtext>.</m:mtext>
+                            <m:msub>
+                              <m:mi>D</m:mi>
+                              <m:mstyle fontsize="8pt">
+                                <m:mrow>
+                                  <m:mi>a</m:mi>
+                                </m:mrow>
+                              </m:mstyle>
+                            </m:msub>
+                          </m:mrow>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{A rSub { size 8{ ortho } } = left (1 - D rSub { size 8{a} }  right ) left [ {  {1 - r rSub { size 8{ ortho } } }  over  {1 - r "." D rSub { size 8{a} } } }  right ]} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9351789">Thành phần song song của bức xạ cũng được xác định bằng các biểu thức tương tự. Đối với bức xạ tới không phân cực, các tính chất quang học được xác định bằng trung bình cộng của hai thành phần này. </para>
+        <para id="id9351802">Đối với các bộ thu NLMT thực tế, Da thường lớn hơn 0,9 và r  0,1. Vì vậy từ phương trình trên ta có giá trị D  1 (tương tự D//  1). </para>
+      </section>
+      <section id="id-973543805086">
+        <title>Hệ số truyền qua đối với bức xạ khuếch tán</title>
+        <para id="id9351878"> Do bức xạ khuếch tán là vô hướng nên về nguyên tắc lượng bức xạ này truyền qua kính có thể được xác định bằng cách tích phân dòng bức xạ theo tất cả các góc tới. Tuy nhiên do sự phân bố góc của bức xạ khuếch tán nói chung không thể xác định đựơc nên khó xác định biểu thức tích phân này. Nếu bức xạ khuếch tán đến không phụ thuộc góc tới thì có thể tính toán đơn giản hóa bằng cách định nghĩa một góc tương đương đối với bức xạ có cùng hệ số truyền qua như tán xạ. Đối với một khoảng khá rộng các điều kiện tính toán thì góc tương đương này là 600. Nói cách khác, trực xạ với góc tới 600 có cùng hệ số truyền qua như bức xạ khuếch tán đẳng hướng. </para>
+        <para id="id9351937">Hình 2.12 là quan hệ giữa góc tới hiệu quả của bức xạ tán xạ đẳng hướng và bức xạ phản xạ từ mặt đất với các góc nghiêng khác nhau của bộ thu. Có thể xác định gần đúng quan hệ này bằng biểu thức toán học sau:</para>
+        <para id="id9351951">- Đối với bức xạ phản xạ từ mặt đất:</para>
+        <para id="id9351961">hq = 90 - 0,5788 + 0,0026932</para>
+        <para id="id9352007">- Đối với bức xạ khuếch tán:</para>
+        <para id="id9352016">hq = 59,7 - 0,1388 + 0,0014972</para>
+        <figure id="id9352065">
+          <media id="id3207019" alt=""><image src="../../media/graphics19.png" mime-type="image/png" height="448" width="466"/></media>
+        </figure>
+      </section>
+      <section id="id-947223592548">
+        <title>Tích số của hệ số truyền qua và hệ số hấp thụ (DA)</title>
+        <para id="id9352100">Tích số DA của hệ số truyền qua và hệ số hấp thụ được xem như ký hiệu biểu diễn tính chất của một tổ hợp bộ thu và kính (DA). Trong số bức xạ xuyên qua kính và tới bề mặt bộ thu, một phần lại bị phản xạ trở lại hệ thống kính. Tuy nhiên, không phải tất cả lượng bức xạ này bị mất đi mà một phần lớn trong số đó lại được phản xạ trở lại bộ thu nhờ hiệu ứng lồng kính (như biểu diễn trong hình 2.13), trong đó D là hệ số truyền qua của hệ thống kính và A là hệ số hấp thụ của bề mặt bộ thu.</para>
+        <para id="id9343126">Như vậy trong số năng lượng tới, DA là phần sẽ được bộ thu hấp thụ, còn</para>
+        <para id="id9343134">(1-A)D là phần bị phản xạ trở lại hệ thống kính che. Sự phản xạ này được giả thiết là khuếch tán và như vậy phần năng lượng (1- A)D tới tấm phủ là bức xạ khuếch tán và (1- A).D.Rd là phần được phản xạ trở lại bề mặt bộ thu. </para>
+        <figure id="id9343165">
+          <media id="id1167800096030" alt=""><image src="../../media/graphics20.png" mime-type="image/png" height="299" width="534"/></media>
+        </figure>
+        <para id="id9343189">Đại lượng Rd là hệ số phản xạ của hệ thống kính đối với bức xạ khuếch tán từ bề mặt bộ thu và có thể xác định từ phương trình Rd = Da (1-Dr) = Da - D như độ chênh lệch giữa Da và D ở góc tới 600. Nếu hệ thống kính gồm 2 lớp (hay nhiều lớp) thì Rd sẽ hơi khác so với độ phản xạ khuếch tán của bức xạ tới. Sự phản xạ nhiều lần đối với bức xạ khuếch tán sẽ tiếp tục để cho phần năng lượng tới được hấp thụ có trị số:</para>
+        <para id="id9343286">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>DA</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfenced>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>DA</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:munderover>
+                          <m:mo stretchy="false">∑</m:mo>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                                <m:mo stretchy="false">=</m:mo>
+                                <m:mn>0</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:mstyle>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mo stretchy="false">∞</m:mo>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:munderover>
+                        <m:mrow>
+                          <m:msup>
+                            <m:mfenced open="[" close="]">
+                              <m:mrow>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>A</m:mi>
+                                  </m:mrow>
+                                </m:mfenced>
+                                <m:msub>
+                                  <m:mi>R</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mi>d</m:mi>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                              </m:mrow>
+                            </m:mfenced>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>n</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mo stretchy="false">=</m:mo>
+                          <m:mfrac>
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>DA</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">−</m:mo>
+                                <m:mfenced open="" close="">
+                                  <m:mrow>
+                                    <m:mn>1</m:mn>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mi>A</m:mi>
+                                  </m:mrow>
+                                </m:mfenced>
+                              </m:mrow>
+                              <m:msub>
+                                <m:mi>R</m:mi>
+                                <m:mstyle fontsize="8pt">
+                                  <m:mrow>
+                                    <m:mi>d</m:mi>
+                                  </m:mrow>
+                                </m:mstyle>
+                              </m:msub>
+                            </m:mrow>
+                          </m:mfrac>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{ left ( ital "DA" right )= ital "DA" Sum cSub { size 8{n=0} }  cSup { size 8{ infinity } }  { left [ left (1 - A right )R rSub { size 8{d} }  right ] rSup { size 8{n} } = {  { ital "DA"}  over  {1 -  left (1 - A right )R rSub { size 8{d} } } } } } {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9343493">Nói khác đi, sẽ có (DA) phần năng lượng bức xạ truyền tới được bề mặt hấp thụ bộ thu. </para>
+        <para id="id9343502">Trong thực tế A khá lớn và Rd khá nhỏ nên một cách gần đúng người ta thường xác định:</para>
+        <para id="id9343522">(DA) = 1,01 . D . A </para>
+        <para id="id9343533">Do D và A phụ thuộc góc tới  nên đương nhiên tích số (DA) cũng phụ thuộc góc tới . Để xác định quan hệ giữa (DA) và  có thể sử dụng đồ thị ở hình 2.14, trong đó (DA)n­ là tích số (DA) ứng với trường hợp tia tới vuông góc với bề mặt bộ thu ( = 0).</para>
+        <figure id="id9343599">
+          <media id="id6362238" alt=""><image src="../../media/graphics21.png" mime-type="image/png" height="378" width="529"/></media>
+        </figure>
+      </section>
+      <section id="id-545948168797">
+        <title>Tổng bức xạ mặt trời hấp thụ được của bộ thu</title>
+        <para id="id9343633">Năng lượng bức xạ mặt trời được bộ thu hấp thụ gồm 3 thành phần chính: trực xạ, tán xạ, phản xạ của mặt đất. Với bộ thu đặt nghiêng một góc  ta có tổng bức xạ mặt trời hấp thụ của bộ thu như sau:</para>
+        <para id="id9343658">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mi>S</m:mi>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mi>B</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>b</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mfenced open="" close="">
+                            <m:mstyle fontstyle="italic">
+                              <m:mrow>
+                                <m:mtext>DA</m:mtext>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:mfenced>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>b</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>E</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:msub>
+                        <m:mfenced open="" close="">
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>DA</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>d</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mrow>
+                        <m:mfenced open="" close="">
+                          <m:mfrac>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mn>1</m:mn>
+                                <m:mo stretchy="false">+</m:mo>
+                                <m:mtext>cos</m:mtext>
+                              </m:mrow>
+                              <m:mi>β</m:mi>
+                            </m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mfrac>
+                        </m:mfenced>
+                        <m:mo stretchy="false">+</m:mo>
+                        <m:msub>
+                          <m:mi>R</m:mi>
+                          <m:mstyle fontsize="8pt">
+                            <m:mrow>
+                              <m:mi>d</m:mi>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>b</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                          <m:mo stretchy="false">+</m:mo>
+                          <m:msub>
+                            <m:mi>E</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mi>d</m:mi>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msub>
+                        </m:mrow>
+                      </m:mfenced>
+                      <m:msub>
+                        <m:mfenced open="" close="">
+                          <m:mstyle fontstyle="italic">
+                            <m:mrow>
+                              <m:mtext>DA</m:mtext>
+                            </m:mrow>
+                          </m:mstyle>
+                        </m:mfenced>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mi>g</m:mi>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mfenced open="" close="">
+                        <m:mfrac>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mn>1</m:mn>
+                              <m:mo stretchy="false">−</m:mo>
+                              <m:mtext>cos</m:mtext>
+                            </m:mrow>
+                            <m:mi>β</m:mi>
+                          </m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mfrac>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{S=E rSub { size 8{b} } B rSub { size 8{b} }  left ( ital "DA" right ) rSub { size 8{b} } +E rSub { size 8{d} }  left ( ital "DA" right ) rSub { size 8{d} }  left ( {  {1+"cos"β}  over  {2} }  right )+R rSub { size 8{d} }  left (E rSub { size 8{b} } +E rSub { size 8{d} }  right ) left ( ital "DA" right ) rSub { size 8{g} }  left ( {  {1 - "cos"β}  over  {2} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9286345">Eb, Ed là cường độ bức xạ trực xạ và tán xạ, </para>
+        <para id="id9286371">Bb là tỷ số giữa bức xạ trực xạ lên mặt phẳng nghiêng và lên mặt phẳng nằm ngang, </para>
+        <para id="id9286390">(1+cos)/2 và (1-cos)/2 là hệ số góc của bộ thu đối với tương ứng bầu trời và mặt đất, </para>
+        <para id="id9286420">(DA)b, (DA)d, (DA)g là tích số hệ số truyền qua và hệ số hấp thụ tương ứng đối với trực xạ, tán xạ và phản xạ từ mặt đất.</para>
+      </section>
+    </section>
+    <section id="id-0375356633155">
+      <title>Cân bằng nhiệt và nhiệt độ cân bằng của vật thu bức xạ mặt trời</title>
+      <para id="id9286470">Nhiệt độ cân bằng  của vật thu bức xạ mặt trời là nhiệt độ ổn định trên bề mặt vật, khi có sự cân bằng giữa công suất bức xạ vật hấp thụ được và công suất nhiệt phát từ vật ra môi trường.</para>
+      <para id="id9286489">Nhiệt độ cân bằng chính là nhiệt độ lớn nhất mà vật có thể đạt tới sau thời gian thu bức xạ mặt trời đã lâu, khi U của vật = 0.</para>
+      <para id="id9286510">Nhiệt độ cân bằng  của vật thu bức xạ mặt trời là nhiệt độ ổn định trên bề mặt vật, khi có sự cân bằng giữa công suất bức xạ vật hấp thụ dược và công suất nhiệt phát từ vật ra môi trường.</para>
+      <figure id="id9286532">
+        <media id="id1167801173728" alt=""><image src="../../media/graphics22.png" mime-type="image/png" height="385" width="368"/></media>
+      </figure>
+      <para id="id9286557">Ta sẽ lập công thức tính nhiệt độ cân bằng T của vật V có diện tích xung quanh F, hệ số hấp thụ A, hệ số bức xạ  đặt trong chân không cách mặt trời một khoảng r có diện tích hứng nắng Ft, là hình chiếu của F lên mặt phẳng vuông góc tia nắng, hay chính là diện tích “cái bóng” của V. Phương trình cân bằng nhiệt cho V có dạng:</para>
+      <para id="id9286599">Công suất do V hấp thụ = Công suất phát bức xạ từ V. </para>
+      <para id="id9286609">Hay: A.Et.Ft = E.F  A.0.T04(D/2r)2.Ft = .0.T04 F . Suy ra:</para>
+      <para id="id9550732">T(r, Ft, F, A, ) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>D</m:mi><m:mn>2r</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle></m:msup><m:msup><m:mfenced open="" close=""><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AF</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi fontstyle="italic">εF</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{0} }  left ( {  {D}  over  {2r} }  right ) rSup { size 8{ {  {1}  over  {2} } } }  left ( {  { ital "AF" rSub { size 8{t} } }  over  {εF} }  right ) rSup { size 8{ {  {1}  over  {4} } } } } {}</m:annotation></m:semantics></m:math>, [K]</para>
+      <para id="id9550877">Nếu V là vật xám, có A = , thì T(r, Ft, F) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>D</m:mi><m:mn>2r</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle></m:msup><m:msup><m:mfenced open="" close=""><m:mfrac><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mi>F</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{0} }  left ( {  {D}  over  {2r} }  right ) rSup { size 8{ {  {1}  over  {2} } } }  left ( {  {F rSub { size 8{t} } }  over  {F} }  right ) rSup { size 8{ {  {1}  over  {4} } } } } {}</m:annotation></m:semantics></m:math>, [K]</para>
+      <para id="id9551016">Nếu V là vật xám hình cầu, có Ft/F=1/4, thì T(r) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mn>2</m:mn></m:mfrac><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:msqrt><m:mfrac><m:mi>D</m:mi><m:mi>r</m:mi></m:mfrac></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {2} } T rSub { size 8{0} }  sqrt { {  {D}  over  {r} } } } {}</m:annotation></m:semantics></m:math> , [K]</para>
+      <para id="id9551106">Nếu vật V có thông số (, C, , A, F, V) đặt trong khí quyển nhiệt độ tf, toả nhiệt phức hợp hệ số , thì phương trình cân bằng nhiệt trong thời gian d cho V la :</para>
+      <para id="id9551164">QA = dU + Q hay A.En.sin(.).Ft().d = .V.C.dt + .F.(t - tf) .d </para>
+      <para id="id9505632">có dạng
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dt</m:mtext></m:mrow></m:mstyle><m:mi fontstyle="italic">dτ</m:mi></m:mfrac><m:mo stretchy="false">+</m:mo><m:mi>t</m:mi></m:mrow><m:mrow><m:mfrac><m:mi fontstyle="italic">αF</m:mi><m:mrow><m:mi>ρ</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>VC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>AE</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mi>m</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mrow><m:mi>ρ</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>VC</m:mtext></m:mrow></m:mstyle></m:mrow></m:mfrac></m:mrow><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">(</m:mo><m:mi>τ</m:mi><m:mo stretchy="false">)</m:mo><m:mtext>sin</m:mtext><m:mo stretchy="false">(</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>ωτ</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dt"}  over  {dτ} } +t {  {αF}  over  {ρ ital "VC"} } = {  { ital "AE" rSub { size 8{m} } }  over  {ρ ital "VC"} } F rSub { size 8{t} }  \( τ \) "sin" \(  ital "ωτ" \) } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9505806">Khi biết luật thay đổi diện tích thu năng Ft(), có thể giải phương trình vi phân với điều kiện đầu t( = 0) = tf để tìm hàm biến đổi t() của nhiệt độ vật theo thời gian.</para>
+    </section>
+    <section id="id-391755515576">
+      <title>Đo cường độ bức xạ mặt trời.</title>
+      <para id="id9505872">Ngoài phương pháp xác định cường độ bức xạ mặt trời tại một điểm bất kỳ dựa trên vị trí địa lý (độ cao mặt trời trời) như trên, trong thực tế người ta đã chế tạo các dụng cụ đo cường độ bức xạ mặt trời (pyrheliometer, actinometer - đo bức trực xạ, và pyranometer, Solarimeter- đo tổng xạ ).</para>
+      <figure id="id9505912">
+        <media id="id3405925" alt=""><image src="../../media/graphics23.png" mime-type="image/png" height="430" width="667"/></media>
+      </figure>
+    </section>
+  </content>
+</document>

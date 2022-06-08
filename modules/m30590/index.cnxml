@@ -1,0 +1,660 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Vũ trụ và hệ mặt trời</title>
+  <metadata>
+  <md:content-id>m30590</md:content-id><md:title>Vũ trụ và hệ mặt trời</md:title>
+  <md:abstract>Tìm hiểu về vũ trụ và hệ mặt trời</md:abstract>
+  <md:uuid>67ce93cc-47ff-41a4-84e8-49fac3c5b2a5</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-418356081776">
+      <title>VŨ TRỤ VÀ HỆ MẶT TRỜI</title>
+      <para id="id11278973">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-791171692876">
+      <title>Cấu tạo, chuyển động và sự dãn nở của vũ trụ</title>
+      <section id="id-168820348982">
+        <title>Cấu tạo của vũ trụ</title>
+        <figure id="id11279002">
+          <media id="id2713877" alt=""><image src="../../media/graphics1-82a2.png" mime-type="image/png" height="329" width="284"/></media>
+        </figure>
+        <para id="id11279026">Vũ trụ mà ta biết bao gồm vô số các vì sao. Mỗi vì sao là một thiên thể phát sáng, như mặt trời của chúng ta.</para>
+        <para id="id11279036">Quay quanh mỗi vì sao có các hành tinh, các thiên thạch, sao chổi, theo những quỹ đạo ellip lấy sao làm tiêu điểm, nhờ tương tác của lực hấp dẫn. Quay quanh mỗi hành tinh có các vệ tinh, các vành đai hoặc đám bụi. Mỗi vì sao tạo ra quanh nó một hệ mặt trời, như hệ mặt trời của chúng ta.</para>
+        <para id="id11279050">Hàng tỷ hệ mặt trời tụ lại thành một đám, do lực hấp dẫn, tạo ra một thiên hà. Thiên hà của chúng ta được gọi là Ngân hà hay Milky Way, là một trong số hàng tỷ thiên hà trong vũ trụ quan sát được, thiên hà của chúng ta gồm 1011 ngôi sao, có hình đĩa dẹt xoắn ốc, bán kính khoảng = 45.000nas </para>
+        <para id="id11279084">(nas = năm ánh sáng = 365,25x24x60x60x300.000 =9,5.1012km).</para>
+        <para id="id11279106">Mỗi hệ mặt trời quay quanh tâm thiên hà với tốc độ hàng trăm km/s. Hệ mặt trời của chúng ta nằm trên rìa ngoài của Ngân hà, cách tâm khoảng 30.000nas, và quay quanh tâm Ngân hà với vận tốc: </para>
+        <para id="id11251155">vMT= 230km/s.</para>
+        <para id="id11251173">Vũ trụ mà ta quan sát được hiện nay chứa khoảng 10 tỷ thiên hà, có bán kính 3.1025m, chứa khoảng 1020 ngôi sao với tổng khối lượng khoảng 1050kg.</para>
+      </section>
+      <section id="id-572926683323">
+        <title>Sự vận động và dãn nở của vũ trụ </title>
+        <para id="id11251222">Để tồn tại dưới tác dụng của lực hấp dẫn, các thiên thể trong vũ trụ phải chuyển động không ngừng. Các hành tinh tự xoay quanh mình và quay quanh mặt trời với tốc độ vài chục km/s, các mặt trời quay quanh tâm thiên hà với tốc độ hàng trăm km/s, các thiên hà quay quanh tâm đại thiên hà với tốc độ hàng nghìn km/s.</para>
+        <para id="id11251242">Năm 1923, khi sử dụng kính thiên văn vô tuyến ghi phổ bức xạ phát ra từ các thiên hà, Edwin Hubble nhận thấy các vạch quang phổ luôn dịch chuyển về phía bước sóng  dài, phía màu đỏ. Hiện tượng dịch về phía đỏ của bức xạ được giải thích bằng hiệu ứng Doppler, là do các thiên thể phát bức xạ đang chuyển động ra xa nơi thu bức xạ, chuyển động rời xa nhau của các thiên hà được phát hiện thấy theo mọi phương, với vận tốc tăng dần theo khoảng cách giữa chúng. Như vậy, các thiên thể trong vũ trụ đang rời xa nhau, và vũ trụ đang dãn nở như quả bóng đang được thổi căng ra.</para>
+      </section>
+      <section id="id-872204739647">
+        <title>Định luật Hubble</title>
+        <para id="id11251301">Dựa vào thực nghiệm, Edwin Hubble mô tả sự dãn nở của vũ trụ bằng định luật sau: Mọi thiên thể trong vũ trụ đang chuyển động ra xa nhau với vận tốc 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>ω</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { vec  {ω}}} {}</m:annotation></m:semantics></m:math> tỷ lệ thuận với khoảng cách r giữa chúng: 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>ω</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { vec  {ω}}} {}</m:annotation></m:semantics></m:math>= -H. 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mover accent="true"><m:mi>r</m:mi><m:mo stretchy="false">→</m:mo></m:mover></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { vec  {r}}} {}</m:annotation></m:semantics></m:math>, với H 25km/s.106nas là hằng số Hubble.</para>
+        <para id="id11251521">Thực tế hằng số Hubble chưa thể xác định chính xác, chỉ biết nó nằm trong khoảng (1530)km/s.106nas.</para>
+      </section>
+    </section>
+    <section id="id-524951855329">
+      <title>Sự hình thành vũ trụ và hệ mặt trời</title>
+      <section id="id-541030802035">
+        <title>Thuyết Big Bang</title>
+        <para id="id11251568">Thực nghiệm cho biết vũ trụ đang dãn nở, các thiên thể đang rời xa nhau. Vậy nếu đi ngược lại thời gian, các thiên thể sẽ tiến lại gần nhau, thể tích vũ trụ sẽ co dần lại. Tại một thời điểm nào đó, toàn bộ vũ trụ sẽ co lại thành một chất điểm, có khối lượng, năng lượng và nhiệt độ vô cùng lớn.</para>
+        <para id="id11251582">Dựa trên lý luận này, George Lemaitre người Bỉ và sau đó George Gamow cùng Alexandre Priedmann người Nga, bằng các phép tính có cơ sở vật lý đúng đắn, đã nêu ra học thuyết về sự hình thành của vũ trụ, gọi là thuyết Big Bang. Thuyết này cho rằng vũ trụ được sinh ra cách đây khoảng 15 tỷ năm từ một quả trứng cực nhỏ, có khối lượng (M), năng lượng (E) và nhiệt độ (T) cực lớn bởi một vụ nổ lớn gọi là Big Bang. Vụ nổ này tạo ra không gian - thời gian và toàn bộ Vũ trụ, theo quá trình dãn nở như sau:</para>
+        <para id="id11251619">Bảng 1.1. Tóm tắt lịch sử của Vũ trụ</para>
+        <table id="id11251625" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Thời gian</entry>
+                <entry>Nhiệt độT (K)</entry>
+                <entry>Thành phần của Vũ trụ</entry>
+                <entry>Đặc điểm của Vũ trụ</entry>
+              </row>
+              <row>
+                <entry> 10-43s</entry>
+                <entry>T1032K</entry>
+                <entry>Một chất điểm có M, E, T cực lớn</entry>
+                <entry>1 siêu lực, r = 10-35m</entry>
+              </row>
+              <row>
+                <entry>10-35s</entry>
+                <entry>1027K</entry>
+                <entry>Chân không lượng tử, trường năng lượng đồng nhất</entry>
+                <entry>2 lực: Điện hạt nhân (HN), hấp dẫn (HD)</entry>
+              </row>
+              <row>
+                <entry>10-32s</entry>
+                <entry>1025K</entry>
+                <entry>Dãn nở tạo không gian, ngưng kết</entry>
+                <entry>3 lực: HN, điện từ (ĐT) và HD</entry>
+              </row>
+              <row>
+                <entry>10-12s</entry>
+                <entry>1015K</entry>
+                <entry>Nhiệt độ giảm, tạo hạt quarks</entry>
+                <entry>3 lực: HN, ĐT và HD</entry>
+              </row>
+              <row>
+                <entry>10-6s</entry>
+                <entry>1013K</entry>
+                <entry>Tạo photon, điện tử, lepton</entry>
+                <entry>4 lực: HN, ĐT, Từ trường yế và HD</entry>
+              </row>
+              <row>
+                <entry>3phút</entry>
+                <entry>106K</entry>
+                <entry>Tạo proton, neutron</entry>
+                <entry>P = uud, n = udd</entry>
+              </row>
+              <row>
+                <entry>3.105năm</entry>
+                <entry>104K</entry>
+                <entry>Tạo nhân H, He</entry>
+                <entry>He = 2p2n, hạt nhân H</entry>
+              </row>
+              <row>
+                <entry>109 năm</entry>
+                <entry>102K</entry>
+                <entry>Tạo khí H2, He, tinh vân và các thiên hà</entry>
+                <entry>Có khí H2, tinh vân</entry>
+              </row>
+              <row>
+                <entry>1010năm</entry>
+                <entry>10 K</entry>
+                <entry>Tạo mặt trời, hệ MT, tạo các nguyên tố nặng </entry>
+                <entry>Có thiên hà, các sao, hành tinh</entry>
+              </row>
+              <row>
+                <entry>12.109n</entry>
+                <entry>7 K</entry>
+                <entry>Tạo khí quyển, lục địa, núi</entry>
+                <entry>Tạo nguyên tố nặng, sao thứ cấp, núi</entry>
+              </row>
+              <row>
+                <entry>14.109 n</entry>
+                <entry>5 K</entry>
+                <entry>Tạo nước, đại dương, vi khuẩn, tảo, sinh vật</entry>
+                <entry>Có nước, đại dương, sinh vật</entry>
+              </row>
+              <row>
+                <entry>15.109n</entry>
+                <entry>3 K</entry>
+                <entry>Tạo động vật, khỉ, người</entry>
+                <entry>Sinh vật cao, khỉ, người</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-994725366451">
+        <title>Sự hình thành hệ mặt trời</title>
+        <para id="id9297186">Một tỷ năm sau vụ nổ Big Bang, Vũ trụ dãn nở làm nhiệt độ giảm đến 100K. Lúc này các nhân H, He kết hợp với điện tử tạo ra phân tử khí H2, He. Các khí này quây tụ thành từng đám trong thiên hà. Từ mỗi đám bụi này, do tác dụng của lực hấp dẫn, sẽ dần dần hình thành một hệ mặt trời.</para>
+        <para id="id9297232">Hệ mặt trời của ta thuộc thế hệ thứ 3, được sinh ra từ một đám mây bụi và khí có kích thước hàng ngàn tỷ kilômét.</para>
+        <figure id="id9297247">
+          <media id="id1122102" alt=""><image src="../../media/graphics2-1692.png" mime-type="image/png" height="488" width="320"/></media>
+        </figure>
+        <para id="id9297271">Dưới tác dụng của lực hấp dẫn, đám mây bắt đầu co lại, dẹt đi, và tâm của nó trở nên đặc và nóng dần, đến mức có thể khởi phát các phản ứng hạt nhân và trở thành mặt trời. Khí và bụi ít đặc hơn phía ngoài sẽ quay quanh mặt trời, kết thành các vành đai, ngưng tụ thành các hành tinh và tiểu hành tinh. Phần khí loãng quanh hành tinh cũng ngưng kết theo cách tương tự để tạo ra các vệ tinh quay quanh hành tinh.</para>
+      </section>
+      <section id="id-177334252989">
+        <title>Cấu tạo và các thông số của hệ mặt trời</title>
+        <para id="id9297295">Hệ mặt trời gồm có mặt trời và 9 hành tinh quay quanh nó, theo các quỹ đạo ellip gần tròn. Vòng trong có 4 hành tinh dạng rắn là sao Thủy, sao Kim, quả Đất, sao Hỏa, vòng ngoài có 5 hành tinh dạng khí là sao Mộc, sao Thổ, sao Thiên Vương, sao Hải Vương, sao Diêm Vương. </para>
+        <para id="id9341278">Giữa sao Hỏa và sao Mộc có một vành đai gồm các tiểu hành tinh với đường kính từ vài chục mét tới vài trăm kilômét. </para>
+        <para id="id9341291">Các hành tinh đều có từ 1 đến 22 vệ tinh, trừ sao Thủy và sao Kim. Ngoài ra còn có một số sao chổi, gồm một nhân rắn chứa bụi và nước đá với một đuôi hơi nước kéo dài hàng triệu kilômét quay quanh mặt trời theo quỹ đạo ellip rất dẹt.</para>
+        <para id="id9341306">Bảng 1.2 .Các thông số của các thiên thể trong hệ mặt trời </para>
+        <table id="id9341313" summary="">
+          <tgroup cols="12">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <colspec colnum="5" colname="c5"/>
+            <colspec colnum="6" colname="c6"/>
+            <colspec colnum="7" colname="c7"/>
+            <colspec colnum="8" colname="c8"/>
+            <colspec colnum="9" colname="c9"/>
+            <colspec colnum="10" colname="c10"/>
+            <colspec colnum="11" colname="c11"/>
+            <colspec colnum="12" colname="c12"/>
+            <tbody>
+              <row>
+                <entry>Tên thiên thể</entry>
+                <entry>M 1024 kg</entry>
+                <entry>d106 m</entry>
+                <entry> 103 kg/m3</entry>
+                <entry>r 1011 m</entry>
+                <entry>t0C</entry>
+                <entry>gm/s</entry>
+                <entry>n ngày(n)</entry>
+                <entry>Nnăm (N)</entry>
+                <entry>vkm/h</entry>
+                <entry>Thành phần</entry>
+                <entry>Số vệ tinh</entry>
+              </row>
+              <row>
+                <entry>Mặt trời-Sun</entry>
+                <entry>2.106</entry>
+                <entry>1391</entry>
+                <entry>1,4</entry>
+                <entry>0</entry>
+                <entry>6000</entry>
+                <entry>274</entry>
+                <entry>26n</entry>
+                <entry>-</entry>
+                <entry>(618)</entry>
+                <entry>H, He</entry>
+                <entry>(65)</entry>
+              </row>
+              <row>
+                <entry>Thủy - MercuryKim - VenusĐất - EarthHỏa - Mars</entry>
+                <entry>0,334,575,980,64</entry>
+                <entry>4,8812,112,766,79</entry>
+                <entry>5,75,35,54,0</entry>
+                <entry>0,581,081,502,27</entry>
+                <entry>173545-50</entry>
+                <entry>3,788,609,813,72</entry>
+                <entry>58n243n1n1n</entry>
+                <entry>88n225n365,25n687n</entry>
+                <entry>48353024</entry>
+                <entry>Fe, SiFe SiFe SiFe Si</entry>
+                <entry>0012</entry>
+              </row>
+              <row>
+                <entry>Mộc - JupiterThô ̉- SaturnThVương-UranusHVương-NeptuneDVương-Pluto</entry>
+                <entry>1900598871035,5</entry>
+                <entry>14312151502,3</entry>
+                <entry>1,30,71,61,72,03</entry>
+                <entry>7,7714,328,745,059,1</entry>
+                <entry>-150-180-214-220-230</entry>
+                <entry>22,89,057,7711,04,37</entry>
+                <entry>9h10h10h15h6n</entry>
+                <entry>11N30N84N165N248N</entry>
+                <entry>1310754,7</entry>
+                <entry>H, HeH, HeH, HeCH4,NH3H2O,Si</entry>
+                <entry>16221581</entry>
+              </row>
+              <row>
+                <entry>Trăng-Moon</entry>
+                <entry>0,073</entry>
+                <entry>3,47</entry>
+                <entry>3,4</entry>
+                <entry>3,74.10-3</entry>
+                <entry>-170+130</entry>
+                <entry>1,63</entry>
+                <entry>27n7h43’</entry>
+                <entry>365,25</entry>
+                <entry>(1)</entry>
+                <entry>Fe Si</entry>
+                <entry>-</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+      <section id="id-8537137018">
+        <title>Tương lai của vũ trụ</title>
+        <para id="id9418635">Trên cơ sở của vật lý thiên văn hiện đại, có thể dự báo tương lai của vũ trụ theo một trong ba kịch bản sau và phụ thuộc vào mật độ trung bình  của vũ trụ, là một thông số hiện nay chưa xác định chính xác, so với mật độ tới hạn 0= 5.10-27 kg/m3, bằng cỡ ba nguyên tử hidro trong 1 m3.</para>
+        <list id="id9418703" list-type="enumerated">
+          <item>Nếu  &lt; 0 thì vật thể dãn nở không giới hạn, bán kính r tăng đến vô cùng, nhiệt độ tiến tới 0oK, gọi là mô hình vật thể mở.</item>
+        </list>
+        <para id="id9418753">Theo kịch bản này, Mặt trời của chúng ta sẽ tắt hẳn sau hơn 5 tỷ năm nữa, biến thành một xác sao sắt hình cầu. Các thế hệ sao liên tiếp được sinh ra, tiêu hủy hết các hạt nhân nhẹ.</para>
+        <para id="id9418767">Sau 1012 năm, tất cả mọi ngôi sao đều tắt, vũ trụ sẽ là một không gian bao la, đen tối và lạnh lẽo, chứa các xác sao dạng quả cầu sắt, neutron hoặc lỗ đen và các hành tinh lạnh.</para>
+        <para id="id9418796">Sau 1018 năm, dưới tác động lâu dài của lực hấp dẫn, mỗi thiên hà sẽ bị phân hủy thành các xác sao tự do và một lỗ đen thiên hà, có đường kính hàng tỷ km và khối lượng cỡ 109.M0 (Mo = 2.103kg là khối lượng mặt trời)</para>
+        <para id="id9418861">Sau 1027 năm, các lỗ đen trong các đám thiên hà sẽ phân hủy thành các siêu thiên hà. Vũ trụ tiếp tục dãn nở, nhiệt độ hạ thấp đến 10-10 K, đủ lạnh để các lỗ đen bắt đầu bay hơi. Các lỗ đen cỡ mặt trời sẽ bay hơi hết sau 1062 năm, lỗ đen thiên hà biến mất sau 1092 năm, và lỗ đen siêu thiên hà sẽ bay hơi hết thành ánh sáng sau 10100 năm. Lúc này Vũ trụ chỉ còn các quả cầu sắt, neutron và các hành tinh lưu lạc trong không gian bao la, đen tối, nhiệt độ cỡ10-60 K.</para>
+        <para id="id9433086">Sau 101500 năm, nhiệt độ vũ trụ là 10-1000 K, toàn bộ vật chất ở ngoài các sao neutron sẽ co lại thành các quả cầu sắt. Tiếp theo đó, các sao neutron và quả cầu sắt sẽ co lại thành các lỗ đen. Các lỗ đen cuối cùng sẽ bay hơi hết thành ánh sáng sau 1010exp70 năm. Hình bóng cuối cùng của Vũ trụ là một khoảng không vô hạn chứa các hạt photon và neutrino, có mật độ và nhiệt độ tiến dần tới không.</para>
+        <para id="id9433143">Theo những thông tin mới nhất, Vũ trụ của ta có thể phát triển theo kịch bản này.</para>
+        <list id="id9433152" list-type="enumerated">
+          <item>nếu  = 0 thì Vũ trụ sẽ dãn nở chậm dần, tiến tới một bán kính ổn định sau thời gian lâu vô hạn gọi là mô hình Vũ trụ phẳng. Các quá trình trong Vũ trụ phẳng tương tự như trong Vũ trụ mở, nhưng xảy ra chậm dần và tiến tới ổn định lúc thời gian tiến đến vô cùng.</item>
+          <item>Nếu  &gt; 0 thì Vũ trụ sẽ dãn nở chậm dần, đạt bán kính r cực đại, sau đó co lại ngày càng nhanh, tạo ra vụ sụp đổ lớn, gọi là Big Crunch. Kịch bản này gọi là mô hình Vũ trụ kín. Gia tốc và thời gian nở - co sẽ phụ thuộc tỉ số /0. Theo tính toán, Vũ trụ có /0=2 sẽ xảy ra các quá trình sau : </item>
+        </list>
+        <para id="id9433292">Quá trình dãn nở chậm dần, xảy ra trong khoảng 50 tỷ năm. Mặt trời của ta sẽ diễn tiếp kịch bản như trong Vũ trụ mở. Các vì sao tiếp tục sinh ra và chết đi, nhiệt độ Vũ trụ giảm dần.</para>
+        <para id="id9433306">Vào năm thứ 50 tỷ, Vũ trụ có bán kính cực đại, gấp ba lần hiện nay, nhiệt độ bằng 1 K, lúc này lực hấp dẫn cân bằng với lực dãn nở do Big Bang tạo ra, quá trình dãn nở dừng lại. Sau đó quá trình co lại được khởi động, các thiên thể bắt đầu rơi về phía nhau, với gia tốc tăng dần. Năm thứ 99 tỷ, Vũ trụ co lại còn 1/5 kích thước hiện nay, lúc đó các đám thiên hà sẽ hợp lại thành một đám duy nhất. Vũ trụ co tiếp 900 triệu năm sau đó, các thiên hà hợp nhất, tạo ra một không gian bằng 1/100 kích thước Vũ trụ hiện nay, với nhiệt độ nền T 300K, chứa đầy các sao. Sau đó 99 triệu năm, Vũ trụ co lại còn 1/1000 kích thước hiện nay và nhiệt độ nền T=3000K. Sau 900.000 năm nữa, nhiệt độ Vũ trụ đạt T=104K, các sao bắt đầu bay hơi, các nguyên tử bị phân hủy thành các hạt nhân và điện tử, chiếm đầy không gian. Vũ trụ lúc này là một vật đục duy nhất, như lúc 300.000 năm đầu tiên của nó. 90.000 năm tiếp theo, vũ trụ đạt nhiệt độ 107K, gây phản ứng hạt nhân trong các sao, làm nổ trong các sao. Nhiệt độ tiếp tục tăng làm các hạt nhân phân hủy thành proton và neutron, các lỗ đen hút nhau và hút các vật chất xung quanh.</para>
+        <para id="id9433407">Sau 103 năm tiếp theo, nhiệt độ Vũ trụ đạt T &gt;1012K, phá huỷ các proton, neutron để tạo ra món xúp nóng gồm các hạt quarks, neutrino và các phản hạt. Một năm sau đó, là năm cuối cùng, Vũ trụ co lại đến đường kính r =10-30cm, nhiệt độ T=1032K, như lúc khởi đầu Big Bang, tạo ra vụ Big Crunch. Các quá trình sâu xa hơn không thể ngoại suy theo các định luật vật lý đã biết.</para>
+        <para id="id9433471">Rất có thể, sau khi co tới trạng thái tới hạn cực nhỏ nào đó, Vũ trụ lại bùng phát một phản ứng tức thời biến toàn bộ vật chất thành năng lượng, tạo ra vụ Big Bang mới, lặp lại chu kỳ tiếp theo của Vũ trụ.</para>
+        <para id="id9433486">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+      </section>
+    </section>
+    <section id="id-425211291181">
+      <title>Mặt trời, cấu tạo của mặt trời</title>
+      <figure id="id9433530">
+        <media id="id4090422" alt=""><image src="../../media/graphics3.png" mime-type="image/png" height="291" width="256"/></media>
+      </figure>
+      <para id="id11303810">Mặt trời là một khối khí hình cầu có đường kính 1,390.106km (lớn hơn 110 lần đường kính trái đất), cách xa trái đất 150.106km (bằng một đơn vị thiên văn AU ánh sáng mặt trời cần khoảng 8 phút để vượt qua khoảng này đến trái đất). Khối lượng mặt trời khoảng Mo = 2.1030kg. Nhiệt độ To trung tâm mặt trời thay đổi trong khoảng từ 10.106K đến 20.106K, trung bình khoảng 15600000 K. Ở nhiệt độ như vậy vật chất không thể giữ được cấu trúc trật tự thông thường gồm các nguyên tử và phân tử. Nó trở thành plasma trong đó các hạt nhân của nguyên tử chuyển động tách biệt với các electron. Khi các hạt nhân tự do có va chạm với nhau sẽ xuất hiện những vụ nổ nhiệt hạch. Khi quan sát tính chất của vật chất nguội hơn trên bề mặt nhìn thấy được của mặt trời, các nhà khoa học đã kết luận rằng có phản ứng nhiệt hạch xảy ra ở trong lòng mặt trời.</para>
+      <para id="id11303989">Về cấu trúc, mặt trời có thể chia làm 4 vùng, tất cả hợp thành một khối cầu khí khổng lồ. Vùng giữa gọi là nhân hay “lõi” có những chuyển động đối lưu, nơi xảy ra những phản ứng nhiệt hạt nhân tạo nên nguồn năng lượng mặt trời, vùng này có bán kính khoảng 175.000km, khối lượng riêng 160kg/dm3, nhiệt độ ước tính từ 14 đến 20 triệu độ, áp suất vào khoảng hàng trăm tỷ atmotphe. Vùng kế tiếp là vùng trung gian còn gọi là vùng “đổi ngược” qua đó năng lượng truyền từ trong ra ngoài, vật chất ở vùng này gồm có sắt (Fe), can xi (Ca), nát ri (Na), stronti (Sr), crôm (Cr), kền (Ni), cácbon ( C), silíc (Si) và các khí như hiđrô (H2), hêli (He), chiều dày vùng này khoảng 400.000km. Tiếp theo là vùng “đối lưu” dày 125.000km và vùng “quang cầu” có nhiệt độ khoảng 6000K, dày 1000km ở vùng này gồm các bọt khí sôi sục, có chỗ tạo ra các vết đen, là các hố xoáy có nhiệt độ thấp khoảng 4500K và các tai lửa có nhiệt độ từ 7000K -10000K. Vùng ngoài cùng là vùng bất định và gọi là “khí quyển” của mặt trời.</para>
+      <figure id="id11304104">
+        <media id="id1169430932166" alt=""><image src="../../media/graphics4.png" mime-type="image/png" height="399" width="537"/></media>
+      </figure>
+      <para id="id11304128">Nhiệt độ bề mặt của mặt trời khoảng 5762K nghĩa là có giá trị đủ lớn để các nguyên tử tồn tại trong trạng thái kích thích, đồng thời đủ nhỏ để ở đây thỉnh thoảng lại xuất hiện những nguyên tử bình thường và các cấu trúc phân tử. Dựa trên cơ sở phân tích các phổ bức xạ và hấp thụ của mặt trời người ta xác định được rằng trên mặt trời có ít nhất 2/3 số nguyên tố tìm thấy trên trái đất. Nguyên tố phổ biến nhất trên mặt trời là nguyên tố nhẹ nhất Hydro. Vật chất của mặt trời bao gồm chừng 92,1% là Hydro và gần 7,8% là Hêli, 0,1% là các nguyên tố khác. Nguồn năng lượng bức xạ chủ yếu của mặt trời là do phản ứng nhiệt hạch tổng hợp hạt nhân Hydro, phản ứng này đưa đến sự tạo thành Hêli. Hạt nhân của Hydro có một hạt mang điện dương là proton. Thông thường những hạt mang điện cùng dấu đẩy nhau, nhưng ở nhiệt độ đủ cao chuyển động của chúng sẽ nhanh tới mức chúng có thể tiến gần tới nhau ở một khoảng cách mà ở đó có thể kết hợp với nhau dưới tác dụng của các lực hút. Khi đó cứ 4 hạt nhân Hyđrô lại tạo ra một hạt nhân Hêli, 2 neutrino và một lượng bức xạ .</para>
+      <para id="id11304224"> 4H11  He24 + 2 Neutrino +   </para>
+      <para id="id11304306">Neutrino là hạt không mang điện, rất bền và có khả năng đâm xuyên rất lớn. Sau phản ứng các Neutrino lập tức rời khỏi phạm vi mặt trời và không tham gia vào các “biến cố” sau đó. </para>
+      <para id="id9273994">Trong quá trình diễn biến của phản ứng có một lượng vật chất của mặt trời bị mất đi. Khối lượng của mặt trời do đó mỗi giây giảm chừng 4.106 tấn, tuy nhiên theo các nhà nghiên cứu, trạng thái của mặt trời vẫn không thay đổi trong thời gian hàng tỷ năm nữa. Mỗi ngày mặt trời sản xuất một nguồn năng lượng qua phản ứng nhiệt hạch lên đến 9.1024kWh (tức là chưa đầy một phần triệu giây mặt trời đã giải phóng ra một lượng năng lượng tương đương với tổng số điện năng sản xuất trong một năm trên trái đất).</para>
+    </section>
+    <section id="id-833290540659">
+      <title>Các phản ứng hạt nhân và sự tiến hóa của mặt trời</title>
+      <para id="id9274081">Phân bố nhiệt độ và áp suất trong mặt trời</para>
+      <para id="id9274088">Dưới tác dụng của lực hấp dẫn, hướng về tâm khối khí hình cầu của mặt trời, áp suất, nhiệt độ và mật độ khí quyển sẽ tăng dần.</para>
+      <para id="id9274099">Để tìm các hàm phân bố nhiệt độ T(r), áp suất p(r) và khối lượng riêng (r) tại bán kính r, ta sẽ xét một phân tố hình trụ dV=S.dr khí Hydro của mặt trời, thỏa mãn các giả thiết sau:</para>
+      <list id="id9274122" list-type="enumerated">
+        <item>Là khí lý tưởng, nên có quan hệ pv=RT.</item>
+        <item>Là đứng yên, nên có cân bằng giữa trọng lực và các áp lực lên 2 đáy : </item>
+      </list>
+      <para id="id9274141">p.S - (p + dp).S - gSdr =0</para>
+      <list id="id9274157" list-type="enumerated">
+        <item>Là đoạn nhiệt, nên theo định luật nhiệt động 1, có: </item>
+      </list>
+      <para id="id9274171">q = CpdT - vdp = 0</para>
+      <para id="id9274191">
+        ***SORRY, THIS MEDIA TYPE IS NOT SUPPORTED.***
+      </para>
+      <para id="id9274218">Theo (3) có
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dT</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mi>v</m:mi><m:msub><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>p</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dT"}  over  { ital "dp"} } = {  {v}  over  {C rSub { size 8{p} } } } } {}</m:annotation></m:semantics></m:math>, </para>
+      <para id="id9274309">drtheo (2) có 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>ρ</m:mi></m:mrow></m:mrow><m:mtext>.</m:mtext><m:mi>g</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dp"}  over  { ital "dr"} } = - ρ "." g} {}</m:annotation></m:semantics></m:math>, </para>
+      <para id="id9274423">do đó có 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dT</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dT</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">vρg</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>g</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dT"}  over  { ital "dr"} } = {  { ital "dT"}  over  { ital "dp"} }  "."  {  { ital "dp"}  over  { ital "dr"} } = {  { - vρg}  over  { ital "Cp"} } = {  { - g}  over  { ital "Cp"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9250946">Suy ra 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>To</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>T</m:mi></m:mrow></m:mstyle></m:munderover><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dT</m:mtext></m:mrow></m:mstyle></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>g</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Int cSub { size 8{ ital "To"} }  cSup { size 8{T} }  { ital "dT"} = Int cSub { size 8{0} }  cSup { size 8{r} }  { {  { - g}  over  { ital "Cp"} }  ital "dr"} } {}</m:annotation></m:semantics></m:math> hay T(r) = T0 - 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>g</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mi>r</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {g}  over  { ital "Cp"} } r} {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9251153">Và từ 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mi fontstyle="italic">ρg</m:mi></m:mrow></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>g</m:mi></m:mrow><m:mi>v</m:mi></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>gp</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  { ital "dp"}  over  { ital "dr"} } = - ρg= {  { - g}  over  {v} } = {  { -  ital "gp"}  over  { ital "RT"} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9251280">bằng cách lấy tích phân:</para>
+      <para id="id9251285"><m:math><m:semantics><m:mrow/><m:annotation encoding="StarMath 5.0">{}</m:annotation></m:semantics></m:math><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:msub><m:mi>p</m:mi><m:mstyle fontsize="6pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle><m:mi>p</m:mi></m:munderover><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dp</m:mtext></m:mrow></m:mstyle><m:mi>p</m:mi></m:mfrac></m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mtext>ln</m:mtext></m:mrow><m:mfrac><m:mi>p</m:mi><m:msub><m:mi>p</m:mi><m:mn>0</m:mn></m:msub></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow/><m:mo stretchy="false">=</m:mo><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mn>0</m:mn><m:mi>r</m:mi></m:munderover><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>g</m:mi></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RT</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mrow></m:mrow></m:mstyle><m:mstyle fontsize="12pt"><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ Int cSub { size 8{p rSub { size 6{0} } } }  cSup {p}  { {  { ital "dp"}  over  {p} } }  size 12{ {}="ln" {  {p}  over  {p rSub {0} } } } size 12{ {}= Int cSub {0}  cSup {r}  { {  { - g}  over  { ital "RT"} } } } size 12{ ital "dr"}} {}</m:annotation></m:semantics></m:math> = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>gr</m:mtext></m:mrow></m:mstyle></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RT</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>khi</m:mtext></m:mrow></m:mstyle><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>coi</m:mtext></m:mrow></m:mstyle><m:mi/><m:mrow><m:mi>T</m:mi><m:mo stretchy="false">=</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>const</m:mtext></m:mrow></m:mstyle></m:mrow><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mfrac><m:mrow><m:mo stretchy="false">−</m:mo><m:mi>g</m:mi></m:mrow><m:mi>R</m:mi></m:mfrac><m:mrow><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:munderover><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dr</m:mtext></m:mrow></m:mstyle><m:mrow><m:mrow><m:msub><m:mi>T</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>g</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mi>r</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cp</m:mtext></m:mrow></m:mstyle><m:mi>R</m:mi></m:mfrac></m:mrow><m:mtext>ln</m:mtext><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfrac><m:mi>g</m:mi><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CpT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mfrac></m:mrow><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left lbrace  matrix {
+ {  { -  ital "gr"}  over  { ital "RT"} } ` ital "khi"`` ital "coi"``T= ital "const" {} ##
+ {  { - g}  over  {R} }  Int cSub { size 8{0} }  cSup { size 8{r} }  { {  { ital "dr"}  over  {T rSub { size 8{0} }  -  {  {g}  over  { ital "Cp"} } r} } } = {  { ital "Cp"}  over  {R} } "ln" \( 1 -  {  {g}  over  { ital "CpT" rSub { size 8{0} } } } r \) 
+}  right none } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9389160">Từ đó suy ra:</para>
+      <para id="id9389165">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>p</m:mi>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mi>r</m:mi>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mrow>
+                        <m:mo stretchy="true">{</m:mo>
+                        <m:mtable>
+                          <m:mtr>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>p</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>0</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:mtext>exp</m:mtext>
+                                <m:mfenced open="" close="">
+                                  <m:mfrac>
+                                    <m:mrow>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mstyle fontstyle="italic">
+                                        <m:mrow>
+                                          <m:mtext>gr</m:mtext>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:mrow>
+                                    <m:mstyle fontstyle="italic">
+                                      <m:mrow>
+                                        <m:msub>
+                                          <m:mtext>RT</m:mtext>
+                                          <m:mstyle fontsize="8pt">
+                                            <m:mrow>
+                                              <m:mn>0</m:mn>
+                                            </m:mrow>
+                                          </m:mstyle>
+                                        </m:msub>
+                                      </m:mrow>
+                                    </m:mstyle>
+                                  </m:mfrac>
+                                </m:mfenced>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>Khi</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>coi</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mrow>
+                                  <m:mrow>
+                                    <m:mi>T</m:mi>
+                                    <m:mo stretchy="false">=</m:mo>
+                                    <m:msub>
+                                      <m:mi>T</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>0</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                  </m:mrow>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mi/>
+                                </m:mrow>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>const</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mrow/>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                          <m:mtr>
+                            <m:mtd>
+                              <m:mrow>
+                                <m:msub>
+                                  <m:mi>p</m:mi>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mn>0</m:mn>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msub>
+                                <m:msup>
+                                  <m:mfenced open="" close="">
+                                    <m:mrow>
+                                      <m:mn>1</m:mn>
+                                      <m:mo stretchy="false">−</m:mo>
+                                      <m:mfrac>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>gr</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:msub>
+                                              <m:mtext>CpT</m:mtext>
+                                              <m:mstyle fontsize="8pt">
+                                                <m:mrow>
+                                                  <m:mn>0</m:mn>
+                                                </m:mrow>
+                                              </m:mstyle>
+                                            </m:msub>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mfrac>
+                                    </m:mrow>
+                                  </m:mfenced>
+                                  <m:mstyle fontsize="8pt">
+                                    <m:mrow>
+                                      <m:mfrac>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Cp</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                        <m:mi>R</m:mi>
+                                      </m:mfrac>
+                                    </m:mrow>
+                                  </m:mstyle>
+                                </m:msup>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>Khi</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mstyle fontstyle="italic">
+                                  <m:mrow>
+                                    <m:mtext>coi</m:mtext>
+                                  </m:mrow>
+                                </m:mstyle>
+                                <m:mi/>
+                                <m:mrow>
+                                  <m:mi>T</m:mi>
+                                  <m:mo stretchy="false">=</m:mo>
+                                  <m:mrow>
+                                    <m:msub>
+                                      <m:mi>T</m:mi>
+                                      <m:mstyle fontsize="8pt">
+                                        <m:mrow>
+                                          <m:mn>0</m:mn>
+                                        </m:mrow>
+                                      </m:mstyle>
+                                    </m:msub>
+                                    <m:mo stretchy="false">−</m:mo>
+                                    <m:mfenced open="" close="">
+                                      <m:mfrac>
+                                        <m:mi>g</m:mi>
+                                        <m:mstyle fontstyle="italic">
+                                          <m:mrow>
+                                            <m:mtext>Cp</m:mtext>
+                                          </m:mrow>
+                                        </m:mstyle>
+                                      </m:mfrac>
+                                    </m:mfenced>
+                                  </m:mrow>
+                                </m:mrow>
+                                <m:mi>r</m:mi>
+                              </m:mrow>
+                            </m:mtd>
+                          </m:mtr>
+                        </m:mtable>
+                      </m:mrow>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{p \( r \) = left lbrace  matrix {
+p rSub { size 8{0} } "exp" left ( {  { -  ital "gr"}  over  { ital "RT" rSub { size 8{0} } } }  right )`` ital "Khi"` ital "coi"```T=T rSub { size 8{0} } =` ital "const" {} ##
+p rSub { size 8{0} }  left (1 -  {  { ital "gr"}  over  { ital "CpT" rSub { size 8{0} } } }  right ) rSup { size 8{ {  { ital "Cp"}  over  {R} } } } ```` ital "Khi"`` ital "coi"``T=T rSub { size 8{0} }  -  left ( {  {g}  over  { ital "Cp"} }  right )r
+}  right none } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <para id="id9351616">Phân bố khối lượng riêng (r) sẽ có dạng:</para>
+      <para id="id9351634">(r) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>p</m:mi><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo></m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>RT</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">(</m:mo><m:mi>r</m:mi><m:mo stretchy="false">)</m:mo></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:msub><m:mi>p</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>RT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mfrac></m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">−</m:mo><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>gr</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:msub><m:mtext>CpT</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle></m:msub></m:mrow></m:mstyle></m:mfrac></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cv</m:mtext></m:mrow></m:mstyle><m:mi>R</m:mi></m:mfrac></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {p \( r \) }  over  { ital "RT" \( r \) } } = {  {p rSub { size 8{0} } }  over  { ital "RT" rSub { size 8{0} } } }  left (1 -  {  { ital "gr"}  over  { ital "CpT" rSub { size 8{0} } } }  right ) rSup { size 8{ {  { ital "Cv"}  over  {R} } } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9351813">Nhiệt độ T0 tại tâm mặt trời có thể tính theo nhiệt độ bề mặt:</para>
+      <para id="id9351832">T(r = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>D</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {D}  over  {2} } } {}</m:annotation></m:semantics></m:math>= 7.108m) = 5762K</para>
+      <para id="id9351899">Gia tốc trọng lực: g = G
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mi>M</m:mi><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>6,</m:mn></m:mrow><m:mtext>673</m:mtext><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:mstyle></m:msup><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mtext>30</m:mtext></m:mrow></m:mstyle></m:msup></m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mn>7</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>8</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>274</m:mtext></m:mrow><m:mrow><m:mi>m</m:mi><m:mo stretchy="false">/</m:mo><m:msup><m:mi>s</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {M}  over  {r rSup { size 8{2} } } } =6,"673" "." "10" rSup { size 8{ - "11"} }  {  {2 "." "10" rSup { size 8{"30"} } }  over  { left (7 "." "10" rSup { size 8{8} }  right ) rSup { size 8{2} } } } ="274"m/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9352066">Nhiệt dung riêng của hydro Cp=
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mrow><m:mi>i</m:mi><m:mo stretchy="false">+</m:mo><m:mn>2</m:mn></m:mrow><m:mn>2</m:mn></m:mfrac><m:mrow><m:mfrac><m:mi fontstyle="italic">Rμ</m:mi><m:mi>μ</m:mi></m:mfrac><m:mo stretchy="false">=</m:mo><m:mfrac><m:mn>7</m:mn><m:mn>2</m:mn></m:mfrac></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mfrac><m:mtext>8314</m:mtext><m:mn>2</m:mn></m:mfrac><m:mo stretchy="false">=</m:mo><m:mtext>14550</m:mtext></m:mrow><m:mi/><m:mrow><m:mi>J</m:mi><m:mo stretchy="false">/</m:mo><m:mstyle fontstyle="italic"><m:mrow><m:mtext>kgK</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {i+2}  over  {2} }  {  {Rμ}  over  {μ} } = {  {7}  over  {2} }  "."  {  {"8314"}  over  {2} } ="14550"`J/ ital "kgK"} {}</m:annotation></m:semantics></m:math>, </para>
+      <para id="id9343189">Nhiệt độ tâm mặt trời có thể xác định theo công thức: </para>
+      <para id="id9343198">
+        <m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mstyle fontsize="12pt">
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:msub>
+                        <m:mi>T</m:mi>
+                        <m:mstyle fontsize="8pt">
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:msub>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mi>T</m:mi>
+                    </m:mrow>
+                    <m:mo stretchy="false">(</m:mo>
+                    <m:mi>r</m:mi>
+                    <m:mrow>
+                      <m:mo stretchy="false">)</m:mo>
+                      <m:mo stretchy="false">+</m:mo>
+                      <m:mfrac>
+                        <m:mi>g</m:mi>
+                        <m:mstyle fontstyle="italic">
+                          <m:mrow>
+                            <m:mtext>Cp</m:mtext>
+                          </m:mrow>
+                        </m:mstyle>
+                      </m:mfrac>
+                    </m:mrow>
+                    <m:mrow>
+                      <m:mi>r</m:mi>
+                      <m:mo stretchy="false">=</m:mo>
+                      <m:mtext>13</m:mtext>
+                    </m:mrow>
+                    <m:mi>,</m:mi>
+                    <m:mn>2</m:mn>
+                    <m:mtext>.</m:mtext>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      <m:mstyle fontsize="8pt">
+                        <m:mrow>
+                          <m:mn>6</m:mn>
+                        </m:mrow>
+                      </m:mstyle>
+                    </m:msup>
+                    <m:mi>K</m:mi>
+                  </m:mrow>
+                </m:mrow>
+              </m:mstyle>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{T rSub { size 8{0} } =T \( r \) + {  {g}  over  { ital "Cp"} } r="13",2 "." "10" rSup { size 8{6} } K} {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para>
+      <figure id="id9343327">
+        <media id="id3249404" alt=""><image src="../../media/graphics5.png" mime-type="image/png" height="256" width="492"/></media>
+      </figure>
+      <section id="id-504042893555">
+        <title>Các phản ứng hạt nhân trong mặt trời</title>
+        <section id="id-55591769749">
+          <title>Phản ứng tổng hợp hạt nhân Hêli</title>
+          <para id="id9343367">Trong quá trình hình thành, nhiệt độ bên trong mặt trờisẽ tăng dần. Khi vùng tâm mặt trời đạt nhiệt độ T 107K, thì có đủ điều kiện để xảy ra phản ứng tổng hợp Hêli từ Hydrô, theo phương trình : 4H1  He4 + q.</para>
+          <para id="id9343426">Đây là phản ứng sinh nhiệt q = m.c2, trong đó c = 3.108m/s là vận tốc ánh sáng trong chân không, m = (4mH - mHe) là khối lượng bị hụt, được biến thành năng lượng theo phương trình Einstein. Mỗi 1kg hạt nhân H1 chuyển thành He4 thì bị hụt một khối lượng m = 0,01kg, và giải phóng ra năng lượng: </para>
+          <para id="id9343522">q = m.c2 = 0,01.(3.108)2 = 9.1014 J</para>
+          <para id="id9343572">Lượng nhiệt sinh ra sẽ làm tăng áp suất khối khí, khiến mặt trời phát ra ánh sáng và bức xạ, và nở ra cho đến khi cân bằng với lực hấp dẫn. Mỗi giây mặt trời tiêu hủy hơn 420 triệu tấn hydro, giảm khối lượng m = 4,2 triệu tấn và phát ra năng lượng Q = 3,8.1026W.</para>
+          <para id="id9343608">Muốn đạt nhiệt độ tại tâm đủ cao để thành một ngôi sao, thiên thể cần có khối lượng M  0,08M0, với M0 = 2.1030kg là khối lượng mặt trời.</para>
+          <para id="id9343656">Thời gian xảy ra phản ứng tổng hợp Heli nằm trong khoảng (1081010)năm, giảm dần khi khối lượng ngôi sao tăng. Khi khối lượng sao càng lớn nhiệt độ và áp suất của phản ứng đủ cân bằng lực hấp dẫn càng lớn, khiến tốc độ phản ứng tăng, thời gian cháy Hydro giảm. Giai đoạn đốt Hydro của mặt trời được khởi động cách đây 4,5 tỷ năm, và còn tiếp tục trong khoảng 5,5 tỷ năm nữa.</para>
+        </section>
+        <section id="id-688218266019">
+          <title>Phản ứng tổng hợp Cácbon và các nguyên tố khác</title>
+          <para id="id9286133">Khi nhiên liệu H2 dùng sắp hết, phản ứng tổng hợp He sẽ yếu dần, áp lực bức xạ bên trong không đủ mạnh để cân bằng lực nén do hấp dẫn, khiến thể tích co lại. Khi co lại, khí He bên trong bị nén nên nhiệt độ tăng dần, cho đến khi đạt tới nhiệt độ 108K, sẽ xảy ra phản ứng tổng hợp nhân Cacbon từ He :</para>
+          <para id="id9286176">3He4  C12 + q</para>
+          <para id="id9286217">Phản ứng này xảy ra ở nhiệt độ cao, tốc độ lớn, nên thời gian cháy He chỉ bằng1/30 thời gian cháy H2 khoảng 300 triệu năm. Nhiệt sinh ra trong phản ứng làm tăng áp suất bức xạ, khiến ngôi sao nở ra hàng trăm lần so với trước. Lúc này mặt ngoài sao nhiệt độ khoảng 4000K, có màu đỏ, nên gọi là sao đỏ khổng lồ. Vào thời điểm là sao đỏ khổng lồ, mặt trời sẽ nuốt chửng sao Thủy và sao Kim, nung trái đất đến 1500K thành 1 hành tinh nóng chảy, kết thúc sự sống tại đây.</para>
+          <para id="id9286263">Kết thúc quá trình cháy Heli, áp lực trong sao giảm, lực hấp dẫn ép sao co lại, làm mật độ và nhiệt độ tăng lên, đến T= 5.106K sẽ xảy ra phản ứng tạo Oxy:</para>
+          <para id="id9286286">4C12 3O16 + q</para>
+          <para id="id9286314">Quá trình cháy xảy ra như trên, với tốc độ tăng dần và thời gian ngắn dần. Chu trình cháy - tắt - nén - cháy được tăng tốc, liên tiếp thực hiện các phản ứng tạo nguyên tố mới O16 -&gt; Ne20 -&gt; Na22 -&gt; Mg24 -&gt; Al26 -&gt; Si28 -&gt; P30 -&gt; S32 -&gt;... -&gt; Cr52 -&gt; Mn54 -&gt; Fe56</para>
+          <para id="id9286430">Các phản ứng trên đã tạo ra hơn 20 nguyên tố, tận cùng là sắt Fe56 (gồm 26 proton và 30 netron), toàn bộ quá trình được tăng tốc, xảy ra chỉ trong vài triệu năm.</para>
+          <para id="id9286448">Sau khi tạo ra sắt Fe56, chuỗi phản ứng hạt nhân trong ngôi sao kết thúc, vì việc tổng hợp sắt thành nguyên tố nặng hơn không có độ̣ hụt khối lượng, không phát sinh năng lượng, mà cần phải cấp thêm năng lượng.</para>
+        </section>
+      </section>
+      <section id="id-740485014484">
+        <title>Sự tiến hóa cuả mặt trời</title>
+        <para id="id9286485">Sau khi tạo ra sắt, các phản ứng hạt nhân sinh nhiệt tắt hẳn, lực hấp dẫn tiếp tục nén mặt trời cho đến “chết”. Quá trình hoá thân của mặt trời phụ thuộc cường độ lực hấp dẫn, tức là tuỳ thuộc vào khối lượng của nó, theo một trong ba kịch bản như sau:</para>
+        <list id="id9286515" list-type="enumerated">
+          <item>Các sao có khối lượng M (0,7  1,4)M0:</item>
+        </list>
+        <para id="id9286554">Sau khi hết nhiên liệu, từ một sao đỏ khổng lồ đường kính 100.106 km co lại thành sao lùn trắng đường kính cỡ 1500 km, là trạng thái dừng khi lực hấp dẫn cân bằng với áp lực tạo ra khi các nguyên tử đã ép sát lại nhau, có khối lượng riêng cỡ 1012 kg/m3. Nhiệt sinh ra khi nén làm nhiệt độ bề mặt sao đạt tới 6000K, sau đó tỏa nhiệt và nguội dần trong một tỉ năm thành sao lùn đen hay sao sắt, như một xác sao không thấy được lang thang trong vũ trụ. Mặt trời hoá kiếp theo kiểu này.</para>
+        <list id="id9286635" list-type="enumerated">
+          <item>Các sao có khối lượng M  (1,4 5)M0:</item>
+        </list>
+        <para id="id9383891">Lực hấp dẫn đủ mạnh để ép nát nguyên tử, ép các hạt nhân lại sát nhau, làm tróc hết lớp vỏ điện tử, tạo ra một khối gồm toàn neutron ép sát nhau và gọi là sao neutron, có đường kính cỡ 15 km và mật độ 1018kg/m3.</para>
+        <para id="id9383936">Quá trình co lại với gia tốc lớn và bị chặn đột ngột tại trạng thái neutron, tạo ra một chấn động dữ dội, gây ra vụ nổ siêu sao mới, gọi là supernova, phát ra năng lượng bằng trăm triệu lần năng lượng mặt trời, làm bắn tung toàn bộ các lớp ngoài của sao gồm đủ các loại nguyên tố. Lớp vật liệu bắn ra sẽ tạo thành các đám bụi vũ trụ thứ cấp, để hình thành các sao thứ cấp sau đó. Sao neutron mới tạo ra, còn gọi là pulsar, sẽ tự quay với tốc độ khoảng 630 vòng/s và phát bức xạ rất mạnh dọc trục, phát tán hết năng lượng sau vài triệu năm và sẽ hết quay, trở thành một xác chết trong vũ trụ.</para>
+        <list id="id9383986" list-type="enumerated">
+          <item>Các sao có khối lượng M 5M0:</item>
+        </list>
+        <para id="id9384018">Quá trình tổng hợp các hạt nhân nặng được gia tốc, xảy ra rất nhanh. Sau khi hết nhiên liệu, do lực hấp dẫn quá lớn, sao sụp đổ với gia tốc lớn, co lại liên tục, không dừng lại ở trạng thái neutron, đạt tới bán kính Schwarzschild R =
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>GM</m:mtext></m:mrow></m:mstyle></m:mrow><m:msup><m:mi>C</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2 ital "GM"}  over  {C rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math>, tạo thành một lỗ đen, kèm theo một vụ nổ siêu sao mới. Lỗ đen có khối lượng riêng khoảng 1023 kg/m3, tạo ra trường hấp dẫn rất mạnh, làm cong không gian xung quanh tới mức vật chất kể cả ánh sáng cũng không thể thoát ra được. Mọi thiên thể đến gần đều bị cuốn hút như một xoáy nước khổng lồ. Nếu được nén đến trạng thái lỗ đen, đạt tới bán kính hấp dẫn, thì bán kính Quả đất chỉ bằng 3cm, bán kính mặt trời là 3 km.</para>
+      </section>
+    </section>
+    <section id="id-446598619822">
+      <title>Trái đất, cấu tạo của trái đất</title>
+      <figure id="id9384164">
+        <media id="id2512774" alt=""><image src="../../media/graphics6.png" mime-type="image/png" height="353" width="272"/></media>
+      </figure>
+      <para id="id9384188">Trái đất được hình thành cách đây gần 5 tỷ năm từ một vành đai bụi khí quay quanh mặt trời, kết tụ thành một quả cầu xốp tự xoay và quay quanh mặt trời. Lực hấp dẫn ép quả cầu co lại, khiến nhiệt độ nổ tăng lên hàng ngàn độ, làm nóng chảy quả cầu, khi đó các nguyên tố nặng như Sắt và Niken chìm dần vào tâm tạo lõi quả đất, xung quanh là magma lỏng, ngoài cùng là khí quyển sơ khai gồm H2, He, H2O, CH4, NH3 và H2SO4. Trái đất tiếp tục quay, tỏa nhiệt và nguội dần. Cách đây 3,8 tỷ năm nhiệt độ đủ nguội để Silicat nổi lên trên mặt magma rồi đông cứng lại, tạo ra vỏ trái đất dày khoảng 25km, với núi cao, đất bằng và hố sâu. Năng lượng phóng xạ trong lòng đất với bức xạ mặt trời tiếp tục gây ra các biến đổi địa tầng, và tạo ra thêm H2O, N2, O2, CO2 trong khí quyển. Khí quyển nguội dần đến độ nước ngưng tụ, gây ra mưa kéo dài hành triệu năm, tạo ra sông hồ, biển và đại dương.</para>
+      <para id="id9384307">Cách đây gần 2 tỷ năm, những sinh vật đầu tiên xuất hiện trong nước, sau đó phát triển thành sinh vật cấp cao và tiến hoá thành người. </para>
+      <para id="id9384322">Trái đất, hành tinh thứ 3 tính từ mặt trời, cùng với mặt trăng một vệ tinh duy nhất tạo ra một hệ thống hành tinh kép đặc biệt. Trái đất là hành tinh lớn nhất trong số các hành tinh bên trong của hệ mặt trời với đường kính ở xích đạo 12.756 km. Nhìn từ không gian, trái đất có màu xanh, nâu và xanh lá cây với những đám mây trắng thường xuyên thay đổi. Bề mặt trái đất có một đặc tính mà không một hành tinh nào khác có: hai trạng thái của vật chất cùng tồn tại bên nhau ở cả thể rắn và thể lỏng. Vùng ranh giới giữa biển và đất liền là nơi duy nhất trong vũ trụ có vật chất hiện hữu ổn định trong cả 3 thể rắn, lỏng và khí.</para>
+      <para id="id9384353"><figure id="id9384364"><media id="id2547558" alt=""><image src=".wmf" mime-type="image/wmf" height="360" width="500"/></media></figure>Hình 1.9. Cấu tạo bên trong trái đất</para>
+      <para id="id9384411">Về cấu tạo, bên trong trái đất được chia ra 4 lớp. Trong cùng là nhân trong, có bán kính r  1300km, nhiệt độ T  4000K, gồm Sắt và Niken bị nén cứng. Tiếp theo là nhân ngoài, có r  (1300  3500)km, nhiệt độ T  (2000  4000)K, gồm Sắt và Niken lỏng. Kế tiếp là lớp magma lỏng, chủ yếu gồm SiO và Sắt, có r  (3500  6350)km, nhiệt độ T  (1000  2000)K. Ngoài cùng là lớp vỏ cứng dày trung bình 25 km, có nhiệt độ T  (300  1000)K, chủ yếu gồm SiO và H2O. Lớp vỏ này gồm 7 mảng lớn và hơn 100 mảng nhỏ ghép lại, chúng trôi trượt và va đập nhau, gây ra động đất và núi lửa, làm thay đổi địa hình.</para>
+      <para id="id11318425">Hành tinh trái đất di chuyển trên một quỹ đạo gần ellip, mặt trời không ở tâm của ellip, mà là tại một trong 2 tiêu điểm. Trong thời gian một năm, có khi trái đất gần, có khi xa mặt trời đôi chút, vì quỹ đạo ellip của nó gần như hình tròn. Hàng năm, vào tháng giêng, trái đất gần mặt trời hơn so với vào tháng 7 khoảng 5 triệu km, sự sai biệt này quá nhỏ so với khoảng cách mặt trời đến trái đất. Chúng ta không cảm nhận được sự khác biệt này trong một vòng quay của trái đất quanh mặt trời, hay trong một năm, sự khác biệt về khoảng cách này hầu như không ảnh hưởng gì đến mùa đông và mùa hè trên trái đất, chỉ có điều là vào mùa đông chúng ta ở gần mặt trời hơn so với mùa hè chút ít.</para>
+      <para id="id11318459">Trái đất chuyển động quanh mặt trời, đồng thời nó cũng tự quay quanh trục của nó. Trong thời gian quay một vòng quanh mặt trời, trái đất quay 365 và 1/4 vòng quanh trục. Chuyển động quay quanh mặt trời tạo nên bốn mùa, chuyển động quay quanh trục tạo nên ngày và đêm trên trái đất. Trục quay của trái đất không thẳng góc với mặt phẳng quỹ đạo, bởi thế chúng ta có mùa đông và mùa hè. Trái đất quay, vì thế đối với chúng ta đứng trên trái đất có vẻ như các vì sao cố định được gắn chặt với quả cầu bầu trời quay xung quanh chúng ta. Chuyển động quay của trái đất không quá nhanh để lực ly tâm của nó có thể bắn chúng ta ra ngoài không gian. Lực ly tâm tác dụng lên mọi vật cùng quay theo trái đất, nhưng vô cùng nhỏ. Lực ly tâm lớn nhất ở xích đạo nó kéo mọi vật thể lên phía trên và làm chúng nhẹ đi chút ít. Vì thế, mọi vật thể ở xích đạo cân nhẹ hơn năm phần ngàn so với ở hai cực. Hậu quả của chuyển động quay làm cho trái đất không còn đúng là quả cầu tròn đều nữa mà lực ly tâm làm cho nó phình ra ở xích đạo một chút. Sự sai khác này thực ra không đáng kể, bán kính trái đất ở xích đạo là 6.378.140km, lớn hơn khoảng cách từ 2 cực đến tâm trái đất là gần 22km.</para>
+      <para id="id11318496">Sự sống và các đại dương có khả năng tạo ra sự sống chỉ hiện hữu duy nhất trên trái đất. Trên các hành tinh khác gần chúng ta nhất như sao Kim thì quá nóng và sao Hỏa quá lạnh. Nước trên sao Kim nay đã bốc thành hơi nước, còn nước trên sao Hoả đã đóng thành băng bên dưới bề mặt của nó. Chỉ có hành tinh của chúng ta là phù hợp cho nước ở thể lỏng với nhiệt độ từ 0 đến 100oC. Xung quanh trái đất có lớp khí quyển dày khoảng H = 800 km chứa N2, O2, H2O, CO2, NOx, H2, He, Ar, Ne. Áp suất và khối lượng riêng của khí quyển giảm dần với độ cao y theo quy luật:</para>
+      <para id="id11318584"> p(y) = p0.(1 - (g/(Cp.T0)).y)Cp/R </para>
+      <para id="id11318630">(y) = 0(1 - (g/(Cp.T0)).y)Cv/R.</para>
+      <para id="id11318687">Khí quyển tác động đến nhiệt độ trên hành tinh của chúng ta. Các vụ phun trào núi lửa cùng với các hoạt động của con người làm ảnh hưởng đến các thành phần cấu tạo của khí quyển. Vì thế, hệ sinh thái trên hành tinh chúng ta là kết quả của sự cân bằng mong manh giữa các ảnh hưởng khác nhau. Trong quá khứ, hệ sinh thái này là một hệ thống cân bằng tự điều chỉnh, nhưng ngày nay do tác động của con người có thể đang là nguyên nhân làm vượt qua trạng thái cân bằng này.</para>
+      <para id="id11318711">Lớp không khí bao quanh trái đất có thể tích khoảng 270 triệu km3 và nặng khoảng 5.300 tỷ tấn đè lên thân thể chúng ta. Những gì mà chúng ta cảm nhận được chỉ xảy ra trong tầng thấp nhất, cao khoảng 18km của cột không khí khổng lồ này, tuy nhiên, phần nhỏ này lại đóng vai trò quan trọng nhất đối với sự sống trên hành tinh của chúng ta.</para>
+      <para id="id11318740">Trong không khí chứa khoảng 78% phân tử nitơ và 21% oxy cùng với 1% argon và một số chất khí khác và hơi nước trong đó có khoảng 0,03% khí cácbonic. Mặc dầu hàm lượng khí cácbonic rất nhỏ, nhưng lại đóng một vai trò quan trọng đối với sự sống trên trái đất. </para>
+      <para id="id11318758"> Càng lên cao áp suất không khí giảm và nhiệt độ cũng thay đổi rất nhiều, tuy nhiên nhiệt độ của không khí không hạ xuống một cách đơn giản khi chúng ta tiến ra ngoài không gian, nhiệt độ không khí giảm và tăng theo một chu trình nhất định. Nhiệt độ ở mỗi tầng tương ứng với mức tích tụ và loại năng lượng tác động trong tầng đó.</para>
+      <para id="id11318776"><figure id="id11318801"><media id="id3840960" alt=""><image src="graphics7.jpg" mime-type="image/jpeg" height="420" width="541"/></media></figure>Hình 1.10. Sự thay đổi nhiệt độ theo độ cao của các tầng khí quyển Khí quyển của trái đất có thể chia làm 4 tầng, trong đó mỗi tầng có một kiểu cân bằng năng lượng khác nhau. Tầng dưới cùng nhất gọi là tầng đối lưu (Troposphere) tầng này bị chi phối bởi ánh sáng khả kiến và </para>
+      <para id="id11318860">tia hồng ngoại, gần 95% tổng số khối lượng và toàn bộ nước trong khí quyển phân bố trong tầng này tầng đối lưu cao chỉ khoảng 14km. Gần như toàn bộ sự trao đổi năng lượng giữa khí quyển và trái đất xảy ra trong tầng này. Mặt đất và mặt biển bị hâm nóng lên bởi ánh nắng mặt trời. Nhiệt độ trung bình trên bề mặt trái đất khoảng 15oC, bức xạ nhiệt đóng vai trò điều tiết tự nhiên để giữ cho nhiệt độ trên mặt đất chỉ thay đổi trong một dải tầng hẹp. </para>
+      <para id="id11318891">Theo lý thuyết, càng lên cao nhiệt độ càng giảm T(y) = T0 - (g/Cp).y, nhưng trong thực tế thì không đúng như vậy. Trên tầng đối lưu là tầng bình lưu (Stratosphere), tại đây nhiệt độ bắt đầu tăng trở lại. Nhiệt độ tại vùng chuyển tiếp giữa vùng đối lưu và vùng bình lưu khoảng -50oC, càng lên cao nhiệt độ lại tăng dần, tại ranh giới của tầng bình lưu có độ cao khoảng 50km nhiệt độ tăng lên khoảng 0oC. Nguyên nhân gây ra hiện tượng này là vì các phân tử oxy (O2) và ozon (O3) hấp thụ một phần các tia cực tím đến từ Mặt trời (90% ozon trong khí quyển chứa trong tầng bình lưu). Nếu tất cả các tia cực tím này có thể đến mặt đất thì sự sống trên trái đất có nguy cơ bị hủy diệt. Một phần nhỏ tia cực tím bị hấp thụ bởi O2 trong tầng bình lưu, quá trình này tách một phân tử O2 thành 2 nguyên tử O, một số nguyên tử O phản ứng với phân tử O2 khác để tạo thành O3. Mặc dầu chỉ một phần triệu phân tử trong khí quyển là ozon nhưng các phân tử ít ỏi này có khả năng hấp thụ hầu hết ánh sáng cực tím trước khi chúng đến được mặt đất. Các photon trong ánh sáng cực tím chứa năng lượng lớn gấp 2 đến 3 lần các photon trong ánh sáng khả kiến, chúng là một trong các nguyên nhân gây bệnh ung thư da.</para>
+      <para id="id9348551">Các kết quả nghiên cứu gần đây cho thấy lượng ozon trong tầng thấp nhất của khí quyển (tầng đối lưu) ngày càng tăng, trong khi đó hàm lượng ozon trong tầng bình lưu đã bị giảm 6% từ 20 năm trở lại đây. Hậu quả của sự suy giảm này là các tia cực tím có thể xuyên qua khí quyển đến mặt đất ngày nhiều hơn và làm nhiệt độ trong tầng bình lưu ngày càng lạnh đi, trong khi đó nhiệt độ trong tầng đối lưu ngày một nóng lên do hàm lượng ozon gần mặt đất ngày càng tăng.</para>
+      <para id="id9348571">Trong tầng giữa (Mesosphere), có độ cao từ 50km trở lên, ozon thình lình mỏng ra và nhiệt độ giảm dần và lên đến ranh giới cao nhất của tầng này (khoảng 80km) thì nhiệt độ chỉ khoảng -90oC. </para>
+      <para id="id9348606">Càng lên cao nhiệt độ bắt đầu tăng trở lại và sự cấu tạo của khí quyển thay đổi hoàn toàn. Trong khi ở tầng dưới các quá trình cơ học và trong tầng giữa các quá trình hoá học xảy ra rất tiêu biểu, thì trong tầng cao nhất của khí quyển các quá trình diễn ra rất khác biệt. Nhiệt lượng bức xạ rất mạnh của mặt trời làm tách các phân tử ra để tạo thành các ion và electron. Vì thế người ta gọi tầng này là tầng điện ly (Ionosphere) các sóng điện từ bị phản xạ trong tầng này. </para>
+      <para id="id9348637">Càng lên cao, bức xạ mặt trời trời càng mạnh, ở độ cao khoảng 600km, nhiệt độ lên đến 1000oc. càng lên cao khí quyển càng mỏng và không có một ranh giới rõ ràng phân biệt gữa khí quyển của trái đất và không gian. người ta thống nhất rằng khí quyển chuẩn của trái đất có độ cao 800km.</para>
+    </section>
+  </content>
+</document>

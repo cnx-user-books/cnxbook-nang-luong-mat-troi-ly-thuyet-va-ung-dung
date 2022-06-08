@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Các loại gương phản xạ</title>
+  <metadata>
+  <md:content-id>m30330</md:content-id><md:title>Các loại gương phản xạ</md:title>
+  <md:abstract>Giới thiệu các loại gương phản xạ</md:abstract>
+  <md:uuid>1237bd6d-698b-4cac-8c99-377a5e2a3d92</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-610131181892">
+      <title>CÁC LOẠI GƯƠNG PHẢN XẠ</title>
+      <para id="id10052470">Để tập trung năng lượng bức xạ chiếu tới mặt thu Ft, nhằm nâng cao nhiệt độ của Ft và môi chất tiếp xúc nó, người ta dùng thêm các gương phản xạ.</para>
+      <para id="id10052500">Gương phản xạ là các bề mặt nhẵn bóng, coi là vật đục D = 0, có hệ số hấp thụ A bé, và hệ số phản xạ R = (1-A) lớn. Gương phản xạ có thể có dạng phẳng, côn, nón, parabol trụ hoặc parabol tròn xoay. Gương phản xạ thường được chế tạo bằng mặt kim loại bóng như inox, nhôm, tôn đánh bóng, hoặc kính hay plastic có tráng bạc.</para>
+      <para id="id10052515">Đặc trưng của một gương phản xạ bao gồm:</para>
+      <para id="id10052521">- Các thông số hình học và kết cấu.</para>
+      <para id="id10307679">- Độ phản xạ R, điều kiện đê mặt thu có thể hứng toàn bộ phản xạ từ gương.</para>
+      <para id="id10307688">- Độ tập trung năng lượng bức xạ (kí hiệu là k).</para>
+      <para id="id10307695">Độ tập trung năng lượng bức xạ k :</para>
+      <para id="id10307708">-Định nghĩa: Độ tập trung năng lượng bức xạ k của một hệ gương phản xạ và mặt thu, là tỉ số của cường độ bức xạ tới mặt thu Ft trên cường độ bức xạ tới mặt hứng nắng: k = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msub><m:mi>E</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mi>E</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {E rSub { size 8{t} } }  over  {E} } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id10037341"><figure id="id10037367"><media id="id14434126" alt=""><image src="graphics1.wmf" mime-type="image/wmf" height="226" width="399"/></media></figure> Hình 5.1 Hệ gương và mặt thuCường độ bức xạ tới mặt hứng nắng E thường là cường độ bức xạ tới mặt đất nơi đặt thiết bị, tức là cường độ bức xạ lúc trời nắng bình thường, chưa có gương phản xạ.</para>
+      <para id="id3919656">-Lập công thức tính k: cho một hệ gồm mặt thu Ft đặt vuông góc với tia nắng, xung quanh có gương phản xạ với hệ số phản xạ R, D = 0 và mặt hứng nắng diện tích Fh, mặt Fh thường cũng vuông góc với tia nắng (hình 5.1). Giả thiết các gương đặt sao cho toàn bộ các tia phản xạ từ gương được chiếu hết lên mặt thu Ft. Khi đó, công suất bức xạ chiếu đến Ft là:</para>
+      <para id="id10307791">Qt = E. Ft + E.( Fh - Ft).R</para>
+      <para id="id10307836">=E.(1 - R). Ft + E.R.Fh</para>
+      <para id="id10163268">Cường độ bức xạ đến Ft là:</para>
+      <para id="id10163289">Et = Qt/Ft = E.(1 - R) + E.R. Fh/ Ft</para>
+      <para id="id9740658">Do đó, k = Et/E = 1 - R + R. Fh/ Ft = 1 + R.( Fh/ Ft - 1). Nếu coi R  1 thì k  Fh/Ft.</para>
+    </section>
+    <section id="id-890483060769">
+      <title>Gương phẳng</title>
+      <para id="id9909743">Xét gương phẳng BC có hệ số phản xạ R, đặt nghiêng góc  so với mặt thu AB. Dựa vào định luật phản xạ ánh sáng i1 = i2 , có thể tìm được điều kiện để toàn bộ phản xạ từ gương BC chiếu hết lên mặt AB đặt vuông góc với tia nắng là:</para>
+      <para id="id9736284"><figure id="id9736294"><media id="id22005763" alt=""><image src=".wmf" mime-type="image/wmf" height="225" width="268"/></media></figure>Hình 5.2. Mô tả quan hệ (, a, b)  = arcsin
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mrow><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>b</m:mi></m:mrow><m:mn>2a</m:mn></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {a`+`b}  over  {2a} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id10212841">Vì sin &lt; 1 nên phải có b &lt; a và 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {4} } } {}</m:annotation></m:semantics></m:math>&lt;  &lt;
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {2} } } {}</m:annotation></m:semantics></m:math>.</para>
+      <para id="id10134167">Khi đó chiều rộng gương bằng:</para>
+      <para id="id7254485">f = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>b</m:mi><m:mrow><m:mtext>cos</m:mtext><m:mi>γ</m:mi></m:mrow></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mi>b</m:mi><m:msqrt><m:mfrac><m:mn>2a</m:mn><m:mrow><m:mi>a</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>b</m:mi></m:mrow></m:mfrac></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {b}  over  {"cos"γ} } ``=```b sqrt { {  {2a}  over  {a` - `b} } } } {}</m:annotation></m:semantics></m:math></para>
+      <para id="id9883308">Và độ tập trung năng lượng k = 1 + R.(b/a). Do đó, nếu dùng một gương phẳng thì 1&lt;k&lt;2, nếu dùng bốn gương phẳng cùng phản xạ lên một mặt thu hình vuông thì có 1&lt;k&lt;5. </para>
+      <para id="id9883320">Hình 5.3, 5.4 giới thiệu sơ đồ 1 nhà máy điện mặt trời, trong đó dùng hệ thống gương phẳng, được điều khiển bằng máy tính, tập trung năng lượng vào một lò hơi đặt trên cao, trong 1 lồng kính, để cấp hơi cho 1 turbine phát điện.</para>
+      <para id="id9883334"><figure id="id9883345"><media id="id11275346" alt=""><image src=".wmf" mime-type="image/wmf" height="395" width="554"/></media></figure>Hình 5.3. Sơ đồ nhà máy điện mặt trời dùng hệ gương phản xạ.</para>
+      <para id="id9909168">
+        <figure id="id9909193">
+          <media id="id20885974" alt=""><image src="graphics2.jpg" mime-type="image/jpeg" height="375" width="563"/></media>
+        </figure>
+      </para>
+      <para id="id10049932">Hình 5.4. Nhà máy điện mặt trời dùng hệ gương phản xạ.</para>
+    </section>
+    <section id="id-467617801896">
+      <title>Gương nón</title>
+      <section id="id-298490628173">
+        <title>Gương nón cụt</title>
+        <para id="id10049958">Gương nón cụt thường dùng để phản xạ lên mặt thu phẳng đặt tại đáy nón, luôn được quay để vuông góc với tia nắng. </para>
+        <para id="id10049968"><figure id="id10049978"><media id="id10199928" alt=""><image src=".wmf" mime-type="image/wmf" height="311" width="235"/></media></figure>Hình 5.5. Quan hệ ( Rh, Rt)Điều kiện để 100% phản xạ từ gương đến mặt thu là:</para>
+        <para id="id9885123"> = arcsin
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msqrt><m:mfrac><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:msub><m:mn>4R</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac></m:msqrt></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { {  {R rSub { size 8{h} } `+`R rSub { size 8{t} } }  over  {4R rSub { size 8{t} } } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9827066">Khi đó Rh &lt; 3Rt và độ tập trung bằng: </para>
+        <para id="id10328154">k = 1+ R
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mi/></m:mrow></m:mfenced><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mi/><m:mfenced open="[" close="]"><m:mrow><m:msup><m:mfenced open="" close=""><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>2</m:mn><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Cos</m:mtext></m:mrow></m:mstyle><m:mn>2γ</m:mn></m:mrow></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {F rSub { size 8{h} } }  over  {F rSub { size 8{t} } } } ` - `1` right )`=`1`+`R` left [ left (1` - `2 ital "Cos"2γ right ) rSup { size 8{2} } ` - `1 right ]} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10037428">Vì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>4</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {4} } } {}</m:annotation></m:semantics></m:math>&lt;  &lt;
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>π</m:mi><m:mn>2</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {π}  over  {2} } } {}</m:annotation></m:semantics></m:math> nên khi dùng gương nón cụt thì 1&lt; k &lt; 9. Đường sinh của nón cụt tính theo:</para>
+        <para id="id9908841">f = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mrow><m:mfrac><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow><m:mrow><m:mtext>cos</m:mtext><m:mi>γ</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn></m:mrow><m:mfenced open="" close=""><m:mrow><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfenced><m:msqrt><m:mfrac><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:mrow><m:msub><m:mn>3R</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>R</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub></m:mrow></m:mfrac></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {R rSub { size 8{h} }  - R rSub { size 8{t} } }  over  {"cos"γ} } =2 left (R rSub { size 8{h} }  - R rSub { size 8{t} }  right ) sqrt { {  {R rSub { size 8{h} } }  over  {3R rSub { size 8{t} }  - R rSub { size 8{h} } } } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9736990">với Rh&lt; 3Rt.</para>
+      </section>
+      <section id="id-360626178949">
+        <title>Gương nón</title>
+        <para id="id9737013">Gương nón được dùng để phản xạ lên mặt thu hình ống trụ đặt tại trục nón. Tùy theo góc đỉnh nón nhỏ hơn, bằng hoặc lớn hơn 450, chiều cao H của ống thu bức xạ hình trụ có thể nhỏ hơn, bằng hoặc lớn hơn chiều cao h của nón, như mô tả trên hình 5.6.</para>
+        <para id="id9737040"><figure id="id9792810"><media id="id23159681" alt=""><image src=".wmf" mime-type="image/wmf" height="269" width="532"/></media></figure>Hình 5.6. Gương nón với mặt thu hình ống trụ </para>
+        <para id="id9792871">Chiều cao H thích hợp của ống thu, cho phép nhận toàn bộ phản xạ từ gương nón có chiều cao h, góc đỉnh  là: H = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mi>h</m:mi><m:mn>2</m:mn></m:mfrac><m:mfenced open="" close=""><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>tg</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mi>γ</m:mi></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {h}  over  {2} }  left (1`+` ital "tg" rSup { size 8{2} } γ right )} {}</m:annotation></m:semantics></m:math> với tg = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>h</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {r}  over  {h} } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10773709">Nếu chọn gương nón cao h, bán kính r, thì chiều cao mặt thu hình trụ là:</para>
+        <para id="id10773717">
+          <m:math>
+            <m:semantics>
+              <m:mrow>
+                <m:mstyle fontsize="12pt">
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mi>H</m:mi>
+                      <m:mrow>
+                        <m:mi/>
+                        <m:mo stretchy="false">=</m:mo>
+                        <m:mi/>
+                      </m:mrow>
+                      <m:mfrac>
+                        <m:mn>1</m:mn>
+                        <m:mn>2h</m:mn>
+                      </m:mfrac>
+                      <m:mi/>
+                      <m:mfenced open="" close="">
+                        <m:mrow>
+                          <m:msup>
+                            <m:mi>h</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                          <m:mrow>
+                            <m:mi/>
+                            <m:mo stretchy="false">+</m:mo>
+                            <m:mi/>
+                          </m:mrow>
+                          <m:msup>
+                            <m:mi>r</m:mi>
+                            <m:mstyle fontsize="8pt">
+                              <m:mrow>
+                                <m:mn>2</m:mn>
+                              </m:mrow>
+                            </m:mstyle>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mfenced>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mstyle>
+                <m:mrow/>
+              </m:mrow>
+              <m:annotation encoding="StarMath 5.0"> size 12{H`=` {  {1}  over  {2h} } ` left (h rSup { size 8{2} } `+`r rSup { size 8{2} }  right )} {}</m:annotation>
+            </m:semantics>
+          </m:math>
+        </para>
+        <para id="id9911564">Khi r &lt; h tức là  &lt; 450 thì H &lt; h</para>
+        <para id="id9782302">Khi r = h tức là  = 450 thì H = h</para>
+        <para id="id9782328">Khi r &gt; h tức là  &gt; 450 thì H &gt; h</para>
+        <para id="id9782354">Độ tập trung năng lượng của gương nón là:</para>
+        <para id="id9782359">k = 1+ R
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>h</m:mi></m:mrow></m:mstyle></m:msub><m:msub><m:mi>F</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mi>t</m:mi></m:mrow></m:mstyle></m:msub></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mi/></m:mrow></m:mfenced><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dH</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="" close=""><m:mrow><m:mfrac><m:msup><m:mn>2r</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dh</m:mtext></m:mrow></m:mstyle></m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>Cos</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mi>γ</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {F rSub { size 8{h} } }  over  {F rSub { size 8{t} } } } ` - `1` right )`=`1`+`R left ( {  {r rSup { size 8{2} } }  over  { ital "dH"} } ` - `1 right )`=`1`+`R left ( {  {2r rSup { size 8{2} } }  over  { ital "dh"} }  ital "Cos" rSup { size 8{2} } γ` - `1 right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9894376">
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="[" close="]"><m:mrow><m:mfrac><m:mrow><m:msup><m:mn>2r</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi>h</m:mi></m:mrow><m:mrow><m:mi>d</m:mi><m:mfenced open="" close=""><m:mrow><m:msup><m:mi>r</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mi>h</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfenced></m:mrow></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k`=`1`+`R left [ {  {2r rSup { size 8{2} } h}  over  {d left (r rSup { size 8{2} } `+`h rSup { size 8{2} }  right )} } ` - `1 right ]} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9888671">Nếu gọi t = tg
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>γ</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>h</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{γ`=` {  {r}  over  {h} } } {}</m:annotation></m:semantics></m:math> thì 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="[" close="]"><m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac><m:mfenced open="" close=""><m:mfrac><m:mn>2t</m:mn><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mi>t</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mfrac></m:mfenced><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k`=`1`+`R left [ {  {r}  over  {d} }  left ( {  {2t}  over  {1`+`t rSup { size 8{2} } } }  right )` - `1 right ]} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9911625">Suy ra kmax = k (t = 1) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k`=`1`+`R left ( {  {r}  over  {d} } `` - ``1 right )} {}</m:annotation></m:semantics></m:math> , đạt được khi chọn r = h hay</para>
+        <para id="id9911735"> = 450, khi R = 1 thì kmax = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {r}  over  {d} } } {}</m:annotation></m:semantics></m:math>. Khi tăng r và giảm d, độ tập trung k sẽ khá lớn.</para>
+      </section>
+    </section>
+    <section id="id-44545207306">
+      <title>Gương Parabol</title>
+      <section id="id-578128387287">
+        <title>Gương Paraol tròn xoay</title>
+        <para id="id9786359">Xét gương parabol tròn xoay do đường parabol y = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mn>4f</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } }  over  {4f} } } {}</m:annotation></m:semantics></m:math> quay quanh trục y tạo ra. </para>
+        <para id="id9782007"><figure id="id9782018"><media id="id17800710" alt=""><image src=".wmf" mime-type="image/wmf" height="183" width="353"/></media></figure>Hình 5.7. Anh của mặt trời qua gương parabol</para>
+        <para id="id9782078">Khi quay trục gương theo hướng tia nắng, thì tại gần tiêu điểm F ta thu được ảnh của mặt trời, là một đĩa sáng tròn có đường kính d được xác định theo hệ phương trình:</para>
+        <para id="id9782090">với D = 1,4.109m là đường kính MT, b = 1,5.1011m khoảng cách gương tới MT và f là tiêu cự gương, p khoảng cách ảnh tới gương.
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mo stretchy="true">{</m:mo><m:mtable><m:mtr><m:mtd><m:mrow><m:mfrac><m:mi>d</m:mi><m:mi>D</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mi>p</m:mi><m:mi>b</m:mi></m:mfrac><m:mrow/></m:mrow></m:mtd></m:mtr><m:mtr><m:mtd><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>b</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>p</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>f</m:mi></m:mfrac></m:mrow></m:mtd></m:mtr></m:mtable></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left lbrace  matrix {
+ {  {d}  over  {D} } `=`~ {  {p}  over  {b} }  {} ##
+ {  {1}  over  {b} } `+` {  {1}  over  {p} } `=` {  {1}  over  {f} } 
+}  right none } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10328403">Giải hệ trên tìm được d và p sẽ được:</para>
+        <para id="id10328410"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>d</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>Df</m:mtext></m:mrow></m:mstyle><m:mrow><m:mi>b</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>f</m:mi></m:mrow></m:mfrac><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mi>d</m:mi><m:mi>b</m:mi></m:mfrac><m:mi/><m:mi>f</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>0,</m:mn><m:mtext>0093</m:mtext><m:mi>f</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:msup><m:mtext>10</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow></m:mrow></m:mstyle></m:msup><m:mi>f</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{d`=` {  { ital "Df"}  over  {b` - `f} } =` {  {d}  over  {b} } `f`=`0,"0093"f`=`"10" rSup { size 8{ - 2} } f} {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id9856197"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>p</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mi>b</m:mi><m:mrow><m:mi>b</m:mi><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mi>f</m:mi></m:mrow></m:mfrac><m:mi>f</m:mi></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{p`=` {  {b}  over  {b` - `f} } f} {}</m:annotation></m:semantics></m:math>, tức ảnh MT đặt tại tiêu điểm F, có đường kính d = 10-2f. Do đó mặt thu cần đặt tại tiêu điểm của gương, có đường kính d  10-2f.</para>
+        <para id="id10005119">Nếu mặt thu hình cầu đường kính d, gương parabol có bán kính r, thì hệ số tập trung là:</para>
+        <para id="id10005127"><m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>k</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="[" close="]"><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{k`=`1`+`R left [ left ( {  {r}  over  {d} }  right ) rSup { size 8{2} } ` - `1 right ]} {}</m:annotation></m:semantics></m:math>  kmax = k(R=1) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {r}  over  {d} }  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id10669424">Khi tăng r và giảm d đến 10-2f, thì k sẽ rất lớn tùy ý. Ví dụ: chọn Fh = 1m2 hay 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>r</m:mi><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mn>1</m:mn><m:msqrt><m:mi>π</m:mi></m:msqrt></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r`=` {  {1}  over  { sqrt {π} } } } {}</m:annotation></m:semantics></m:math>m, f = 0,2m, R = 1thì d = 0,002m và k = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>r</m:mi><m:mi>d</m:mi></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ left ( {  {r}  over  {d} }  right ) rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>= 79577; khi chọn tiêu cự f = 0,1m có k = 318310 lần.</para>
+        <para id="id10019899"><figure id="id10019910"><media id="id15892769" alt=""><image src=".wmf" mime-type="image/wmf" height="378" width="248"/></media></figure>Hình 5.8. Gương parabol trụ</para>
+      </section>
+      <section id="id-789466401419">
+        <title>Gương parabol trụ</title>
+        <para id="id10019965">Xét gương parabol trụ rộng 2r, dài L tập trung phản xạ vào mặt thu hình ống trụ đường kính d đặt tại tiêu điểm, thì độ tập trung là: </para>
+        <para id="id10019976">k = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mi>R</m:mi><m:mfenced open="" close=""><m:mrow><m:mfrac><m:mn>2r</m:mn><m:mi fontstyle="italic">πd</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">−</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1`+`R left ( {  {2r}  over  {πd} } ` - `1 right )} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10200556"> kmax = k(R = 1, d = 10-2f) = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>2r</m:mn><m:mi fontstyle="italic">πd</m:mi></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mfrac><m:mrow><m:mtext>200</m:mtext><m:mi>r</m:mi></m:mrow><m:mi fontstyle="italic">πf</m:mi></m:mfrac></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {2r}  over  {πd} } `=` {  {"200"r}  over  {πf} } } {}</m:annotation></m:semantics></m:math>.</para>
+        <para id="id10163390">Nếu chọn r = 0,5m và f = 0,2m thì kmax =159lần.</para>
+        <para id="id10163407">Loại gương này dễ chế tạo, bằng cách uốn tấm tôn phẳng theo đường parabol y = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mn>4f</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } }  over  {4f} } } {}</m:annotation></m:semantics></m:math> .</para>
+        <para id="id9893082"><figure id="id9893092"><media id="id19227805" alt=""><image src=".wmf" mime-type="image/wmf" height="186" width="256"/></media></figure>Hình 5.9. Để tính s</para>
+        <para id="id9893138">Để có 1 mặt parabol trụ y = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mfrac><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mn>4f</m:mn></m:mfrac></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {x rSup { size 8{2} } }  over  {4f} } } {}</m:annotation></m:semantics></m:math> có tiêu cự f, độ rộng r, cần uốn 1 tấm tôn có độ dài s tính theo công thức sau:</para>
+        <para id="id9895461">Do: ds = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:msqrt><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>dx</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:msup><m:mtext>dy</m:mtext><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:mstyle></m:mrow></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">=</m:mo><m:mi/></m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle><m:mtext>.</m:mtext><m:msqrt><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dy</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ sqrt { ital "dx" rSup { size 8{2} } `+` ital "dy" rSup { size 8{2} } } `=` ital "dx" "."  sqrt {1`+` left ( {  { ital "dy"}  over  { ital "dx"} }  right ) rSup { size 8{2} } } } {}</m:annotation></m:semantics></m:math></para>
+        <para id="id9786239"> s = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow><m:msqrt><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dy</m:mtext></m:mrow></m:mstyle><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow><m:mi/></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 Int cSub { size 8{0} }  cSup { size 8{r} }  { sqrt {1`+` left ( {  { ital "dy"}  over  { ital "dx"} }  right ) rSup { size 8{2} } } ``` ital "dx"} `} {}</m:annotation></m:semantics></m:math>= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mn>2</m:mn><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:munderover><m:mrow/></m:mrow><m:msqrt><m:mrow><m:mn>1</m:mn><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mfenced open="" close=""><m:mfrac><m:mn>2x</m:mn><m:mn>4f</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mi/></m:mrow></m:msqrt><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 Int cSub { size 8{0} }  cSup { size 8{r} }  {}  sqrt {1`+` left ( {  {2x}  over  {4f} }  right ) rSup { size 8{2} } ``} ``` ital "dx"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10134477">= 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mfrac><m:mn>1</m:mn><m:mi>f</m:mi></m:mfrac><m:mrow><m:munderover><m:mo stretchy="false">∫</m:mo><m:mstyle fontsize="8pt"><m:mrow><m:mn>0</m:mn></m:mrow></m:mstyle><m:mstyle fontsize="8pt"><m:mrow><m:mi>r</m:mi></m:mrow></m:mstyle></m:munderover><m:msqrt><m:mrow><m:msup><m:mi>x</m:mi><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msup><m:mn>4f</m:mn><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup></m:mrow></m:msqrt></m:mrow><m:mi/><m:mstyle fontstyle="italic"><m:mrow><m:mtext>dx</m:mtext></m:mrow></m:mstyle></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {  {1}  over  {f} }  Int cSub { size 8{0} }  cSup { size 8{r} }  { sqrt {x rSup { size 8{2} } `+`4f rSup { size 8{2} } } } ``` ital "dx"} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10192797">Vậy s = 
+<m:math><m:semantics><m:mrow><m:mstyle fontsize="12pt"><m:mrow><m:mrow><m:mi>r</m:mi><m:msqrt><m:mrow><m:mi/><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>r</m:mi><m:mn>2f</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:msqrt><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>2f</m:mn><m:mtext>ln</m:mtext><m:mfenced open="[" close="]"><m:mrow><m:mfrac><m:mi>r</m:mi><m:mn>2f</m:mn></m:mfrac><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:msqrt><m:mrow><m:mi/><m:msup><m:mfenced open="" close=""><m:mfrac><m:mi>r</m:mi><m:mn>2f</m:mn></m:mfrac></m:mfenced><m:mstyle fontsize="8pt"><m:mrow><m:mn>2</m:mn></m:mrow></m:mstyle></m:msup><m:mrow><m:mi/><m:mo stretchy="false">+</m:mo><m:mi/></m:mrow><m:mn>1</m:mn></m:mrow></m:msqrt></m:mrow></m:mfenced></m:mrow></m:mrow></m:mstyle><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r sqrt {`` left ( {  {r}  over  {2f} }  right ) rSup { size 8{2} } `+`1} `+`2f"ln" left [ {  {r}  over  {2f} } `+` sqrt {`` left ( {  {r}  over  {2f} }  right ) rSup { size 8{2} } `+`1}  right ]} {}</m:annotation></m:semantics></m:math></para>
+        <para id="id10160560">Ví dụ: để có parabol trụ với r = 0,5m, f = 0,2m cần tấm tôn dài s = 1219,43mm.</para>
+        <para id="id10160567">
+          <figure id="id10160592">
+            <media id="id9767929" alt=""><image src="graphics3.jpg" mime-type="image/jpeg" height="360" width="571"/></media>
+          </figure>
+        </para>
+        <para id="id10160617">Hình 5.10. Hệ thống nhiệt năng lượng mặt trời dùng gương phản xạ.</para>
+      </section>
+    </section>
+  </content>
+</document>

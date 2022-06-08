@@ -1,0 +1,93 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Thiết bị sử dụng năng lượng mặt trời</title>
+  <metadata>
+  <md:content-id>m30730</md:content-id><md:title>Thiết bị sử dụng năng lượng mặt trời</md:title>
+  <md:abstract>Giới thiệu các thiết bị sử dụng năng lượng mặt trời</md:abstract>
+  <md:uuid>e3302db9-d837-46cd-bd84-9267cf2de44b</md:uuid>
+</metadata>
+
+<content>
+    <section id="id-116841276767">
+      <title>THIẾT BỊ SỬ DỤNG NĂNG LƯỢNG MẶT TRỜI</title>
+      <para id="id9645790">
+        <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that added as a byproduct of the word importer.-->
+      </para>
+    </section>
+    <section id="id-00238202395855">
+      <title>Tổng quan về thiết bị sử dụng năng lượng mặt trời</title>
+      <para id="id9645809">Năng lượng mặt trời là nguồn năng lượng mà con người biết sử dụng từ rất sớm, nhưng ứng dụng NLMT vào các công nghệ sản xuất và trên quy mô rộng thì mới chỉ thực sự vào cuối thế kỷ 18 và cũng chủ yếu ở những nước nhiều năng lượng mặt trời, những vùng sa mạc. Từ sau các cuộc khủng hoảng năng lượng thế giới năm 1968 và 1973, NLMT càng được đặc biệt quan tâm. Các nước công nghiệp phát triển đã đi tiên phong trong việc nghiên cứu ứng dụng NLMT. Các ứng dụng NLMT phổ biến hiện nay bao gồm các lĩnh vực chủ yếu sau:</para>
+      <section id="id-997215079316">
+        <title>Pin mặt trời</title>
+        <figure id="id9645824">
+          <media id="id1167779921279" alt=""><image src="../../media/graphics1-e1de.png" mime-type="image/png" height="374" width="260"/></media>
+        </figure>
+        <para id="id9562079">Pin mặt trời là phương pháp sản xuất điện trực tiếp từ NLMT qua thiết bị biến đổi quang điện. Pin mặt trời có ưu điểm là gọn nhẹ có thể lắp bất kỳ ở đâu có ánh sáng mặt trời, đặc biệt là trong lĩnh vực tàu vũ trụ. Ứng dụng NLMT dưới dạng này được phát triển với tốc độ rất nhanh, nhất là ở các nước phát triển. Ngày nay con người đã ứng dụng pin NLMT để chạy xe thay thế dần nguồn năng lượng truyền thống.</para>
+        <para id="id9562093">Tuy nhiên giá thành thiết bị pin mặt trời còn khá cao, trung bình hiện nay khoảng 5USD/WP, nên ở những nước đang phát triển pin mặt trời hiện mới chỉ có khả năng duy nhất là cung cấp năng lượng điện sử dụng cho các vùng sâu, xa nơi mà đường điện quốc gia chưa có. </para>
+        <para id="id9562121">Ở Việt Nam, với sự hỗ trợ của một số tổ chức quốc tế đã thực hiện thành công việc xây dựng các trạm pin mặt trời có công suất khác nhau phục vụ nhu cầu sinh hoạt và văn hoá của các địa phương vùng sâu, vùng xa, nhất là đồng bằng sông Cửu Long và Tây Nguyên. Tuy nhiên hiện nay pin mặt trời vẫn đang còn là món hàng xa xỉ đối với các nước nghèo như chúng ta. </para>
+      </section>
+      <section id="id-410080505265">
+        <title>Nhà máy nhiệt điện sử dụng năng lượng mặt trời </title>
+        <figure id="id9698325">
+          <media id="id3377433" alt=""><image src="../../media/graphics2-07c6.png" mime-type="image/png" height="270" width="293"/></media>
+        </figure>
+        <para id="id9698349">Điện năng còn có thể tạo ra từ NLMT dựa trên nguyên tắc tạo nhiệt độ cao bằng một hệ thống gương phản chiếu và hội tụ để gia nhiệt cho môi chất làm việc truyền động cho máy phát điện. </para>
+        <para id="id9698358">Hiện nay trong các nhà máy nhiệt điện sử dụng NLMT có các loại hệ thống bộ thu chủ yếu sau đây:</para>
+        <para id="id9698366">Hệ thống dùng parabol trụ để tập trung tia bức xạ mặt trời vào một ống môi chất đặt dọc theo đường hội tụ của bộ thu, nhiệt độ có thể đạt tới 400oC.</para>
+        <para id="id9698388">Hệ thống nhận nhiệt trung tâm bằng cách sử dụng các gương phản xạ có định vị theo phương mặt trời để tập trung NLMT đến bộ thu đặt trên đỉnh tháp cao, nhiệt độ có thể đạt tới trên 1500oC.</para>
+        <para id="id9661076"><figure id="id9661101"><media id="id1167780068787" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="215" width="287"/></media></figure>Hỗnh 3.3 Tháp năng lượng Mặt trờiHệ thống sử dụng gương parabol tròn xoay định vị theo phương mặt trời để tập trung NLMT vào một bộ thu đặt ở tiêu điểm của gương, nhiệt độ có thể đạt trên 1500oC. </para>
+        <para id="id9646425">Hiện nay người ta còn dùng năng lượng mặt trời để phát điện theo kiểu “ tháp năng lượng mặt trời - Solar power tower “. Australia đang tiến hành dự án xây dựng một tháp năng lượng mặt trời cao 1km với 32 tuốc bin khí có tổng công suất 200 MW. Dự tính rằng đến năm 2006 tháp năng lượng mặt trời này sẽ cung cấp điện mỗi năm 650GWh cho 200.000 hộ gia đình ở miền tây nam New South Wales - Australia, và sẽ giảm được 700.000 tấn khí gây hiệu ứng nhà kính trong mỗi năm.</para>
+      </section>
+      <section id="id-867861041916">
+        <title>Hình 3. 4. Thiết bị sấy NLMTThiết bị sấy khô dùng năng lượng mặt trời</title>
+        <para id="id9511297">Hiện nay NLMT được ứng dụng khá phổ biến trong lĩnh nông nghiệp để sấy các sản phẩm như ngũ cốc, thực phẩm ... nhằm giảm tỷ lệ hao hụt và tăng chất lượng sản phẩm. Ngoài mục đích để sấy các loại nông sản, NLMT còn được dùng để sấy các loại vật liệu như gỗ. </para>
+      </section>
+      <section id="id-549600577224">
+        <title>Bếp nấu dùng năng lượng mặt trời</title>
+        <para id="id9511328">Bếp năng lượng mặt trời được ứng dụng rất rộng rãi ở các nước nhiều NLMT như các nước ở Châu Phi. </para>
+        <para id="id9511337"><figure id="id9511362"><media id="id8708372" alt=""><image src="../../media/graphics5.jpg" mime-type="image/jpeg" height="208" width="364"/></media></figure>Hình 3.5. Triển khai bếp nấu cơm bằng NLMT. Ở Việt Nam việc bếp năng lượng mặt trời cũng đã được sử dụng khá phổ biến. Năm 2000, Trung tâm Nghiên cứu thiết bị áp lực và năng lượng mới - Đại học Đà Nẵng đã phối hợp với các tổ chức từ thiện Hà Lan triển khai dự án (30 000 USD) đưa bếp năng lượng mặt trời - bếp tiện lợi (BTL) vào sử dụng ở các vùng nông thôn của tỉnh Quảng Nam, Quảng Ngãi, dự án đã phát triển rất tốt và ngày càng đựơc đông đảo nhân dân ủng hộ. Trong năm 2002, Trung tâm dự kiến sẽ đưa 750 BTL vào sử dụng ở các xã huyện Núi Thành và triển khai ứng dụng ở các khu ngư dân ven biển để họ có thể nấu nước, cơm và thức ăn khi ra khơi bằng NLMT . </para>
+      </section>
+      <section id="id-369010712517">
+        <title>Thiết bị chưng cất nước dùng NLMT</title>
+        <para id="id9761821"><figure id="id9761846"><media id="id4946550" alt=""><image src="../../media/graphics6.jpg" mime-type="image/jpeg" height="213" width="339"/></media></figure>Hình 3.6. Thiết bị chưng cất nước dùng NLMTThiết bị chưng cất nước thường có 2 loại: loại nắp kính phẳng có chi phí cao (khoảng 23 USD/m2), tuổi thọ khoảng 30 năm, và loại nắp plastic có chi phí rẻ hơn nhưng hiệu quả chưng cất kém hơn. </para>
+        <para id="id9031834">Ở Việt Nam đã có đề tài nghiên cứu triển khai ứng dụng thiết bị chưng cất nước NLMT dùng để chưng cất nước ngọt từ nước biển và cung cấp nước sạch dùng cho sinh hoạt ở những vùng có nguồn nước ô nhiễm với thiết bị chưng cất nước NLMT có gương phản xạ đạt được hiệu suất cao tại khoa Công nghệ Nhiệt Điện lạnh-Trường Đại học Bách khoa Đà Nẵng. </para>
+      </section>
+      <section id="id-85364196925">
+        <title>Động cơ Stirling chạy bằng NLMT</title>
+        <para id="id9031868"><figure id="id9031893"><media id="id8684753" alt=""><image src="../../media/graphics7.png" mime-type="image/png" height="232" width="327"/></media></figure>Hình 3.7 Động cơ Stirling dùng NNLMTỨng dụng NLMT để chạy các động cơ nhiệt - động cơ Stirling ngày càng được nghiên cứu và ứng dụng rộng rãi dùng để bơm nước sinh hoạt hay tưới cây ở các nông trại. Ở Việt Nam động cơ Stirling chạy bằng NLMT cũng đã được nghiên cứu chế tạo để triển khai ứng dụng vào thực tế. Như động cơ Stirling, bơm nước dùng năng lượng mặt trời.</para>
+        <para id="id9555175"><figure id="id9555200"><media id="id1167779854875" alt=""><image src="../../media/graphics8.jpg" mime-type="image/jpeg" height="248" width="300"/></media></figure>Hình 3.8. Bơm nước chạy bằng NLMT</para>
+      </section>
+      <section id="id-534427587426">
+        <title>Thiết bị đun nước nóng bằng NLMT </title>
+        <para id="id11308944">Hình 3.9 Hệ thống cung cấp nước nóng dùng NLMT<figure id="id11308982"><media id="id8683609" alt=""><image src=".jpg" mime-type="image/jpeg" height="209" width="315"/></media></figure><figure id="id11309005"><media id="id4894677" alt=""><image src=".jpg" mime-type="image/jpeg" height="210" width="260"/></media></figure>Ứng dụng đơn giản, phổ biến và hiệu quả nhất hiện nay của NLMT là dùng để đun nước nóng. Các hệ thống nước nóng dùng NLMT đã được dùng rộng rãi ở nhiều nước trên thế giới. </para>
+        <para id="id11309039">Ở Việt Nam hệ thống cung cấp nước nóng bằng NLMT đã và đang được ứng dụng rộng rãi ở Hà Nội, Thành phố HCM và Đà Nẵng (hình 1.2). Các hệ thống này đã tiết kiệm cho người sử dụng một lượng đáng kể về năng lượng, góp phần rất lớn trong việc thực hiện chương trình tiết kiệm năng lượng của nước ta và bảo vệ môi trường chung của nhân loại. </para>
+        <para id="id9618826"/>
+        <para id="id9618830">
+          <figure id="id9618841">
+            <media id="id4931303" alt=""><image src=".jpg" mime-type="image/jpeg" height="336" width="341"/></media>
+          </figure>
+          <figure id="id9618864">
+            <media id="id5874910" alt=""><image src=".jpg" mime-type="image/jpeg" height="192" width="264"/></media>
+          </figure>
+          <figure id="id9618888">
+            <media id="id6366670" alt=""><image src=".jpg" mime-type="image/jpeg" height="191" width="264"/></media>
+          </figure>
+        </para>
+        <para id="id9448923">Hệ thống cung cấp nước nóng dùng NLMT hiện nay ở Việt nam cũng như trên thế giới chủ yếu dùng bộ thu cố định kiểu tấm phẳng hoặc dãy ống có cánh nhận nhiệt, với nhiệt độ nước sử dụng 60oC thì hiệu suất của bộ thu khoảng 45%, còn nếu sử dụng ở nhiệt độ cao hơn thì hiệu suất còn thấp.</para>
+      </section>
+      <section id="id-690592358373">
+        <title>Thiết bị làm lạnh và điều hoà không khí dùng NLMT</title>
+        <para id="id9448966"><figure id="id9448991"><media id="id2554434" alt=""><image src="../../media/graphics9.jpg" mime-type="image/jpeg" height="216" width="288"/></media></figure>Hình 3.10. Tủ lạnh dùng pin mặt trời Trong số những ứng dụng của NLMT thì làm lạnh và điều hoà không khí là ứng dụng hấp dẫn nhất vì nơi nào khí hậu nóng nhất thì nơi đó có nhu cầu về làm lạnh lớn nhất, đặc biệt là ở những vùng xa xôi héo lánh thuộc các nước đang phát triển không có lưới điện quốc gia và giá nhiên liệu quá đắt so với thu nhập trung bình của người dân. Với các máy lạnh làm việc trên nguyên lý biến đổi NLMT thành điện năng nhờ pin mặt trời (photovoltaic) là thuận tiện nhất, nhưng trong giai đoạn hiện nay giá thành pin mặt trời còn quá cao. Ngoài ra các hệ thống lạnh còn được sử dụng NLMT dưới dạng nhiệt năng để chạy máy lạnh hấp thụ, loại thiết bị này ngày càng được ứng dụng nhiều trong thực tế, tuy nhiên hiện nay các hệ thống này vẫn chưa được thương mại hóa và sử dụng rộng rãi vì giá thành còn rất cao và hơn nữa các bộ thu dùng trong các hệ thống này chủ yếu là bộ thu phẳng với hiệu suất còn thấp (dưới 45%) nên diện tích lắp đặt bộ thu cần rất lớn chưa phù hợp với yêu cầu thực tế. Ở Việt Nam cũng đã có một số nhà khoa học nghiên cứu tối ưu hoá bộ thu năng lượng mặt trời kiểu hộp phẳng mỏng cố định có gương phản xạ để ứng dụng trong kỹ thuật lạnh, với loại bộ thu này có thể tạo được nhiệt độ cao để cấp nhiệt cho máy lạnh hấp thụ, nhưng diện tích mặt bằng cần lắp đặt hệ thống cần phải rộng.</para>
+      </section>
+    </section>
+    <section id="id-873868455625">
+      <title>Hình 3.11 Hệ thống lạnh hấp thụ dùng NLMTHướng nghiên cứu về thiết bị sử dụng năng lượng mặt trời</title>
+      <para id="id9566315">Trong thời đại khoa học kỹ thuật phát triển, nhu cầu về năng lượng ngày càng tăng. Trong khi đó các nguồn nhiên liệu dự trữ như than đá, dầu mỏ, khí thiên nhiên và ngay cả thủy điện thì có hạn khiến cho nhân loại đứng trước nguy cơ thiếu hụt năng lượng. Việc tìm kiếm và khai thác các nguồn năng lượng mới như năng lượng hạt nhân, năng lượng địa nhiệt, năng lượng gió và năng lượng mặt trời là một trong những hướng quan trọng trong kế hoạch phát triển năng lượng, không những đối với những nước phát triển mà ngay cả với những nước đang phát triển. </para>
+      <para id="id9566343">Năng lượng mặt trời (NLMT)- nguồn năng lượng sạch và tiềm tàng nhất - đang được loài người thực sự đặc biệt quan tâm. Do đó việc nghiên cứu nâng cao hiệu quả các thiết bị sử dụng năng lượng mặt trời và triển khai ứng dụng chúng vào thực tế là vấn đề có tính thời sự. </para>
+      <para id="id9566360">Việt Nam là nước có tiềm năng về NLMT, trải dài từ vĩ độ 8” Bắc đến 23” Bắc, nằm trong khu vực có cường độ bức xạ mặt trời tương đối cao, với trị số tổng xạ khá lớn từ 100-175 kcal/cm2.năm (4,2 -7,3GJ/m2.năm) do đó việc sử dụng NLMT ở nước ta sẽ đem lại hiệu quả kinh tế lớn. Thiết bị sử dụng năng lượng mặt trời ở Việt Nam hiện nay chủ yếu là hệ thống cung cấp điện dùng pin mặt trời, hệ thống nấu cơm có gương phản xạ và đặc biệt là hệ thống cung cấp nước nóng kiểu tấm phẳng hay kiểu ống có cánh nhận nhiệt. Nhưng nhìn chung các thiết bị này giá thành còn cao, hiệu suất còn thấp nên chưa được người dân sử dụng rộng rãi. Hơn nữa, do đặc điểm phân tán và sự phụ thuộc vào các mùa trong năm của NLMT, ví dụ: mùa đông thì cần nước nóng nhưng NLMT ít, còn mùa hè không cần nước nóng thì nhiều NLMT do đó các thiết bị sử dụng NLMT chưa có tính thuyết phục. Sự mâu thuẫn đó đòi hỏi chúng ta cần chuyển hướng nghiên cứu dùng NLMT vào các mục đích khác thiết thực hơn như: chưng cất nước dùng NLMT, dùng NLMT chạy các động cơ nhiệt (động cơ Stirling), nghiên cứu hệ thống điều hòa không khí dùng NLMT... Hệ thống lạnh hấp thụ sử dụng NLMT là một đề tài hấp dẫn có tính thời sự đã và đang được nhiều nhà khoa học trong và ngoài nước nghiên cứu, nhưng vấn đề sử dụng bộ thu NLMT nào cho hiệu quả và thực tế nhất thì vẫn còn là một đề tài cần phải nghiên cứu, vì với các bộ thu kiểu tấm phẳng hiện nay nếu sử dụng ở nhiệt độ cao 80  100oC thì hiệu suất rất thấp (&lt;45%) do đó cần có một mặt bằng rất lớn để lắp đặt bộ thu cho một hệ thống điều hòa không khí bình thường.</para>
+      <para id="id9498159">Vấn đề sử dụng NLMT đã được các nhà khoa học trên thế giới và trong nước quan tâm. Mặc dù tiềm năng của NLMT rất lớn, nhưng tỷ trọng năng lượng được sản xuất từ NLMT trong tổng năng lượng tiêu thụ của thế giới vẫn còn khiêm tốn. Nguyên nhân chính chưa thể thương mại hóa các thiết bị và công nghệ sử dụng NLMT là do còn tồn tại một số hạn chế lớn chưa được giải quyết :</para>
+      <para id="id9498173">- Giá thành thiết bị còn cao: vì hầu hết các nước đang phát triển và kém phát triển là những nước có tiềm năng rất lớn về NLMT nhưng để nghiên cứu và ứng dụng NLMT lại đòi hỏi vốn đầu tư rất lớn, nhất là để nghiên cứu các thiết bị làm lạnh và điều hòa không khí bằng NLMT cần chi phí quá cao so với thu nhập của người dân ở các nước nghèo. </para>
+      <para id="id9498196">- Hiệu suất thiết bị còn thấp: nhất là các bộ thu năng lượng mặt trời dùng để cấp nhiệt cho máy lạnh hấp thu cần nhiệt độ cao trên 850C thì các bộ thu phẳng đặt cố định bình thường có hiệu suất rất thấp, do đó thiết bị lắp đặt còn cồng kềnh chưa phù hợp với nhu cầu lắp đặt và về mặt thẩm mỹ. Các bộ thu có gương parabolic hay máng parabolic trụ phản xạ bình thường thì thu được nhiệt độ cao nhưng vấn đề định vị hướng hứng nắng theo phương mặt trời rất phức tạp nên không thuận lợi cho việc vận hành. </para>
+      <para id="id9498222">- Việc triển khai ứng dụng thực tế còn hạn chế: về mặt lý thuyết, NLMT là một nguồn năng lượng sạch, rẻ tiền và tiềm tàng, nếu sử dụng nó hợp lý sẽ mang lại lợi ích kinh tế và môi trường rất lớn. Việc nghiên cứu về lý thuyết đã tương đối hoàn chỉnh. Song trong điều kiện thực tiễn, các thiết bị sử dụng NLMT lại có quá trình làm việc không ổn định và không liên tục, hoàn toàn biến động theo thời tiết, vì vậy rất khó ứng dụng ở quy mô công nghiệp. Đặc biệt là trong kỹ thuật lạnh và điều tiết không khí, vấn đề nghiên cứu đưa ra bộ thu năng lượng mặt trời để cấp nhiệt cho chu trình máy lạnh hấp thụ đã và đang được nhiều nhà khoa học quan tâm nhằm đưa ra bộ thu hoàn thiện và phù hợp nhất để có thể triển khai ứng dụng rộng rãi vào thực tế.</para>
+    </section>
+  </content>
+</document>
