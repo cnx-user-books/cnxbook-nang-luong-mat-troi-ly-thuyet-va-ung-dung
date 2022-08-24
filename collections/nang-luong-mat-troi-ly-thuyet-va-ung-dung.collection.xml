@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col10940</md:content-id>  <md:title>Năng lượng mặt trời, lý thuyết và ứng dụng</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>vi</md:language>              <md:uuid>8761b03f-e1d8-4c5b-a0f2-cdc93214264c</md:uuid>
-<md:slug>nang-luong-mat-troi-ly-thuyet-va-ung-dung</md:slug>
-</metadata>  <col:content>          <col:module document="m30590"/>                            <col:module document="m31098"/>                            <col:module document="m30730"/>                            <col:module document="m30558"/>                            <col:module document="m30330"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="PGS. TS. Nguy&#x1EC5;n B&#x1ED1;n ,TS. Ho&#xE0;ng D&#x1B0;&#x1A1;ng H&#xF9;ng">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10940</md:content-id>
+    <md:title>N&#x103;ng l&#x1B0;&#x1EE3;ng m&#x1EB7;t tr&#x1EDD;i, l&#xFD; thuy&#x1EBF;t v&#xE0; &#x1EE9;ng d&#x1EE5;ng</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>vi</md:language>
+    <md:uuid>8761b03f-e1d8-4c5b-a0f2-cdc93214264c</md:uuid>
+    <md:slug>nang-luong-mat-troi-ly-thuyet-va-ung-dung</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m30590"/>
+    <col:module document="m31098"/>
+    <col:module document="m30730"/>
+    <col:module document="m30558"/>
+    <col:module document="m30330"/>
+  </col:content>
+</col:collection>
